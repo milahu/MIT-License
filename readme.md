@@ -12,7 +12,9 @@ This repository includes translations of the open source license "MIT License Ex
 - [Italian](MIT_License-it.txt)
 - [Russian](MIT_License-ru.txt)
 
-The English license source file was retrieved on (see below for the exact date) from https://en.wikipedia.org/wiki/MIT_License. Use Wikipedia's history page to retrieve the actual source version.
+The English license source file was retrieved from https://en.wikipedia.org/wiki/MIT_License
+
+See also https://github.com/licenses/license-templates/blob/master/templates/mit.txt
 
 Unless otherwise specified, all files in this repository are available under the [Creative Commons Attribution-ShareAlike License CC-A-SA](http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License); additional terms may apply.
 
