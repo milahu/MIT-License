@@ -1,0 +1,125 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="fr">
+  <siteinfo>
+    <sitename>Wikipédia</sitename>
+    <dbname>frwiki</dbname>
+    <base>https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Média</namespace>
+      <namespace key="-1" case="first-letter">Spécial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Discussion</namespace>
+      <namespace key="2" case="first-letter">Utilisateur</namespace>
+      <namespace key="3" case="first-letter">Discussion utilisateur</namespace>
+      <namespace key="4" case="first-letter">Wikipédia</namespace>
+      <namespace key="5" case="first-letter">Discussion Wikipédia</namespace>
+      <namespace key="6" case="first-letter">Fichier</namespace>
+      <namespace key="7" case="first-letter">Discussion fichier</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Discussion MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Modèle</namespace>
+      <namespace key="11" case="first-letter">Discussion modèle</namespace>
+      <namespace key="12" case="first-letter">Aide</namespace>
+      <namespace key="13" case="first-letter">Discussion aide</namespace>
+      <namespace key="14" case="first-letter">Catégorie</namespace>
+      <namespace key="15" case="first-letter">Discussion catégorie</namespace>
+      <namespace key="100" case="first-letter">Portail</namespace>
+      <namespace key="101" case="first-letter">Discussion Portail</namespace>
+      <namespace key="102" case="first-letter">Projet</namespace>
+      <namespace key="103" case="first-letter">Discussion Projet</namespace>
+      <namespace key="104" case="first-letter">Référence</namespace>
+      <namespace key="105" case="first-letter">Discussion Référence</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Discussion module</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Discussion gadget</namespace>
+      <namespace key="2302" case="case-sensitive">Définition de gadget</namespace>
+      <namespace key="2303" case="case-sensitive">Discussion définition de gadget</namespace>
+      <namespace key="2600" case="first-letter">Sujet</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Licence MIT</title>
+    <ns>0</ns>
+    <id>442695</id>
+    <revision>
+      <id>206221974</id>
+      <parentid>200329665</parentid>
+      <timestamp>2023-07-21T15:30:19Z</timestamp>
+      <contributor>
+        <username>Fdeveur</username>
+        <id>4726738</id>
+      </contributor>
+      <minor/>
+      <comment>Ajout rapide de {{portail}} : + droit</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6256" xml:space="preserve">{{Ébauche|informatique}}
+{{Infobox Licence de logiciel
+   | dernière version          = [http://www.opensource.org/licenses/mit-license.php opensource.org]
+   | approuvée par l'OSI       = Oui
+   | compatible GPL            = Oui
+   | identifiant SPDX            = MIT
+}}
+[[Fichier:MIT logo.svg|vignette]]
+La '''licence MIT''' est une [[licence de logiciel]] pour [[logiciel libre|logiciels libres]]&lt;ref&gt;[http://www.gnu.org/licenses/license-list.fr.html#GPLCompatibleLicenses Liste des licences avec commentaires - Les licences de logiciels libres compatibles avec la GPL], projet GNU.&lt;/ref&gt; et ''[[open source]]''&lt;ref name="OSI-MIT"&gt;{{lien web|langue=en|url=http://www.opensource.org/licenses/mit-license.php|titre=''Open Source Initiative OSI - The MIT License:Licensing''|éditeur=Open Source Initiative|consulté le=5 décembre 2010}}.&lt;/ref&gt;, provenant de l'[[Massachusetts Institute of Technology|Institut de technologie du Massachusetts]] (MIT) à la fin des [[années 1980]]. Cette [[licence de logiciel permissive]] implique très peu de limitations sur la réutilisation du code et elle est ainsi compatible avec de nombreuses autres licences.
+
+Le terme « licence MIT » est ambigu, puisque le MIT a utilisé des licences différentes, et le texte exact peut varier selon les publications ([[Free Software Foundation]], [[Open Source Initiative]]). La licence MIT est parfois synonyme de « '''''X11 License''''' » ou « '''''MIT/X Consortium License''''' », d'après le gestionnaire de fenêtre X11 (ou ''[[X Window System]]''). D'autres fois « licence MIT » fait référence à la « '''licence Expat''' » utilisée pour la bibliothèque XML {{lien|langue=en|trad=Expat (library)|fr=Expat}}.
+
+La licence donne à toute personne recevant le logiciel (et ses fichiers) le droit illimité de l'utiliser, le copier, le modifier, le fusionner, le publier, le distribuer, le vendre et  le « sous-licencier » (l'incorporer dans une autre licence). La seule obligation est d'incorporer la notice de  licence et   de [[copyright]] dans toutes les copies.
+
+Elle est très proche de la [[nouvelle licence BSD]], seule la dernière clause diffère. Elle est compatible avec la ''[[Licence publique générale GNU|GNU General Public License]]''.
+
+== Modèle de la licence X11 ==
+{{ancre|Licence X11}}
+Le modèle de la licence X11 est l'un des modèles de licences du MIT. Son texte&lt;ref&gt;{{en}} [[commons:Template:X11|Modèle de la licence X11]].&lt;/ref&gt; en anglais se présente ainsi :
+
+----
+{{Citation étrangère bloc|langue=en|Copyright © &lt;date&gt;, &lt;copyright holders&gt;
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders ''X'' be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the Software.
+
+Except as contained in this notice, the name of the &lt;copyright holders&gt; shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from the &lt;copyright holders&gt;.}}
+----
+
+== Modèle de la licence Expat ==
+{{ancre|Licence Expat}}
+Le modèle de la licence Expat est l'un des modèles de licences du MIT. On l'appelle parfois de manière ambiguë la licence du MIT&lt;ref&gt;[http://www.gnu.org/licenses/license-list.fr.html#Expat La licence Expat].&lt;/ref&gt;, comme la licence X11. L'[[Open Source Initiative]]&lt;ref name="OSI-MIT"/&gt; et le project SPDX ([http://spdx.org/ Software Package Data Exchange])&lt;ref name="SPDX-MIT"&gt;{{lien web|langue=en|url=http://spdx.org/licenses/MIT|titre=''Software Package Data Exchange - The MIT License:Licensing''|éditeur=Software Package Data Exchange|consulté le={{1er}} mai 2013}}.&lt;/ref&gt; appellent cette licence « MIT ». Son modèle&lt;ref&gt;{{en}} [[commons:Template:Expat|Modèle de la licence Expat]].&lt;/ref&gt; en anglais se présente ainsi :
+
+----
+{{Citation étrangère bloc|langue=en|Copyright © &lt;copyright holders&gt;
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the Software.}}
+----
+Une traduction possible est disponible ici [https://www.debian.org/legal/licenses/mit Licence (Expat)]
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+=== Article connexe ===
+* [[Licence libre]]
+
+=== Liens externes ===
+{{liens}}
+* {{en}} [https://opensource.org/licenses/MIT Open Source Initiative official site]
+
+{{Portail|informatique|logiciels libres|droit}}
+
+[[Catégorie:Licence libre de logiciel|MIT]]
+[[Catégorie:Massachusetts Institute of Technology]]</text>
+      <sha1>r1lkr9vr4yek4awbzx0wl2rxbj7wgdo</sha1>
+    </revision>
+  </page>
+</mediawiki>

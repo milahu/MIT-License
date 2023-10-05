@@ -1,0 +1,81 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="lv">
+  <siteinfo>
+    <sitename>Vikipēdija</sitename>
+    <dbname>lvwiki</dbname>
+    <base>https://lv.wikipedia.org/wiki/S%C4%81kumlapa</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskusija</namespace>
+      <namespace key="2" case="first-letter">Dalībnieks</namespace>
+      <namespace key="3" case="first-letter">Dalībnieka diskusija</namespace>
+      <namespace key="4" case="first-letter">Vikipēdija</namespace>
+      <namespace key="5" case="first-letter">Vikipēdijas diskusija</namespace>
+      <namespace key="6" case="first-letter">Attēls</namespace>
+      <namespace key="7" case="first-letter">Attēla diskusija</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki diskusija</namespace>
+      <namespace key="10" case="first-letter">Veidne</namespace>
+      <namespace key="11" case="first-letter">Veidnes diskusija</namespace>
+      <namespace key="12" case="first-letter">Palīdzība</namespace>
+      <namespace key="13" case="first-letter">Palīdzības diskusija</namespace>
+      <namespace key="14" case="first-letter">Kategorija</namespace>
+      <namespace key="15" case="first-letter">Kategorijas diskusija</namespace>
+      <namespace key="100" case="first-letter">Portāls</namespace>
+      <namespace key="101" case="first-letter">Portāla diskusija</namespace>
+      <namespace key="102" case="first-letter">Vikiprojekts</namespace>
+      <namespace key="103" case="first-letter">Vikiprojekta diskusija</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Modulis</namespace>
+      <namespace key="829" case="first-letter">Moduļa diskusija</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Tēma</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MIT licence</title>
+    <ns>0</ns>
+    <id>272069</id>
+    <revision>
+      <id>3277912</id>
+      <parentid>2269691</parentid>
+      <timestamp>2020-07-13T23:05:43Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>77366</id>
+      </contributor>
+      <comment>Izglābti 1 avoti un 0 atzīmēti par novecojušiem) #IABot (v2.0.1</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2146" xml:space="preserve">'''MIT licence''' ir [[Brīvā programmatūra|brīvā programmatūras]] [[licence]], kas radusies [[Masačūsetsas Tehnoloģiju institūts|Masačūsetsas Tehnoloģiju institūtā]] (MIT).&lt;ref&gt; Lawrence Rosen, OPEN SOURCE LICENSING, p.85 (Prentice Hall PTR, 1st ed. 2004)&lt;/ref&gt; Tā ir atļaujoša brīvās programmatūras licence, kas nozīmē to, ka tā atļauj izmantošanu slēgtā pirmkoda programmatūrā, ja vien visām licencētās programmatūras kopijām ir līdzi iekļauti arī MIT licences nosacījumi un autortiesību informācija. Šāda slēgtā pirmkoda programmatūra saglabā savu slēgto dabu, lai arī tā iekļauj programmatūru, kas licencēta saskaņā ar MIT licenci.
+
+Licence ir savietojama arī ar [[GNU Vispārējā publiskā licence|GNU Vispārējo publisko licenci]], kas nozīmē, ka GPL ļauj kombinēt un tālāk izplatīt programmatūru kopā ar citu programmatūru, kas izmanto MIT licenci.&lt;ref&gt;[https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses Various Licenses and Comments about Them – GNU Project – Free Software Foundation]. Gnu.org (1999-09-03). Retrieved on 2013-07-17.&lt;/ref&gt;
+
+Zināmākā programmatūra, kas izmanto kādu no MIT licences versijām ir ''[[Expat (XML)|Expat]]'', [[Mono (programmatūra)|''Mono'' izstrādes platformas]] klašu bibliotēkas, ''[[Ruby on Rails]]'', ''[[Node.js]]'', ''[[Lua (programmēšanas valoda)|Lua]]'' (no versijas 5.0), ''[[Wayland (displeja servera protokols)|Wayland]]'', ''[[jQuery]]'' un ''[[X Window System]]'', kam sākotnēji licence tika sarakstīta.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT MIT licences variants]
+* [http://www.opensource.org/licenses/MIT MIT licences šablons] (''Open Source Initiative'' oficiālā vietne)
+* [http://www.jclark.com/xml/copying.txt Expat licence]
+* [http://www.xfree86.org/3.3.6/COPYRIGHT2.html#3 X11 licence]
+* [https://web.archive.org/web/20150209075321/https://tldrlegal.com/license/mit-license MIT Expat licences īss kopsavilkums]
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Brīvā un atvērtā pirmkoda programmatūras licences]]</text>
+      <sha1>tkm7kvd0ca2l6qlqf3qub6nfler2fop</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,63 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="hi">
+  <siteinfo>
+    <sitename>विकिपीडिया</sitename>
+    <dbname>hiwiki</dbname>
+    <base>https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">मीडिया</namespace>
+      <namespace key="-1" case="first-letter">विशेष</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">वार्ता</namespace>
+      <namespace key="2" case="first-letter">सदस्य</namespace>
+      <namespace key="3" case="first-letter">सदस्य वार्ता</namespace>
+      <namespace key="4" case="first-letter">विकिपीडिया</namespace>
+      <namespace key="5" case="first-letter">विकिपीडिया वार्ता</namespace>
+      <namespace key="6" case="first-letter">चित्र</namespace>
+      <namespace key="7" case="first-letter">चित्र वार्ता</namespace>
+      <namespace key="8" case="first-letter">मीडियाविकि</namespace>
+      <namespace key="9" case="first-letter">मीडियाविकि वार्ता</namespace>
+      <namespace key="10" case="first-letter">साँचा</namespace>
+      <namespace key="11" case="first-letter">साँचा वार्ता</namespace>
+      <namespace key="12" case="first-letter">सहायता</namespace>
+      <namespace key="13" case="first-letter">सहायता वार्ता</namespace>
+      <namespace key="14" case="first-letter">श्रेणी</namespace>
+      <namespace key="15" case="first-letter">श्रेणी वार्ता</namespace>
+      <namespace key="100" case="first-letter">प्रवेशद्वार</namespace>
+      <namespace key="101" case="first-letter">प्रवेशद्वार वार्ता</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="case-sensitive">गैजेट</namespace>
+      <namespace key="2301" case="case-sensitive">गैजेट वार्ता</namespace>
+      <namespace key="2302" case="case-sensitive">गैजेट परिभाषा</namespace>
+      <namespace key="2303" case="case-sensitive">गैजेट परिभाषा वार्ता</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>एमआईटी लाइसेंस</title>
+    <ns>0</ns>
+    <id>1472356</id>
+    <revision>
+      <id>5915600</id>
+      <parentid>5913930</parentid>
+      <timestamp>2023-07-27T23:57:37Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>500600</id>
+      </contributor>
+      <comment>Rescuing 3 sources and tagging 0 as dead.) #IABot (v2.0.9.5</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="10669" xml:space="preserve">'''एमआईटी लाइसेंस''' 1980 के दशक के अंत में [[मैसाचुसेट्स प्रौद्योगिकी संस्थान|मैसाचुसेट्स इंस्टीट्यूट ऑफ टेक्नोलॉजी]] (एमआईटी) &lt;ref&gt;{{Cite book|url=https://www.worldcat.org/oclc/56012651|title=Open Source Licensing: Software Freedom and Intellectual Property Law|last=Rosen|first=Lawrence E.|date=|publisher=[[Prentice Hall PTR]]|year=2005|isbn=0-13-148787-6|location=Upper Saddle River, NJ|oclc=56012651}}&lt;cite class="citation book cs1" data-ve-ignore="true" id="CITEREFRosen2005"&gt;Rosen, Lawrence E. (2005). [https://www.worldcat.org/oclc/56012651 ''Open Source Licensing: Software Freedom and Intellectual Property Law'']. Upper Saddle River, NJ: [[अप्रेंटिस हॉल पीटीआर|Prentice Hall PTR]]. [[अंतर्राष्ट्रीय मानक पुस्तक संख्या|ISBN]]&amp;nbsp;[[विशेष:पुस्तकस्रोत/0-13-148787-6|&lt;bdi&gt;0-13-148787-6&lt;/bdi&gt;]]. [[ऑनलाइन कंप्यूटर लाइब्रेरी सेंटर|OCLC]]&amp;nbsp;[https://www.worldcat.org/oclc/56012651 56012651].&lt;/cite&gt;&lt;/ref&gt; से शुरू हुआ एक अनुमेय मुफ्त सॉफ्टवेयर लाइसेंस है। &lt;ref name="history"&gt;{{Cite web|url=https://opensource.com/article/19/4/history-mit-license|title=The mysterious history of the MIT License|last=Haff|first=Gordon|website=opensource.com|publisher=opensource.com|access-date=2019-07-30|quote=The date? The best single answer is probably 1987. But the complete story is more complicated and even a little mysterious. [...] Precursors from 1985. The X Consortium or X11 License variant from 1987. Or the Expat License from 1998 or 1999.}}&lt;cite class="citation web cs1" data-ve-ignore="true" id="CITEREFHaff"&gt;Haff, Gordon. [https://opensource.com/article/19/4/history-mit-license "The mysterious history of the MIT License"]. ''opensource.com''. opensource.com&lt;span class="reference-accessdate"&gt;. Retrieved &lt;span class="nowrap"&gt;July 30,&lt;/span&gt; 2019&lt;/span&gt;. &lt;q&gt;The date? The best single answer is probably 1987. But the complete story is more complicated and even a little mysterious. [...] Precursors from 1985. The X Consortium or X11 License variant from 1987. Or the Expat License from 1998 or 1999.&lt;/q&gt;&lt;/cite&gt;&lt;/ref&gt; एक अनुमेय लाइसेंस के रूप में, यह पुन: उपयोग पर केवल बहुत सीमित प्रतिबंध लगाता है और इसलिए, उच्च लाइसेंस अनुकूलता रखता है। &lt;ref name="opensoucecomp"&gt;{{Cite web|url=http://opensource.com/business/14/1/what-license-should-i-use-open-source-project|title=Should I use a permissive license? Copyleft? Or something in the middle?|last=Hanwell|first=Marcus D.|date=2014-01-28|publisher=opensource.com|access-date=2015-05-30|quote=Permissive licensing simplifies things One reason the business world, and more and more developers [...], favor permissive licenses is in the simplicity of reuse. The license usually only pertains to the source code that is licensed and makes no attempt to infer any conditions upon any other component, and because of this there is no need to define what constitutes a derived work. I have also never seen a license compatibility chart for permissive licenses; it seems that they are all compatible.}}&lt;cite class="citation web cs1" data-ve-ignore="true" id="CITEREFHanwell2014"&gt;Hanwell, Marcus D. (January 28, 2014). [http://opensource.com/business/14/1/what-license-should-i-use-open-source-project "Should I use a permissive license? Copyleft? Or something in the middle?"]. opensource.com&lt;span class="reference-accessdate"&gt;. Retrieved &lt;span class="nowrap"&gt;May 30,&lt;/span&gt; 2015&lt;/span&gt;. &lt;q&gt;Permissive licensing simplifies things One reason the business world, and more and more developers [...], favor permissive licenses is in the simplicity of reuse. The license usually only pertains to the source code that is licensed and makes no attempt to infer any conditions upon any other component, and because of this there is no need to define what constitutes a derived work. I have also never seen a license compatibility chart for permissive licenses; it seems that they are all compatible.&lt;/q&gt;&lt;/cite&gt;&lt;/ref&gt; &lt;ref name="comaptible"&gt;{{Cite web|url=https://joinup.ec.europa.eu/software/page/licence_compatibility_and_interoperability|title=Licence Compatibility and Interoperability|website=Open-Source Software - Develop, share, and reuse open source software for public administrations|publisher=joinup.ec.europa.eu|archive-url=https://web.archive.org/web/20150617130550/https://joinup.ec.europa.eu/software/page/licence_compatibility_and_interoperability|archive-date=17 जून 2015|access-date=2015-05-30|quote=The licences for distributing free or open source software (FOSS) are divided in two families: permissive and copyleft. Permissive licences (BSD, MIT, X11, Apache, Zope) are generally compatible and interoperable with most other licences, tolerating to merge, combine or improve the covered code and to re-distribute it under many licences (including non-free or 'proprietary').|url-status=dead}}&lt;cite class="citation web cs1" data-ve-ignore="true"&gt;. ''Open-Source Software - Develop, share, and reuse open source software for public administrations''. joinup.ec.europa.eu. Archived from [https://joinup.ec.europa.eu/software/page/licence_compatibility_and_interoperability the original] {{Webarchive|url=https://web.archive.org/web/20150617130550/https://joinup.ec.europa.eu/software/page/licence_compatibility_and_interoperability |date=17 जून 2015 }} on June 17, 2015&lt;span class="reference-accessdate"&gt;. Retrieved &lt;span class="nowrap"&gt;May 30,&lt;/span&gt; 2015&lt;/span&gt;. &lt;q&gt;The licences for distributing free or open source software (FOSS) are divided in two families: permissive and copyleft. Permissive licences (BSD, MIT, X11, Apache, Zope) are generally compatible and interoperable with most other licences, tolerating to merge, combine or improve the covered code and to re-distribute it under many licences (including non-free or 'proprietary').&lt;/q&gt;&lt;/cite&gt;&lt;/ref&gt;
+
+[[कॉपीलेफ्ट]] सॉफ्टवेयर लाइसेंस के विपरीत, एमआईटी लाइसेंस [[अमुक्त स्रोत सॉफ्टवेयर|मालिकाना सॉफ्टवेयर]] के भीतर पुन: उपयोग की भी अनुमति देता है, बशर्ते कि सॉफ्टवेयर की सभी प्रतियों या उसके बड़े हिस्से में एमआईटी लाइसेंस की शर्तों की एक प्रति और एक कॉपीराइट नोटिस भी शामिल हो। &lt;ref name="comaptible"/&gt; &lt;ref&gt;{{Cite web|url=https://softwareengineering.stackexchange.com/questions/264700/paid-software-includes-mit-licensed-library-does-that-put-my-app-under-mit-too|title=Paid software includes MIT licensed library, does that put my app under MIT too?|website=stackexchange.com|access-date=21 July 2021}}&lt;cite class="citation web cs1" data-ve-ignore="true"&gt;[https://softwareengineering.stackexchange.com/questions/264700/paid-software-includes-mit-licensed-library-does-that-put-my-app-under-mit-too "Paid software includes MIT licensed library, does that put my app under MIT too?"]. ''stackexchange.com''&lt;span class="reference-accessdate"&gt;. Retrieved &lt;span class="nowrap"&gt;July 21,&lt;/span&gt; 2021&lt;/span&gt;.&lt;/cite&gt;&lt;span class="cs1-maint citation-comment" data-ve-ignore="true"&gt;&lt;code class="cs1-code"&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;[[साँचा:Cite web|cite web]]&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;/code&gt;: CS1 maint: url-status ([[:श्रेणी:सीएस1 रखरखाव: यूआरएल-स्थिति|link]])&lt;/span&gt;
+[[Category:CS1 maint: url-status]]&lt;/ref&gt; {{As of|2020}}, the MIT License was the most popular software license found in one analysis,&lt;ref name="whitesource2020"&gt;{{Cite web|url=https://resources.whitesourcesoftware.com/blog-whitesource/top-open-source-licenses-trends-and-predictions|title=Open Source Licenses in 2020: Trends and Predictions|date=2020-05-03|archive-url=https://web.archive.org/web/20200503111426/https://resources.whitesourcesoftware.com/blog-whitesource/top-open-source-licenses-trends-and-predictions|archive-date=3 मई 2020|access-date=2020-05-03|url-status=bot: unknown}}&lt;cite class="citation web cs1" data-ve-ignore="true"&gt;. May 3, 2020. Archived from [https://resources.whitesourcesoftware.com/blog-whitesource/top-open-source-licenses-trends-and-predictions the original] on May 3, 2020&lt;span class="reference-accessdate"&gt;. Retrieved &lt;span class="nowrap"&gt;May 3,&lt;/span&gt; 2020&lt;/span&gt;.&lt;/cite&gt;&lt;/ref&gt; continuing from reports in 2015 that the MIT License was the most popular software license on [[गिटहब|GitHub]].&lt;ref name="github2015"&gt;{{Cite web|url=https://github.com/blog/1964-license-usage-on-github-com|title=Open source license usage on GitHub.com|last=Balter|first=Ben|date=2015-03-09|website=github.com|access-date=2015-11-21|quote=1 MIT 44.69%, 2 Other 15.68%}}&lt;cite class="citation web cs1" data-ve-ignore="true" id="CITEREFBalter2015"&gt;Balter, Ben (March 9, 2015). [https://github.com/blog/1964-license-usage-on-github-com "Open source license usage on GitHub.com"]. ''github.com''&lt;span class="reference-accessdate"&gt;. Retrieved &lt;span class="nowrap"&gt;November 21,&lt;/span&gt; 2015&lt;/span&gt;. &lt;q&gt;1 MIT 44.69%, 2 Other 15.68%&lt;/q&gt;&lt;/cite&gt;&lt;/ref&gt; 
+
+एमआईटी लाइसेंस का उपयोग करने वाली उल्लेखनीय परियोजनाओं में [[एक्स दृश्यतंत्र|एक्स विंडो सिस्टम]], रूबी ऑन रेल्स, निम, [[नोड.जेएस]], [[लुआ (प्रोग्रामन भाषा)|लुआ]] और jQuery शामिल हैं। एमआईटी लाइसेंस का उपयोग करने वाली उल्लेखनीय कंपनियों में [[माइक्रोसॉफ़्ट|माइक्रोसॉफ्ट]] ( .नेट ), [[गूगल]] ( एंगुलर ), और [[मेटा प्लेटफॉर्म्स|मेटा]] ( [[रियेक्ट|रिएक्ट]] )।</text>
+      <sha1>byz3aeqppqvd4jzyls2kialx9bt5ojv</sha1>
+    </revision>
+  </page>
+</mediawiki>

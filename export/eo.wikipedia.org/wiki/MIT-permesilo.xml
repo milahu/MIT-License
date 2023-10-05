@@ -1,0 +1,91 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="eo">
+  <siteinfo>
+    <sitename>Vikipedio</sitename>
+    <dbname>eowiki</dbname>
+    <base>https://eo.wikipedia.org/wiki/Vikipedio:%C4%88efpa%C4%9Do</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Aŭdvidaĵo</namespace>
+      <namespace key="-1" case="first-letter">Specialaĵo</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskuto</namespace>
+      <namespace key="2" case="first-letter">Uzanto</namespace>
+      <namespace key="3" case="first-letter">Uzanto-Diskuto</namespace>
+      <namespace key="4" case="first-letter">Vikipedio</namespace>
+      <namespace key="5" case="first-letter">Vikipedia diskuto</namespace>
+      <namespace key="6" case="first-letter">Dosiero</namespace>
+      <namespace key="7" case="first-letter">Dosiero-Diskuto</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki-Diskuto</namespace>
+      <namespace key="10" case="first-letter">Ŝablono</namespace>
+      <namespace key="11" case="first-letter">Ŝablono-Diskuto</namespace>
+      <namespace key="12" case="first-letter">Helpo</namespace>
+      <namespace key="13" case="first-letter">Helpo-Diskuto</namespace>
+      <namespace key="14" case="first-letter">Kategorio</namespace>
+      <namespace key="15" case="first-letter">Kategorio-Diskuto</namespace>
+      <namespace key="100" case="first-letter">Portalo</namespace>
+      <namespace key="101" case="first-letter">Portala diskuto</namespace>
+      <namespace key="102" case="first-letter">Projekto</namespace>
+      <namespace key="103" case="first-letter">Projekta diskuto</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Modulo-Diskuto</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MIT-permesilo</title>
+    <ns>0</ns>
+    <id>224322</id>
+    <revision>
+      <id>8340236</id>
+      <parentid>5066630</parentid>
+      <timestamp>2023-09-14T21:58:59Z</timestamp>
+      <contributor>
+        <username>LiMrBot</username>
+        <id>141329</id>
+      </contributor>
+      <comment>formatigo de titoloj, +Projektoj, kosmetikaj ŝanĝoj</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1450" xml:space="preserve">'''MIT-permesilo''' temas pri kelkaj similaj [[libera programara permesilo|permesiloj por libera programaro]] origine de la [[Masaĉuseca Instituto De Teknologio]] (MIT). Ili estas kongruaj kun la [[GNU GPL|GNU GPL-permesilo]].
+
+== La enhavo de la permesilo ==
+Jen estas unu el la la permesiloj en la [[angla lingvo|angla]]:
+
+ Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+
+ Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation
+ files (the "Software"), to deal in the Software without
+ restriction, including without limitation the rights to use,
+ copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the
+ Software is furnished to do so, subject to the following
+ conditions:
+
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+ OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+ OTHER DEALINGS IN THE SOFTWARE.
+
+{{Projektoj}}
+
+[[Kategorio:Permesiloj]]</text>
+      <sha1>tnll91xdq7o4hcs858cf8iec5unmxhl</sha1>
+    </revision>
+  </page>
+</mediawiki>

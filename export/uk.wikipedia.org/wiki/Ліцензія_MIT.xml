@@ -1,0 +1,108 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="uk">
+  <siteinfo>
+    <sitename>Вікіпедія</sitename>
+    <dbname>ukwiki</dbname>
+    <base>https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Медіа</namespace>
+      <namespace key="-1" case="first-letter">Спеціальна</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Обговорення</namespace>
+      <namespace key="2" case="first-letter">Користувач</namespace>
+      <namespace key="3" case="first-letter">Обговорення користувача</namespace>
+      <namespace key="4" case="first-letter">Вікіпедія</namespace>
+      <namespace key="5" case="first-letter">Обговорення Вікіпедії</namespace>
+      <namespace key="6" case="first-letter">Файл</namespace>
+      <namespace key="7" case="first-letter">Обговорення файлу</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Обговорення MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Шаблон</namespace>
+      <namespace key="11" case="first-letter">Обговорення шаблону</namespace>
+      <namespace key="12" case="first-letter">Довідка</namespace>
+      <namespace key="13" case="first-letter">Обговорення довідки</namespace>
+      <namespace key="14" case="first-letter">Категорія</namespace>
+      <namespace key="15" case="first-letter">Обговорення категорії</namespace>
+      <namespace key="100" case="first-letter">Портал</namespace>
+      <namespace key="101" case="first-letter">Обговорення порталу</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Модуль</namespace>
+      <namespace key="829" case="first-letter">Обговорення модуля</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ліцензія MIT</title>
+    <ns>0</ns>
+    <id>382831</id>
+    <revision>
+      <id>40396402</id>
+      <parentid>40034565</parentid>
+      <timestamp>2023-09-13T09:22:23Z</timestamp>
+      <contributor>
+        <username>Alice Redhotroof</username>
+        <id>440632</id>
+      </contributor>
+      <minor/>
+      <comment>стиль</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4531" xml:space="preserve">{{Infobox software license
+| name            = MIT License
+| image           =
+| caption         =
+| author          = Massachusetts Institute of Technology
+| version         = 
+| copyright       = 
+| date            = 1988
+| OSI approved    = Так
+| Debian approved = Так
+| Free Software   = Так
+| GPL compatible  = Так
+| copyleft        = Ні
+| linking         = Так
+}}
+'''Ліцензія MIT''' ({{lang-en|MIT License}}) — група ліцензій, розроблених [[Массачусетський технологічний інститут|Массачусетським технологічним інститутом]] для розповсюдження вільного програмного забезпечення.
+
+== Текст ліцензії ==
+{{Quote box
+ | width  = calc(100% - 25em)
+ | align  = left
+| quote  =
+'''Неофіційний переклад:'''
+
+Copyright (c) &lt;рік&gt; &lt;власники прав&gt;
+
+Безплатно надається дозвіл будь-якій особі, що отримала копію цього програмного забезпечення та супутньої документації (надалі "Програмне забезпечення"), застосовувати Програмне забезпечення без обмежень, включно без обмежень прав на використання, копіювання, редагування, доповнення, публікацію, поширення, субліцензування та / або продаж копій Програмного забезпечення, також як і особам, яким надається це Програмне забезпечення, за дотримання наступних умов:
+
+Вищезгадані авторські права та ці умови мають бути включені в усі копії або значущі частини цього Програмного забезпечення.
+
+ЦЕ ПРОГРАМНЕ ЗАБЕЗПЕЧЕННЯ НАДАЄТЬСЯ «[[Як є|ЯК Є]]», БЕЗ ГАРАНТІЙ БУДЬ-ЯКОГО ВИДУ, ПРЯМИХ АБО НЕПРЯМИХ, ВКЛЮЧАЮЧИ, АЛЕ НЕ ОБМЕЖУЮЧИСЬ, ГАРАНТІЯМИ КОМЕРЦІЙНОЇ ВИГОДИ, ВІДПОВІДНОСТІ ЙОГО КОНКРЕТНОМУ ПРИЗНАЧЕННЮ Й ВІДСУТНОСТІ ПОРУШЕННЯ ПРАВ. У ЖОДНОМУ РАЗІ АВТОРИ АБО ВЛАСНИКИ АВТОРСЬКИХ ПРАВ НЕ ВІДПОВІДАЮТЬ ЗА БУДЬ-ЯКИМИ СУДОВИМИ ПОЗОВАМИ, ЩОДО ЗБИТКІВ АБО ІНШИХ ПРЕТЕНЗІЙ, ЧИ ДІЙ ДОГОВОРУ, ЦИВІЛЬНОГО ПРАВОПОРУШЕННЯ АБО ІНШИХ, ЩО ВИНИКАЮТЬ ПОЗА, АБО У ЗВ'ЯЗКУ З ПРОГРАМНИМ ЗАБЕЗПЕЧЕННЯМ АБО ВИКОРИСТАННЯМ ЧИ ІНШИМИ ДІЯМИ ПРОГРАМНОГО ЗАБЕЗПЕЧЕННЯ.
+
+{{oq|en|Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.}}
+ | source = [http://opensource.org/licenses/MIT Open Source Initiative. The MIT License (MIT)] — Офіційний текст шаблону Ліцензії МІТ.
+ }} {{clear}}
+
+== Посилання ==
+{{без джерел|дата=жовтень 2016}}
+
+{{ВВПЗ}}
+[[Категорія:Вільні ліцензії]]
+[[Категорія:Вільне програмне забезпечення]]</text>
+      <sha1>2s8uqonbxlvefugf2f5jhc2qqs7c9j5</sha1>
+    </revision>
+  </page>
+</mediawiki>

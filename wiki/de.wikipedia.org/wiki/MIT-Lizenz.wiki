@@ -1,0 +1,47 @@
+Die '''MIT-Lizenz''', auch '''X-Lizenz''' oder '''X11-Lizenz''' genannt, ist eine vom [[Massachusetts Institute of Technology]] stammende [[freizügige Open-Source-Lizenz]]. Sie erlaubt die Wiederverwendung der unter ihr stehenden [[Software]] sowohl für Software, deren [[Quelltext]] frei verwendbar ist ([[Open Source]]), als auch für Software, deren Quelltext nicht frei verwendbar ist ([[Closed Source]]).
+
+Die Lizenz wurde 1987 veröffentlicht.<ref>{{Internetquelle |autor= Gordon Haff |url= https://opensource.com/article/19/4/history-mit-license |titel= The mysterious history of the MIT License |werk= opensource.com |datum=2019-04-26|sprache= en|abruf=2022-01-19}}</ref> Viele Entwicklergruppen stellen ihre eigene Software unter die MIT-Lizenz. Darunter befinden sich unter anderem das Betriebssystem [[Haiku (Betriebssystem)|Haiku]], die Kryptowährung [[Bitcoin]], das Web-Framework [[Ruby on Rails]], das JavaScript-Framework [[jQuery]],<ref>GitHub: [https://github.com/jquery/jquery/blob/master/LICENSE.txt LICENSE.TXT-Datei] zu jquery</ref> und das [[X Window System]] ([[X11]]). Weitere Frameworks unter dieser Lizenz sind [[Node.js]]<ref>GitHub: [https://github.com/nodejs/node/blob/master/LICENSE LICENSE-Datei] zu node.js</ref> oder [[.NET Core]].<ref>GitHub: [https://github.com/dotnet/core/blob/master/LICENSE.TXT LICENSE.TXT-Datei] zu .NET Core</ref>
+
+Nicht jede MIT-Software steht unter dieser Lizenz. Das MIT Game Lab benutzt beispielsweise eine restriktivere Lizenz.<ref>[http://gamelab.mit.edu/eula/slower_eula_win.php Lizenztext des MIT Game Labs]</ref>
+
+== Lizenztext ==
+{|
+|
+''' Originaltext '''
+|
+''' Sinngemäße Übersetzung ''' ''(nicht offiziell)''
+|-
+|style="vertical-align:top;padding-right:25px;"|[[Copyright law (Vereinigte Staaten)|Copyright]] (c) &lt;year&gt; &lt;copyright holders&gt;
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+|style="vertical-align:top;"|Copyright (c) &lt;Jahr&gt; &lt;Copyright Inhaber&gt;
+
+Jedem, der eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die „Software“) erhält, wird hiermit kostenlos die Erlaubnis erteilt, ohne Einschränkung mit der Software zu handeln, einschließlich und ohne Einschränkung der Rechte zur Nutzung, zum Kopieren, Ändern, Zusammenführen, Veröffentlichen, Verteilen, Unterlizenzieren und/oder Verkaufen von Kopien der Software, und Personen, denen die Software zur Verfügung gestellt wird, dies unter den folgenden Bedingungen zu gestatten:
+
+Der obige Urheberrechtshinweis und dieser Genehmigungshinweis müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
+
+DIE SOFTWARE WIRD OHNE MÄNGELGEWÄHR UND OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GEWÄHRLEISTUNG, EINSCHLIEẞLICH, ABER NICHT BESCHRÄNKT AUF DIE GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER, ZUR VERFÜGUNG GESTELLT. DIE AUTOREN ODER URHEBERRECHTSINHABER SIND IN KEINEM FALL HAFTBAR FÜR ANSPRÜCHE, SCHÄDEN ODER ANDERE VERPFLICHTUNGEN, OB IN EINER VERTRAGS- ODER HAFTUNGSKLAGE, EINER UNERLAUBTEN HANDLUNG ODER ANDERWEITIG, DIE SICH AUS ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER NUTZUNG ODER ANDEREN GESCHÄFTEN MIT DER SOFTWARE ERGEBEN.
+|}
+
+== Verwendung ==
+Da die MIT-Lizenz selbst nicht mit einem [[Urheberrecht|Copyright]] versehen ist, steht es jedem frei, die MIT-Lizenz für den eigenen Gebrauch zu modifizieren. Zum Beispiel verwendet die [[Free Software Foundation]] eine fast wortgleiche Lizenz für ihre Bibliothek [[ncurses]]. Andere Gruppen wiederum stellen ihre Software neben der MIT-Lizenz auch unter eine zweite Lizenz. Zum Beispiel kann man bei älteren Versionen der Bibliothek [[cURL]] zwischen der MIT-Lizenz und der [[Mozilla Public License]] wählen. In der Lizenzliste der Free Software Foundation wird die MIT-Lizenz „Expat-Lizenz“ genannt, um Verwechslungen mit anderen Softwarelizenzen des MIT zu vermeiden.<ref>[http://www.gnu.org/philosophy/license-list.html Various Licenses and Comments about Them]</ref>
+
+== Siehe auch ==
+* [[Apache-Lizenz]]
+
+== Weblinks ==
+* [http://www.opensource.org/licenses/mit-license.php Open Source Initiative OSI - The MIT License:Licensing]
+
+== Einzelnachweise ==
+<references />
+
+{{Rechtshinweis}}
+
+{{SORTIERUNG:Mit Lizenz}}
+[[Kategorie:FLOSS-Lizenz]]
+[[Kategorie:Massachusetts Institute of Technology]]

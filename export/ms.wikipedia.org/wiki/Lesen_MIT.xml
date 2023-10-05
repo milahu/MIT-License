@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="ms">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>mswiki</dbname>
+    <base>https://ms.wikipedia.org/wiki/Laman_Utama</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Khas</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Perbincangan</namespace>
+      <namespace key="2" case="first-letter">Pengguna</namespace>
+      <namespace key="3" case="first-letter">Perbincangan pengguna</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Perbincangan Wikipedia</namespace>
+      <namespace key="6" case="first-letter">Fail</namespace>
+      <namespace key="7" case="first-letter">Perbincangan fail</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Perbincangan MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Templat</namespace>
+      <namespace key="11" case="first-letter">Perbincangan templat</namespace>
+      <namespace key="12" case="first-letter">Bantuan</namespace>
+      <namespace key="13" case="first-letter">Perbincangan bantuan</namespace>
+      <namespace key="14" case="first-letter">Kategori</namespace>
+      <namespace key="15" case="first-letter">Perbincangan kategori</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Perbincangan portal</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Modul</namespace>
+      <namespace key="829" case="first-letter">Perbincangan modul</namespace>
+      <namespace key="2300" case="case-sensitive">Alat</namespace>
+      <namespace key="2301" case="case-sensitive">Perbincangan alat</namespace>
+      <namespace key="2302" case="case-sensitive">Penerangan alat</namespace>
+      <namespace key="2303" case="case-sensitive">Perbincangan penerangan alat</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lesen MIT</title>
+    <ns>0</ns>
+    <id>119206</id>
+    <revision>
+      <id>4679555</id>
+      <parentid>2800749</parentid>
+      <timestamp>2019-12-02T16:06:27Z</timestamp>
+      <contributor>
+        <ip>115.164.169.68</ip>
+      </contributor>
+      <comment>:Lesen ini,.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2890" xml:space="preserve">'''Lesen MIT''' ialah sebuah [[Lesen ini]] yang berasal dari [[Lesen ini]]. Berbeza dengan [[Lesen ini]], lesen ini membenarkan [[Lesen ini]] yang diedarkan dengannya digunakan dalam [[Lesen ini]], dengan syarat bahawa lesen tersebut dikekalkan bersama perisian itu. Lesen ini juga dikenali dengan nama [[Lesen ini]] kerana asalnya ia dirangka untuk pengedaran [[Lesen ini]].
+
+== Kandungan ==
+
+Kandungan asal Lesen MIT adalah seperti berikut:
+
+: Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+
+: Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Terjemahan (bukan berkanun):
+
+: Hak cipta (c) &lt;tahun&gt; &lt;pemegang-pemegang hak cipta&gt;
+
+: Kebenaran diberikan, tanpa sebarang bayaran, kepada sesiapa yang menerima salinan perisian ini berserta fail-fail dokumentasi yang berkaitan ("Perisian" ini), untuk menggunakan Perisian ini tanpa sebarang had, termasuk had-had hak menggunakan, menyalin, mengubah suai, menggabung, menerbit, mengedar, mensublesen, dan/atau menjual salinan-salinan Perisian ini, serta membenarkan orang lain yang menerima Perisian ini untuk melakukan sedemikian, dengan syarat-syarat berikut:
+
+: Notis hak cipta di atas dan notis kebenaran ini disertakan dalam semua salinan atau bahagian-bahagian penting daripada Perisian ini.
+
+: PERISIAN INI DIBEKALKAN DALAM KEADAAN "SEDIA ADA", TANPA SEBARANG WARANTI, SAMA ADA SECARA NYATA ATAU TERSIRAT, TERMASUK TETAPI TIDAK TERHAD KEPADA WARANTI KEBOLEHDAGANGAN, KESESUAIAN UNTUK TUJUAN TERTENTU DAN KETIDAKLANGGARAN. PENGARANG-PENGARANG DAN PEMEGANG-PEMEGANG HAK CIPTA TIDAK BERTANGGUNGJAWAB UNTUK SEBARANG TUNTUTAN, GANTI RUGI ATAU LIABILITI LAIN, SAMA ADA DALAM PERBUATAN KONTRAK, TORT ATAU SEBALIKNYA, YANG TIMBUL DARIPADA, LUAR ATAU DALAM HUBUNGAN DENGAN PERISIAN INI ATAU PENGGUNAANNYA ATAU PERLAKUAN-PERLAKUAN LAIN DALAM PERISIAN INI.
+
+== Pautan luar ==
+
+* [http://www.opensource.org/licenses/mit-license.php Lesen MIT]
+
+[[Kategori:Lesen perisian bebas]]</text>
+      <sha1>ftj0wp741iuljjieqxy6qnca1yfz18q</sha1>
+    </revision>
+  </page>
+</mediawiki>

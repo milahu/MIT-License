@@ -1,0 +1,64 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="sq">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>sqwiki</dbname>
+    <base>https://sq.wikipedia.org/wiki/Faqja_kryesore</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Speciale</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskutim</namespace>
+      <namespace key="2" case="first-letter">Përdoruesi</namespace>
+      <namespace key="3" case="first-letter">Përdoruesi diskutim</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia diskutim</namespace>
+      <namespace key="6" case="first-letter">Skeda</namespace>
+      <namespace key="7" case="first-letter">Skeda diskutim</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki diskutim</namespace>
+      <namespace key="10" case="first-letter">Stampa</namespace>
+      <namespace key="11" case="first-letter">Stampa diskutim</namespace>
+      <namespace key="12" case="first-letter">Ndihmë</namespace>
+      <namespace key="13" case="first-letter">Ndihmë diskutim</namespace>
+      <namespace key="14" case="first-letter">Kategoria</namespace>
+      <namespace key="15" case="first-letter">Kategoria diskutim</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal diskutim</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Moduli</namespace>
+      <namespace key="829" case="first-letter">Moduli diskutim</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Licenca MIT</title>
+    <ns>0</ns>
+    <id>171854</id>
+    <revision>
+      <id>2392297</id>
+      <parentid>2023729</parentid>
+      <timestamp>2022-02-13T23:11:50Z</timestamp>
+      <contributor>
+        <username>Smallem</username>
+        <id>126080</id>
+      </contributor>
+      <minor/>
+      <comment>Përmirësime teknike dhe rregullime të gabimeve me referimet:  (-(\{\{\s*cit[aeio][^\}]*\|\s*(?:access\-?|archive\-?|doi\-broken\-|lay\-|pmc\-embargo\-|publication\-|air\-?)?date\s*=\s*\d{1,2} +)July( +\d{4}) +\1korrik\2)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1275" xml:space="preserve">'''Licenca MIT''' është një licencë e me softuar të lirë me origjinë në [[Massachusetts Institute of Technology]] (MIT).&lt;ref&gt;Lawrence Rosen, OPEN SOURCE LICENSING, p.85 (Prentice Hall PTR, 1st ed. 2004)&lt;/ref&gt; Kjo është një licencë me softuar të lirë, që do të thotë se ajo lejon ripërdorimin brenda softuerit pronësor duke dhënë të gjitha kopjet e softuerit të licencuar gjithashtu përfshirjen e një kopje të termave të kësaj licence MIT dhe njoftimin e autorit. Softueri i tillë pronësor ruan natyrën e tij të pronarit edhe pse kjo përfshin softuare sipas licencës MIT. Licenca është gjithashtu e pajtueshme me GPL, që do të thotë se GPL lejon kombinim dhe rishpërndarjen e softuerveë që përdorin licencën MIT.&lt;ref&gt;{{cite web|url=https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses |title=Various Licenses and Comments about Them |accessdate=17 korrik 2013 |publisher=Free Software Foundation }}&lt;/ref&gt;
+
+Paketa software të njohura që përdorin një nga versionet e Licencës MIT përfshijnë Expat, platforma e zhvillimit të bibliotekave Mono klasë, Ruby në binarët, Node.js, Lua (nga versioni 5.0 e tutje), jQuery dhe Sistemin e X Window, për të cilat ishte shkruar dhe licenca .
+
+==Referime==
+{{reflist}}</text>
+      <sha1>oh27g69d3gf862qcbbrejmvfnrz31s9</sha1>
+    </revision>
+  </page>
+</mediawiki>

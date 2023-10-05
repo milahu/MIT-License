@@ -1,0 +1,76 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="sl">
+  <siteinfo>
+    <sitename>Wikipedija</sitename>
+    <dbname>slwiki</dbname>
+    <base>https://sl.wikipedia.org/wiki/Glavna_stran</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Datoteka</namespace>
+      <namespace key="-1" case="first-letter">Posebno</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Pogovor</namespace>
+      <namespace key="2" case="first-letter">Uporabnik</namespace>
+      <namespace key="3" case="first-letter">Uporabniški pogovor</namespace>
+      <namespace key="4" case="first-letter">Wikipedija</namespace>
+      <namespace key="5" case="first-letter">Pogovor o Wikipediji</namespace>
+      <namespace key="6" case="first-letter">Slika</namespace>
+      <namespace key="7" case="first-letter">Pogovor o sliki</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Pogovor o MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Predloga</namespace>
+      <namespace key="11" case="first-letter">Pogovor o predlogi</namespace>
+      <namespace key="12" case="first-letter">Pomoč</namespace>
+      <namespace key="13" case="first-letter">Pogovor o pomoči</namespace>
+      <namespace key="14" case="first-letter">Kategorija</namespace>
+      <namespace key="15" case="first-letter">Pogovor o kategoriji</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Pogovor o portalu</namespace>
+      <namespace key="118" case="first-letter">Osnutek</namespace>
+      <namespace key="119" case="first-letter">Pogovor o osnutku</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Modul</namespace>
+      <namespace key="829" case="first-letter">Pogovor o modulu</namespace>
+      <namespace key="2300" case="case-sensitive">Pripomoček</namespace>
+      <namespace key="2301" case="case-sensitive">Pogovor o pripomočku</namespace>
+      <namespace key="2302" case="case-sensitive">Opredelitev pripomočka</namespace>
+      <namespace key="2303" case="case-sensitive">Pogovor o opredelitvi pripomočka</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Licenca MIT</title>
+    <ns>0</ns>
+    <id>417638</id>
+    <revision>
+      <id>4946789</id>
+      <parentid>4638117</parentid>
+      <timestamp>2018-01-26T13:18:55Z</timestamp>
+      <contributor>
+        <username>Yerpo</username>
+        <id>8417</id>
+      </contributor>
+      <minor/>
+      <comment>slog</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1515" xml:space="preserve">'''Licenca MIT''' je prosta in [[Odprta koda|odprtokodna]] licenca za programsko opremo, ki izvira s [[Tehnološki inštitut Massachusettsa|Tehnološkega inštituta Massachusettsa]] (MIT).&lt;ref&gt;Lawrence Rosen, OPEN SOURCE LICENSING, p.85 (Prentice Hall PTR, 1st ed. 2004)&lt;/ref&gt; Je permisivna licenca, ker postavlja zelo malo omejitev za ponovno uporabo programske opreme v izpeljanih rešitvah, zaradi česar je široko [[Kompatibilnost licenc programske opreme|kompatibilna]] z drugimi licencami.
+
+Licenca dovoljuje ponovno uporabo licencirane programske opreme v komercialni programski opremi, če vse kopije programa pod to licenco vsebujejo tudi kopijo licenčnih pogojev in obvestilo o avtorskih pravicah. Licenca MIT je kompatibilna tudi z [[Licenca GPL|licenco GPL]], vendar je dovoljeno integrirati programsko opremo pod licenco MIT v programsko opremo pod licenco GPL, ne pa tudi obratno. 
+
+V letu 2015 je bila to po poročanju [[Black Duck Software]] in [[GitHub]]a najbolj popularna licenca na področju [[Odprtokodna programska oprema|odprtokodne programske opreme]].
+
+== Sklici in opombe ==
+{{sklici}}
+
+== Zunanje povezave ==
+* [https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT MIT License variants]
+* [http://www.opensource.org/licenses/MIT The MIT License template] (uradna stran organizacije Open Source Initiative)
+* [http://www.jclark.com/xml/copying.txt Expat License]
+* [http://www.xfree86.org/3.3.6/COPYRIGHT2.html#3 X11 License]
+
+[[Kategorija:Tehnološki inštitut Massachusettsa]]</text>
+      <sha1>plwfj372socmxz4q1o51bdm6vj65equ</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,148 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="sr">
+  <siteinfo>
+    <sitename>Википедија</sitename>
+    <dbname>srwiki</dbname>
+    <base>https://sr.wikipedia.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Медиј</namespace>
+      <namespace key="-1" case="first-letter">Посебно</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Разговор</namespace>
+      <namespace key="2" case="first-letter">Корисник</namespace>
+      <namespace key="3" case="first-letter">Разговор с корисником</namespace>
+      <namespace key="4" case="first-letter">Википедија</namespace>
+      <namespace key="5" case="first-letter">Разговор о Википедији</namespace>
+      <namespace key="6" case="first-letter">Датотека</namespace>
+      <namespace key="7" case="first-letter">Разговор о датотеци</namespace>
+      <namespace key="8" case="first-letter">Медијавики</namespace>
+      <namespace key="9" case="first-letter">Разговор о Медијавикију</namespace>
+      <namespace key="10" case="first-letter">Шаблон</namespace>
+      <namespace key="11" case="first-letter">Разговор о шаблону</namespace>
+      <namespace key="12" case="first-letter">Помоћ</namespace>
+      <namespace key="13" case="first-letter">Разговор о помоћи</namespace>
+      <namespace key="14" case="first-letter">Категорија</namespace>
+      <namespace key="15" case="first-letter">Разговор о категорији</namespace>
+      <namespace key="100" case="first-letter">Портал</namespace>
+      <namespace key="101" case="first-letter">Разговор о порталу</namespace>
+      <namespace key="118" case="first-letter">Нацрт</namespace>
+      <namespace key="119" case="first-letter">Разговор о нацрту</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Модул</namespace>
+      <namespace key="829" case="first-letter">Разговор о модулу</namespace>
+      <namespace key="2300" case="case-sensitive">Справица</namespace>
+      <namespace key="2301" case="case-sensitive">Разговор о справици</namespace>
+      <namespace key="2302" case="case-sensitive">Дефиниција справице</namespace>
+      <namespace key="2303" case="case-sensitive">Разговор о дефиницији справице</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>МИТ лиценца</title>
+    <ns>0</ns>
+    <id>1347892</id>
+    <revision>
+      <id>25339346</id>
+      <parentid>25330546</parentid>
+      <timestamp>2022-11-07T06:56:02Z</timestamp>
+      <contributor>
+        <username>Smilutin</username>
+        <id>281111</id>
+      </contributor>
+      <comment>Исправљене словне грешке</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18932" xml:space="preserve">{{Кутијица софтверске лиценце
+| име = МИТ лиценца
+| слика = 
+| опис = 
+| аутор = [[Масачусетски технолошки институт]]
+| верзија = 
+| издавач = Масачусетски технолошки институт
+| датум = 1988
+| Дебијан компатибилна = Да
+| ФСФ одобрена = Да
+| ОСИ одобрена = Да
+| ГПЛ компатибилна = Да
+| копилефт = Не
+| веб =
+}}
+
+'''МИТ лиценца''' је [[Лиценца за слободни софтвер|лиценца за слободан софтвер]] које потиче од [[Масачусетски технолошки институт|Масачусетског технолошког института]] (МИТ).&lt;ref&gt;{{Cite book|last=Rosen|first=Lawrence|title=Open Source Licensing|url=https://archive.org/details/opensourcelicens00rose_0|publisher=Prentice Hall PTR|edition=1st|year=2004|pages=[https://archive.org/details/opensourcelicens00rose_0/page/85 85]}}&lt;/ref&gt; То је [[допустива лиценца за слободни софтвер]], што значи да дозвољава поновну употребу власничког софтвера, што значи да користи [[Власнички софтвер|власничке софтвере]] укључују и копије МИТ лиценце и обавештења о ауторским правима. Такав [[власнички софтвер]] задржава власничку природу иако укључује софтвер под МИТ лиценцом. Лиценца је такође [[ГНУ-ова општа јавна лиценца|ГПЛ компатибилна]], што значи да [[ГНУ-ова општа јавна лиценца|ГПЛ]] дозвољава комбинацију и прерасподелу са софтверима који користе МИТ лиценцу.&lt;ref&gt;&lt;cite class="citation web"&gt;[https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses "Various Licenses and Comments about Them"]. &lt;/cite&gt;&lt;/ref&gt;
+
+Познати [[Софтвер|софтверски пакети]] који користе једну од верзија МИТ лиценце укључују [[Expat (библиотека)|Expat]], [[Mono|mono развојну платформу]] класних библиотека, ”[[Ruby on Rails]]”, [[Node.js]], [[Python]], [[Lua]] (од верзије 5.0 па надаље), [[jQuery]] и [[X Window System|Х Виндоус систем]], за које је лиценца написана.
+
+== Разне верзије ==
+Због тога што је МИТ користио многе лиценце за софтвер, [[фондација за слободан софтвер]] је сматрала "МИТ Лиценцу" двосмисленом. "МИТ Лиценца" је могла да се односи на "Expat лиценцу" (користила се се за Expat)&lt;ref name="GUN-Expat"&gt;&lt;cite class="citation web"&gt;[https://www.gnu.org/licenses/license-list.html#Expat "Various Licenses and Comments about Them#Expat License"]. &lt;/cite&gt;&lt;/ref&gt; или на "X11 лиценцу" (под називом "МИТ / Х Конзорцијум лиценца" употребљена за [[X Window System|Х Виндоус систем]] од стране [[X Window System|МИТ Х конзорцијума]]).&lt;ref name="GUN-X11License"&gt;&lt;cite class="citation web"&gt;[https://www.gnu.org/licenses/license-list.html#X11License "Various Licenses and Comments about Them#X11 License"]. &lt;/cite&gt;&lt;/ref&gt; "МИТ лиценца" је, објављена на званичном сајту [[Иницијатива отвореног кода|иницијативе отвореног кода]]&lt;ref name="OSI-MIT"&gt;&lt;cite class="citation web"&gt;[http://opensource.org/licenses/MIT "Open Source Initiative OSI – The MIT License:Licensing"]. &lt;/cite&gt;&lt;/ref&gt;да је иста као "Expat лиценца".
+
+За разлику од Expat лиценце,&lt;ref name="GUN-Expat" /&gt; X11 лиценца&lt;ref name="GUN-X11License" /&gt; и "МИТ лиценца" су изабране за [[ncurses]] од фондације за слободни софтвер&lt;ref&gt;&lt;cite class="citation web"&gt;Dickey, Thomas E. [http://invisible-island.net/ncurses/ncurses.faq.html#is_it_gpl "NCURSES&amp;nbsp;— Frequently Asked Questions (FAQ)"].&lt;/cite&gt;&lt;/ref&gt; са следећим закључком:
+Осим као што је наведено у овом обавештењу, име(на) поменутих носилаца ауторских права се неће користити за рекламирање или друге начине промовисања продаје, а такође и коришћење или друге обраде унутар самог софтвера неће бити могуће без претходног писменог одобрења.
+
+== Услови лиценце ==
+Уобичајени облик МИТ лиценце (са званичног сајта ОСИ-а, који је исте верзије као "Expat лиценца", а који није идентичан Х изворном коду) је дефинисан на следећи начин:&lt;ref name="OSI-MIT" /&gt;
+
+&lt;pre&gt;Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+
+Дозвола се даје, бесплатно, било којој особи која има копију овог софтвера и одговарајућу документацију ("Софтвер"), да користи софтвер без икаквих ограничења, укључујући и ограничења права на коришћење, копирање, модификовање, спајање, објављивање, дистрибуцију, подлиценцирање, и / или продају копија софтвера, као и да дозволи особама за које је софтвер намењен да раде, у складу са следећим условима:
+
+Наведена обавештења о ауторским правима као и ово обавештење о дозвољеном коришћењу треба да буду укључена у све копије или битне делове софтвера.
+
+СОФТВЕР СЕ ДОБИЈА "ТАКАВ КАКАВ ЈЕСТЕ", БЕЗ ГАРАНЦИЈА БИЛО КАКВЕ ВРСТЕ, ЕXПЛИЦИТНИХ ИЛИ ИМПЛИЦИТНИХ, УКЉУЧУЈУЋИ АЛИ НЕ ОГРАНИЧАВАЈУЋИ СЕ НА ГАРАНЦИЈЕ ПРОДАЈЕ, ЗА БИЛО КОЈЕ СВРХЕ БЕЗ ОГРАНИЧЕЊА. НИ У КОМ СЛУЧАЈУ АУТОРИ ИЛИ ВЛАСНИЦИ АУТОРСКИХ ПРАВА НЕЋЕ БИТИ ОДГОВОРНИ ЗА БИЛО КАКВА ОШТЕЋЕЊА, ИЛИ НЕДОСТАТКЕ БИЛО КОЈЕ ВРСТЕ, ДА ЛИ ЗБОГ УГОВОРА ИЛИ НА НЕКИ ДРУГИ НАЧИН, КОЈА СУ НАСТАЛА ВЕЗАНО ИЛИ НЕВЕЗАНО СА СОФТВЕРОМ ИЛИ КОРИШЋЕЊЕМ СОФТВЕРА.
+&lt;/pre&gt;
+
+Привремени облик лиценце коришћене од стране [[X Window System|Х конзорцијума]] за [[X Window System|Х11]] су коришћене путем следеће формулације:&lt;ref&gt;&lt;cite class="citation" id="CITEREF2004"&gt;"3.3. &lt;/cite&gt;&lt;/ref&gt;
+
+&lt;pre&gt;Copyright (C) &lt;date&gt; X Consortium
+
+Дозвола се даје, бесплатно, било којој особи која има копију овог софтвера и одговарајућу документацију ("Софтвер"), да користи софтвер без икаквих ограничења, укључујући и ограничења права на коришћење, копирање, модификовање, спајање, објављивање, дистрибуцију, подлиценцирање, и / или продају копија софтвера, као и да дозволи особама за које је софтвер намењен да раде, у складу са следећим условима:
+
+Наведена обавештења о ауторским правима као и ово обавештење о дозвољеном коришћењу треба да буду укључена у све копије или битне делове софтвера.
+
+СОФТВЕР СЕ ДОБИЈА "ТАКАВ КАКАВ ЈЕСТЕ", БЕЗ ГАРАНЦИЈА БИЛО КАКВЕ ВРСТЕ, ЕXПЛИЦИТНИХ ИЛИ ИМПЛИЦИТНИХ, УКЉУЧУЈУЋИ АЛИ НЕ ОГРАНИЧАВАЈУЋИ СЕ НА ГАРАНЦИЈЕ ПРОДАЈЕ, ЗА БИЛО КОЈЕ СВРХЕ БЕЗ ОГРАНИЧЕЊА. НИ У КОМ СЛУЧАЈУ Х КОНЗОРЦИЈУМ НЕЋЕ БИТИ ОДГОВОРАН ЗА БИЛО КАКВА ОШТЕЋЕЊА, ИЛИ НЕДОСТАТКЕ БИЛО КОЈЕ ВРСТЕ, ДА ЛИ ЗБОГ УГОВОРА ИЛИ НА НЕКИ ДРУГИ НАЧИН, КОЈА СУ НАСТАЛА ВЕЗАНО ИЛИ НЕВЕЗАНО СА СОФТВЕРОМ ИЛИ КОРИШЋЕЊЕМ СОФТВЕРА.
+
+Осим као што је наведено у овом обавештењу, име Х конзорцијума се не би смело користити за рекламирање или друге начине промовисања продаје, а такође и коришћење или друге обраде унутар самог софтвера неће бити могуће без претходног одобрења Х конзорцијума.
+
+X Window System је заштитни знак X конзорцијума.
+&lt;/pre&gt;
+
+== Поређење са осталим лиценцама ==
+МИТ Лиценца је слична 3-клаузуларној "модификованој" [[BSD licence|BSD лиценци]], осим што BSD лиценца садржи обавештење којим се забрањује коришћење назива носиоца ауторског права у промоцији. Ово је понекад присутно у верзијама МИТ лиценце, као што је горе наведено.
+
+Оригинална BSD лиценца садржи и члан у коме се захтева да све рекламе софтвера прикажу обавештења о кредитирању својих аутора. Ова "рекламна тврдња" (откако је одбачена од стране УН Берклија&lt;ref name="update"&gt;&lt;cite class="citation web"&gt;[ftp://ftp.cs.berkeley.edu/pub/4bsd/README.Impt.License.Change "To All Licensees, Distributors of Any Version of BSD"]. &lt;/cite&gt;&lt;/ref&gt;) је присутна у модификованој МИТ лиценци коју користи [[XFree86]].
+
+МИТ лиценца исказује много експлицитније права дата [[Крајњи корисник|крајњем кориснику]], укључујући и право на коришћење, копирање, модификовање, обједињавање, објављивање, дистрибуцију, подлиценцирање, и / или продају софтвера. МИТ лиценца изричито даје право "подлиценцирања" у тексту саме дозволе --право које није поменуто у BSD лиценци које једноставно даје право на ”промени и користи” . Право на подлиценце значи да странка која добије код под лиценцом МИТ-а има законско право да одобри сва права лиценце примљене у трећем лицу на које се распоређује лиценца МИТ кода.&lt;ref&gt;Dictionary.com defines "sublicense" as "a license or contract granted to a third party by a licensee for specified rights or uses of a product, brand name, logo, etc." http://dictionary.reference.com/browse/sublicense&lt;/ref&gt;&lt;sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;"&gt;&lt;/sup&gt;
+
+Као и BSD лиценца, ни МИТ лиценца не садржи изричиту дозволу патент лиценце. И BSD и МИТ лиценце су изграђене пре него што је патентибилност софтвера генерално призната по америчком закону.&lt;ref&gt;Stern &amp; Allen, Open Source Licensing. стр. 495 in Understanding the Intellectual Property License 2013 (Practicing Law Institute 2013)&lt;/ref&gt; Слична допустива лиценца, која садржи патентну лиценцу, је [[Апач лиценца]] верзије 2.0+.
+
+МИТ лиценца садржи услове који се користе у дефинисању права носиоца патента у 35 САД секција кода односно у 154 секције за "употребу" и "продају". Ово је протумачено од стране неких коментатора&lt;ref&gt;Christian H. Nadan, Closing the Loophole; Open Source Licensing and the Implied Patent License, THE COMPUTER AND INTERNET LAWYER, Vol. 26, No. 8 (Aug. 2009) available at http://www.scribd.com/doc/46088081/Closing-the-Loophole-Open-Source-Licensing-and-the-Implied-Patent-License-Nadan who argues that “By using patent terms like “deal in,” “use,” and “sell,” the MIT license grant is more likely to be deemed to include express patent rights than the BSD license.&lt;/ref&gt; као да је реч о 35 САД код секција где се 154 кода дефинишу као права власника патента, а то су: "Сваки патент мора да садржи кратак назив проналаска и одобрење проналазачу, његовим радницима или сарадницима, права да забрани другима да праве, користе, нуде тај патент за продају, продају широм Сједињених Америчких Држава или увоз патента у САД ..."&lt;ref&gt;35 U.S. Code section 154 at http://www.law.cornell.edu/uscode/text/35/154; Stern and Allen, supra. стр. 495&lt;/ref&gt; Природа овог права потврђеног од УН-а за патенте, нису јасна на први поглед, јер је негирајуће право, кључ је у речима "право да искључи.''&lt;ref&gt;Bitlaw, 1996-2013 Daniel A. Tysver (Beck &amp; Tysver) http://www.bitlaw.com/patent/rights.html&lt;/ref&gt; Свака особа је обично слободна да, употреби, или прода шта жели, без дозволе за то. Оно што носилац патента има за право је да искључи друге да раде оно што им је иначе дозвољено да раде. Дакле, укључивање речи додели права на "коришћење" и "продају" може само да се тумачи као значење да лиценца има сва права која би она иначе имала под ауторским гарантом. Није тешко закључити да ове често коришћене речи значе да власник лиценце одрицањем свог патента има право да искључи и друге од таквог деловања (и претпоставља да власник лиценце који има такве патенте може да искључи та права). А то да ли суд може да изрази признање патента под МИТ лиценцом, дакле, остаје отворено питање.&lt;sup class="noprint Inline-Template " style="white-space:nowrap;"&gt;&lt;/sup&gt;
+
+[[BSD licence|Поједностављена BSD лиценца]], коришћена од стране [[FreeBSD]] је у суштини идентична МИТ лиценци, јер не садржи ни рекламну клаузулу, нити забрану промоције имена носиоца ауторских права.
+
+Такође, слично је у и са ИСЦ лиценцом, која има једноставнији језик.
+
+[[Универзитет у Илиноису / NCSA јавна лиценца]] комбинује текст из обе МИТ и BSD лиценце; гаранција ове лиценце и одрицање су преузети из МИТ лиценце.
+
+== Одзив и утицај ==
+Од 2015. године у складу са  [[Black Duck софтвер|Black Duck]] софтвером&lt;ref name="blackduck2015"&gt;&lt;cite class="citation web"&gt;[http://www.blackducksoftware.com/resources/data/top-20-licenses "Top 20 licenses"] {{Wayback|url=http://www.blackducksoftware.com/resources/data/top-20-licenses |date=20160719043600 }}. &lt;/cite&gt;&lt;/ref&gt; А такође и према [[GitHub]] статистици, МИТ лиценца је постала најпопуларнија дозвола у [[Слободан софтвер и софтвер отвореног кода|ФОСС]] домену поред [[ГНУ-ова општа јавна лиценца|ГПЛ]] варијанти и других ФОСС лиценци.&lt;ref&gt;&lt;cite class="citation web"&gt;Balter, Ben (09.06.2015). &lt;/cite&gt;&lt;/ref&gt;
+
+== Види још ==
+* [[Comparison of free and open-source software licenses|Поређење слободних и отворених-кодова софтверских лиценци]]
+
+== Референце ==
+{{reflist|30em}}
+
+== Литература ==
+* {{Cite book |ref= harv|last=Rosen|first=Lawrence|title=Open Source Licensing|url= https://archive.org/details/opensourcelicens00rose_0|publisher=Prentice Hall PTR|edition=1st|year=2004|pages=[https://archive.org/details/opensourcelicens00rose_0/page/85 85]}}
+
+== Спољашње везе ==
+* [https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT MIT License variants]
+* [http://www.opensource.org/licenses/MIT The MIT License template] (Open Source Initiative official site)
+* [http://www.jclark.com/xml/copying.txt Expat License]
+* [http://www.xfree86.org/3.3.6/COPYRIGHT2.html#3 X11 License]
+
+[[Категорија:Лиценце за слободни софтвер]]</text>
+      <sha1>kft4l02r78fvkycy7om2t62oka93b44</sha1>
+    </revision>
+  </page>
+</mediawiki>

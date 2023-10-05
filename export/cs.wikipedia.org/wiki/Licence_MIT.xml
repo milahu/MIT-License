@@ -1,0 +1,105 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="cs">
+  <siteinfo>
+    <sitename>Wikipedie</sitename>
+    <dbname>cswiki</dbname>
+    <base>https://cs.wikipedia.org/wiki/Hlavn%C3%AD_strana</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Média</namespace>
+      <namespace key="-1" case="first-letter">Speciální</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskuse</namespace>
+      <namespace key="2" case="first-letter">Wikipedista</namespace>
+      <namespace key="3" case="first-letter">Diskuse s wikipedistou</namespace>
+      <namespace key="4" case="first-letter">Wikipedie</namespace>
+      <namespace key="5" case="first-letter">Diskuse k Wikipedii</namespace>
+      <namespace key="6" case="first-letter">Soubor</namespace>
+      <namespace key="7" case="first-letter">Diskuse k souboru</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Diskuse k MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Šablona</namespace>
+      <namespace key="11" case="first-letter">Diskuse k šabloně</namespace>
+      <namespace key="12" case="first-letter">Nápověda</namespace>
+      <namespace key="13" case="first-letter">Diskuse k nápovědě</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Diskuse ke kategorii</namespace>
+      <namespace key="100" case="first-letter">Portál</namespace>
+      <namespace key="101" case="first-letter">Diskuse k portálu</namespace>
+      <namespace key="102" case="first-letter">Rejstřík</namespace>
+      <namespace key="103" case="first-letter">Diskuse k rejstříku</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Modul</namespace>
+      <namespace key="829" case="first-letter">Diskuse k modulu</namespace>
+      <namespace key="2300" case="case-sensitive">Udělátko</namespace>
+      <namespace key="2301" case="case-sensitive">Diskuse k udělátku</namespace>
+      <namespace key="2302" case="case-sensitive">Definice udělátka</namespace>
+      <namespace key="2303" case="case-sensitive">Diskuse k definici udělátka</namespace>
+      <namespace key="2600" case="first-letter">Téma</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Licence MIT</title>
+    <ns>0</ns>
+    <id>321206</id>
+    <revision>
+      <id>23209589</id>
+      <parentid>23159544</parentid>
+      <timestamp>2023-09-23T14:50:06Z</timestamp>
+      <contributor>
+        <username>David V. bot</username>
+        <id>506979</id>
+      </contributor>
+      <minor/>
+      <comment>pořadí sekcí za použití [[Wikipedie:AutoWikiBrowser|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2516" xml:space="preserve">'''Licence MIT''' je [[svobodný software|svobodná]] licence vzniknuvší na [[Massachusettský technologický institut|Massachusettském technologickém institutu]] (MIT). Software uvolněný pod touto licencí je možné použít jak v [[proprietární software|proprietárním software]] (s podmínkou, že text licence MIT musí být dodáván spolu s daným software), tak i s [[GNU General Public License|GPL]] licencovaným software (díky tomu, že GPL explicitně povoluje kombinaci s licencí MIT).
+
+Podle [[Free Software Foundation]] je přesnější název pro licenci '''licence Expat'''&lt;ref name="Nejmenovaný-1-w1u-1"&gt;{{Citace elektronického periodika
+| titul = Různé licence a komentáře k nim - GNU projekt - Nadace pro svobodný software
+| periodikum = www.gnu.org
+| url = https://www.gnu.org/licenses/license-list.cs.html
+| datum přístupu = 2022-12-25
+}}&lt;/ref&gt; nebo '''[[X11]]'''&lt;ref name="Nejmenovaný-1-w1u-1" /&gt;, jelikož MIT používala pro své produkty mnoho licencí a tato původně vznikla pro distribuci [[X Window System]].
+
+Mezi software používající tuto licenci patří například [[Expat]], [[PuTTY]], knihovny tříd [[Mono (platforma)|Mono]], [[Ruby on Rails]], [[Twisted (software)|Twisted]], [[Lua]] od verze 5.0 a [[X Window System]].
+
+== Text licence ==
+ Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+ 
+ Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation
+ files (the "Software"), to deal in the Software without
+ restriction, including without limitation the rights to use,
+ copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the
+ Software is furnished to do so, subject to the following
+ conditions:
+ 
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ 
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+ OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+ OTHER DEALINGS IN THE SOFTWARE.
+
+== Odkazy ==
+
+=== Reference ===
+&lt;references /&gt;
+
+=== Externí odkazy ===
+* {{Commonscat}}
+
+[[Kategorie:Softwarové licence]]</text>
+      <sha1>13ujp3a9d3lik98wehayjmsgep967pe</sha1>
+    </revision>
+  </page>
+</mediawiki>

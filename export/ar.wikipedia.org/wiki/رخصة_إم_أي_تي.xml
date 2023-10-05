@@ -1,0 +1,96 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="ar">
+  <siteinfo>
+    <sitename>ويكيبيديا</sitename>
+    <dbname>arwiki</dbname>
+    <base>https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">ميديا</namespace>
+      <namespace key="-1" case="first-letter">خاص</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">نقاش</namespace>
+      <namespace key="2" case="first-letter">مستخدم</namespace>
+      <namespace key="3" case="first-letter">نقاش المستخدم</namespace>
+      <namespace key="4" case="first-letter">ويكيبيديا</namespace>
+      <namespace key="5" case="first-letter">نقاش ويكيبيديا</namespace>
+      <namespace key="6" case="first-letter">ملف</namespace>
+      <namespace key="7" case="first-letter">نقاش الملف</namespace>
+      <namespace key="8" case="first-letter">ميدياويكي</namespace>
+      <namespace key="9" case="first-letter">نقاش ميدياويكي</namespace>
+      <namespace key="10" case="first-letter">قالب</namespace>
+      <namespace key="11" case="first-letter">نقاش القالب</namespace>
+      <namespace key="12" case="first-letter">مساعدة</namespace>
+      <namespace key="13" case="first-letter">نقاش المساعدة</namespace>
+      <namespace key="14" case="first-letter">تصنيف</namespace>
+      <namespace key="15" case="first-letter">نقاش التصنيف</namespace>
+      <namespace key="100" case="first-letter">بوابة</namespace>
+      <namespace key="101" case="first-letter">نقاش البوابة</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">وحدة</namespace>
+      <namespace key="829" case="first-letter">نقاش الوحدة</namespace>
+      <namespace key="2300" case="case-sensitive">إضافة</namespace>
+      <namespace key="2301" case="case-sensitive">نقاش الإضافة</namespace>
+      <namespace key="2302" case="case-sensitive">تعريف الإضافة</namespace>
+      <namespace key="2303" case="case-sensitive">نقاش تعريف الإضافة</namespace>
+      <namespace key="2600" case="first-letter">موضوع</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>رخصة إم أي تي</title>
+    <ns>0</ns>
+    <id>332407</id>
+    <revision>
+      <id>64545321</id>
+      <parentid>64545320</parentid>
+      <timestamp>2023-09-12T13:20:16Z</timestamp>
+      <contributor>
+        <username>Mr.Ibrahembot</username>
+        <id>593870</id>
+      </contributor>
+      <minor/>
+      <comment>بوت:إضافة بوابة (بوابة:القانون)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4784" xml:space="preserve">{{معلومات رخصة برمجيات
+| الاسم            =
+| صورة            =MIT logo.svg
+| تعليق           =
+| المؤلف          =[[معهد ماساتشوستس للتكنولوجيا]]
+| الإصدار          =
+| حقوق النشر      =
+| تاريخ           =
+| موافقة المبادرة = 
+| موافقة دبيان    = نعم
+| برمجيات حرة     = نعم
+| توافق جي بي إل  = نعم
+| حقوق متروكة     = لا
+| وصل             = نعم
+| موقع ويب        = 
+}}
+'''رخصة إم إي تي''' {{إنج|MIT License}} هي رخصة [[برمجيات حرة|برمجيات حرة،]] منشؤها [[معهد ماساتشوستس للتكنولوجيا|معهد ماساتشوستس للتقنية]].&lt;ref&gt;{{استشهاد ويب |مسار=https://www.debian.org/legal/licenses/ |عنوان=License information |تاريخ=1997–2017 |تاريخ النشر=2017-07-12 |موقع=The [[دبيان]] |ناشر=[[البرمجيات في المصلحة العامة]] |تاريخ الوصول=2017-07-20 |مسار أرشيف=https://web.archive.org/web/20170720142826/https://www.debian.org/legal/licenses/ |تاريخ أرشيف=2017-07-20 |اقتباس=...&amp;nbsp;This page presents the opinion of some debian-legal contributors on how certain licenses follow the Debian Free Software Guidelines (DFSG).&amp;nbsp;...&amp;nbsp;Licenses currently found in Debian main include:{{قائمة منقطة|...|Expat/MIT-style licenses|...}}|حالة المسار=live}}&lt;/ref&gt;&lt;ref&gt;{{استشهاد ويب |مسار=https://www.gnu.org/licenses/license-list.en.html |عنوان=Various Licenses and Comments about Them |تاريخ=2014–2017 |تاريخ النشر=2017-04-04 |موقع=The [[مشروع جنو]] |ناشر=[[مؤسسة البرمجيات الحرة]] |at=X11 License |تاريخ الوصول=2017-07-20 |مسار أرشيف=https://web.archive.org/web/20170720140022/https://www.gnu.org/licenses/license-list.en.html |تاريخ أرشيف=2017-07-20 |اقتباس=...&amp;nbsp;This is a lax permissive non-copyleft free software license, compatible with the GNU GPL.&amp;nbsp;...&amp;nbsp;This license is sometimes called the MIT license, but that term is misleading, since MIT has used many licenses for software.&amp;nbsp;...|حالة المسار=live}}&lt;/ref&gt;&lt;ref&gt;{{استشهاد ويب|مسار=https://www.gnu.org/licenses/license-list.html#X11License |عنوان=Various Licenses and Comments about Them#X11 License |تاريخ الوصول=5 December 2010 |ناشر=Free Software Foundation | مسار أرشيف = https://web.archive.org/web/20180707152211/http://www.gnu.org/licenses/license-list.html | تاريخ أرشيف = 07 يوليو 2018 }}&lt;/ref&gt; تعتبر رخصة MIT رخصة متساهلة، أنها تسمح باستخدامها مع [[برمجية محتكرة|البرمجيات الاحتكارية]] بشرط أن تكون الرخصة موزعة معها، وهي أيضاً متكاملة مع [[رخصة جنو العمومية]]، بمعنى أن رخصة جنو العمومية تسمح بجمعها ونشرها مع البرمجيات التي تستخدم رخصة MIT.
+
+طبقًا [[مؤسسة البرمجيات الحرة|لمؤسسة البرمجيات الحرة]] فإن '''رخصة إم إي تي''' تسمى رخصة X11، حيث أن [[معهد ماساتشوستس للتكنولوجيا|معهد تكنولوجيا ماساتشوستس]] استخدم العديد من الرخص للبرمجيات، و'''رخصة إم إي تي''' تمت صياغتها لأول مرة [[نظام النافذة إكس|لنظام النوفذة س]].
+
+حُزم البرمجيات التي تستخدم '''رخصة إم إي تي''' تتضمن إكسبات، بوتي، مكتبات بيئة تطوير مونو، [[روبي أون ريلز|روبي على قضبان]]، تويستيد ونظام نوفذة س الذي كتبت الرخصة من أجله.
+
+بعض حُزم [[برمجية|البرمجيات]] تقوم بمزاوجة رخصتها مع '''رخصة إم إي تي'''، مثل النسخ القديمة من مكتبة [[كرل]] والتي سمحت للمستفيدين من هذه المكتبة بالاختيار بين [[رخصة موزيلا العمومية]] و'''رخصة إم إي تي'''.
+
+== مراجع ==
+
+{{مراجع}}
+{{روابط شقيقة}}
+{{برمجيات حرة}}
+{{شريط بوابات|القانون|برمجيات|برمجيات حرة|تقانة المعلومات|علم الحاسوب}}
+
+{{بذرة برمجيات حاسوب}}
+
+[[تصنيف:رخص برمجيات حرة ومفتوحة المصدر]]
+[[تصنيف:رخص برمجيات حرة|M]]
+[[تصنيف:معهد ماساتشوستس للتكنولوجيا]]
+[[تصنيف:نظام النافذة إكس]]</text>
+      <sha1>ctxegexx0cez1juonzhvqnff7aae3e9</sha1>
+    </revision>
+  </page>
+</mediawiki>

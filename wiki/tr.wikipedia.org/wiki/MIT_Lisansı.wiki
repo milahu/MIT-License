@@ -1,0 +1,39 @@
+{{Yazılım lisansı bilgi kutusu
+| ad              = MIT Lisansı
+| resim           =[[Dosya:MIT_logo.svg|200px]] 
+| resimyazısı     = 
+| yazar           = [[Massachusetts Teknoloji Enstitüsü]]
+| sürüm           = 
+| yayımcı         = Massachusetts Teknoloji Enstitüsü
+| yayım tarihi    = 1988
+| ilk yayımlanma  =
+| DFSG uyumlu     = Evet
+| FSF onaylı      = Evet
+| OSI onaylı      = Evet
+| GPL uyumlu      = Evet
+| telif feragatlı = Hayır
+| kod bağdaştırma = Evet
+| web sitesi      = 
+}}
+
+'''MIT Lisansı''', 1988 yılında [[Massachusetts Teknoloji Enstitüsü]] tarafından hazırlanmış, en yaygın kullanılan [[özgür yazılım]] lisanslarından biridir.<ref name="blackduck2013">{{Web kaynağı | url = http://www.blackducksoftware.com/resources/data/top-20-licenses | başlık = Top 20 licenses | yayımcı = Black Duck Software | erişimtarihi = 23 Ağustos 2013 | arşivurl = https://web.archive.org/web/20130904051147/http://www.blackducksoftware.com/resources/data/top-20-licenses | arşivtarihi = 4 Eylül 2013 | ölüurl =evet}}</ref>
+
+MIT Lisansı ile yayınlanan kodların [[sahipli yazılım]]larda kullanılmasına, o yazılımın da lisansı dağıtması durumunda olanak verir. Ayrıca [[GPL]] ile uyumludur. Bir başka deyişle, GPL lisanslı bir yazılımla MIT lisanslı bir yazılımın kodları birlikte kullanılabilir ve dağıtılabilir.
+
+MIT Lisansı, GPL dışında, [[Açık Kaynak İnisiyatifi]] standartlarına ve [[Debian Özgür Yazılım Yönergeleri]]'yle de uyumludur. [[telif feragatı|Telif feragatlı]] değildir.<ref>[http://tr.pardus-wiki.org/ PardusWiki] {{Webarşiv|url=https://web.archive.org/web/20170120063355/http://tr.pardus-wiki.org/ |tarih=20 Ocak 2017 }}’de "MIT Lisansı" maddesi</ref>
+
+== MIT Lisansı'nın kullanımı ==
+MIT Lisansı en yaygın kullanılan özgür yazılım lisanslarından biridir.<ref name="blackduck2013"/>
+[[Mono]] geliştirme çatısı, [[Ruby on Rails]], [[PuTTY]], [[Lua]] (5.0 ve sonraki sürümlerde) gibi uygulama ve diller MIT Lisansı kullanmaktadır. Bunun yanında [[XFree86]] sistemi de MIT Lisansı kullanır, ki lisans zaten ilk olarak bu sistem için yazılmıştır.
+
+Popüler [[çoklu lisans]]lı yazılımlardan [[JQuery]] JavaScript kütüphanesi hem MIT hem de GPL ile dağıtılmaktadır.
+
+== Dış bağlantılar ==
+* [http://ozgurlisanslar.org.tr/mit/ Gayriresmi çevirisi]{{Webarşiv|url=https://web.archive.org/web/20170413071115/http://ozgurlisanslar.org.tr/mit/ |tarih=13 Nisan 2017 }} {{Tr}}
+* [http://www.opensource.org/licenses/mit-license.php MIT Lisansı şablonu]{{Webarşiv|url=https://web.archive.org/web/20120217152029/http://www.opensource.org/licenses/mit-license.php |tarih=17 Şubat 2012 }} {{ing.}}
+* [https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT MIT Lisansı türevleri]{{Webarşiv|url=https://web.archive.org/web/20200919040011/https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing%2FMIT |tarih=19 Eylül 2020 }} {{ing.}}
+
+== Kaynakça ==
+{{Kaynakça}}
+
+[[Kategori:Özgür yazılım lisansları]]

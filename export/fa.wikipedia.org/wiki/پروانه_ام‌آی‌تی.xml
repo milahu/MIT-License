@@ -1,0 +1,120 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="fa">
+  <siteinfo>
+    <sitename>ویکی‌پدیا</sitename>
+    <dbname>fawiki</dbname>
+    <base>https://fa.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">مدیا</namespace>
+      <namespace key="-1" case="first-letter">ویژه</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">بحث</namespace>
+      <namespace key="2" case="first-letter">کاربر</namespace>
+      <namespace key="3" case="first-letter">بحث کاربر</namespace>
+      <namespace key="4" case="first-letter">ویکی‌پدیا</namespace>
+      <namespace key="5" case="first-letter">بحث ویکی‌پدیا</namespace>
+      <namespace key="6" case="first-letter">پرونده</namespace>
+      <namespace key="7" case="first-letter">بحث پرونده</namespace>
+      <namespace key="8" case="first-letter">مدیاویکی</namespace>
+      <namespace key="9" case="first-letter">بحث مدیاویکی</namespace>
+      <namespace key="10" case="first-letter">الگو</namespace>
+      <namespace key="11" case="first-letter">بحث الگو</namespace>
+      <namespace key="12" case="first-letter">راهنما</namespace>
+      <namespace key="13" case="first-letter">بحث راهنما</namespace>
+      <namespace key="14" case="first-letter">رده</namespace>
+      <namespace key="15" case="first-letter">بحث رده</namespace>
+      <namespace key="100" case="first-letter">درگاه</namespace>
+      <namespace key="101" case="first-letter">بحث درگاه</namespace>
+      <namespace key="118" case="first-letter">پیش‌نویس</namespace>
+      <namespace key="119" case="first-letter">بحث پیش‌نویس</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">پودمان</namespace>
+      <namespace key="829" case="first-letter">بحث پودمان</namespace>
+      <namespace key="2300" case="case-sensitive">ابزار</namespace>
+      <namespace key="2301" case="case-sensitive">بحث ابزار</namespace>
+      <namespace key="2302" case="case-sensitive">توضیحات ابزار</namespace>
+      <namespace key="2303" case="case-sensitive">بحث توضیحات ابزار</namespace>
+      <namespace key="2600" case="first-letter">مبحث</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>پروانه ام‌آی‌تی</title>
+    <ns>0</ns>
+    <id>539002</id>
+    <revision>
+      <id>27345897</id>
+      <parentid>27269079</parentid>
+      <timestamp>2019-10-13T16:36:13Z</timestamp>
+      <contributor>
+        <username>Amir.Vector</username>
+        <id>751215</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6695" xml:space="preserve">{{جعبه اطلاعات مجوز نرم‌افزار
+| نام = پروانه ام‌آی‌تی
+| تصویر =MIT logo.svg
+| توضیح تصویر =
+| نویسنده = [[مؤسسه فناوری ماساچوست]]
+| نسخه =
+| ناشر =
+| تاریخ = ۱۹۹۸
+| تأیید پیشگامان متن‌باز = بله
+| تأیید دبیان = بله
+| نرم‌افزار آزاد = بله
+| سازگار با جی‌پی‌ال = بله
+| کپی‌لفت = خیر
+| پیوند دادن = بله
+| وبگاه =
+}}
+'''پروانه ام‌آی‌تی''' {{به انگلیسی|MIT License}} یک [[پروانهٔ آزاد|پروانه نرم‌افزاری آزاد]] آسان‌گیر، نوشته شده توسط [[مؤسسه فناوری ماساچوست|موسسه فناوری ماساچوست (MIT)]] است.&lt;ref&gt;{{یادکرد کتاب|عنوان=پروانه‌های متن‌باز|نام خانوادگی=Rosen|نام=Lawrence|ناشر=Prentice Hall PTR|سال=2004|شابک=|ویرایش=اول|مکان=|صفحات=۸۷}}&lt;/ref&gt; به عنوان یک پروانه آسان‌گیر، تنها محدودیت نه چندان مهم آن در استفاده مجدد است و سازگاری بسیار خوبی در قسمت‌های مختلف توسعه یک نرم‌افزار دارد.&lt;ref&gt;{{یادکرد وب|نشانی=https://joinup.ec.europa.eu/community/eupl/og_page/licence-compatibility|عنوان=Licence Compatibility {{!}} Joinup|ناشر=joinup.ec.europa.eu|بازبینی=2016-12-15}}&lt;/ref&gt;&lt;ref&gt;{{یادکرد وب|نویسنده=Marcus D. Hanwell|کد زبان=en|تاریخ=24 ژانویه 2014|وبگاه=Open Source|نشانی=https://opensource.com/business/14/1/what-license-should-i-use-open-source-project|عنوان=Should I use a permissive license? Copyleft? Or something in the middle?}}&lt;/ref&gt; پروانه ام‌آی‌تی به نرم‌افزار اجازه می‌دهد که مجدداً در یک [[نرم‌افزار اختصاصی]] با مجوز غیر ام‌آی‌تی استفاده شود به شرط آنکه در تمامی نسخه‌های نرم‌افزار اختصاصی، سند شرایط استفاده پروانه ام‌آی‌تی وجود داشته باشد. این مجوز همچنین با مجوزهای [[کپی‌لفت]] از جمله [[پروانه عمومی همگانی گنو|پروانه عمومی همگانی گنو (جی‌پی‌ال)]] سازگار می‌باشد بدین معنی که ام‌آی‌تی اجازه ترکیب و توسعه با نرم‌افزارهای تولید شده با مجوز [[پروانه عمومی همگانی گنو|جی‌پی‌ال]] را می‌دهد و نه دیگر مجوزها.&lt;ref&gt;{{یادکرد وب|نشانی=https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses|عنوان=gnu.org|ناشر=www.gnu.org|بازبینی=2016-12-15}}&lt;/ref&gt;
+
+از سال ۲۰۱۵، پیش از هر نوع پروانه نرم‌افزاری از خانواده جی‌پی‌ال و دیگر [[نرم‌افزار آزاد و متن‌باز|پروانه‌های آزاد و متن‌باز]]، پروانه ام‌آی‌تی محبوب‌ترین پروانه نرم‌افزاری بوده‌است.&lt;ref&gt;{{یادکرد وب|نویسنده=Ben Balter|کد زبان=en|تاریخ=9 مارچ 2015|وبگاه=Github|نشانی=https://github.com/blog/1964-license-usage-on-github-com|عنوان=Open source license usage on GitHub.com}}&lt;/ref&gt;&lt;ref&gt;{{یادکرد وب|نشانی=http://www.blackducksoftware.com/resources/data/top-20-licenses|عنوان=Top Open Source Licenses {{!}} Black Duck|ناشر=Black Duck Software|بازبینی=2016-12-15|archiveurl=https://web.archive.org/web/20160719043600/https://www.blackducksoftware.com/top-open-source-licenses|archivedate=۱۹ ژوئیه ۲۰۱۶|dead-url=yes}}&lt;/ref&gt;
+
+قابل ذکرترین پروژه‌هایی که بر مبنای پروانه ام‌آی‌تی توسعه پیدا کرده‌اند می‌توان به [[روبی آن ریلز]]، [[نود.جی‌اس]]، [[جی‌کوئری]]، [[سامانه پنجره اکس]]، [[انگولارجی‌اس]] اشاره کرد.
+
+== شرایط پروانه ==
+در حالت معمول پروانه ام‌آی‌تی (تعریف شده در وب‌سایت Open Source) به شکل زیر تعریف می‌شود:&lt;ref&gt;{{یادکرد وب|نشانی=https://opensource.org/licenses/MIT|عنوان=The MIT License (MIT) {{!}} Open Source Initiative|ناشر=opensource.org|بازبینی=2016-12-15}}&lt;/ref&gt;&lt;syntaxhighlight lang="text"&gt;
+The MIT License (MIT)
+Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+&lt;/syntaxhighlight&gt;
+
+== جستارهای وابسته ==
+* [[جی‌پی‌ال]] (اجازه‌نامهٔ عمومی همگانی گنو)
+* [[ال‌جی‌پی‌ال]] (یکی دیگر از مجوزهای نرم‌افزارهای آزاد)
+
+== منابع ==
+{{پانویس|۲}}
+{{یادکرد-ویکی
+|پیوند = http://en.wikipedia.org/wiki/MIT_License
+|عنوان = MIT License
+|زبان = en
+|بازیابی =
+}}
+{{نرم‌افزار آزاد و متن‌باز}}
+
+{{نرم‌افزار-خرد}}
+
+[[رده:اجازه‌نامه‌های آزاد]]
+[[رده:اجازه‌نامه‌های متن‌باز]]
+[[رده:اجازه‌نامه‌های نرم‌افزاری آزاد و متن‌باز]]
+[[رده:پروژه گنو]]
+[[رده:سامانه پنجره‌ای اکس]]
+[[رده:قانون حق تکثیر]]
+[[رده:مقاله‌های خرد علوم رایانه]]
+[[رده:مؤسسه فناوری ماساچوست]]
+[[رده:نرم‌افزارهای دارای اجازه‌نامه ام‌آی‌تی]]</text>
+      <sha1>mf9ofsgdtkku6l3blp3rp0pxl8bajlx</sha1>
+    </revision>
+  </page>
+</mediawiki>

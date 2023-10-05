@@ -1,0 +1,19 @@
+'''MIT licence''' ir [[Brīvā programmatūra|brīvā programmatūras]] [[licence]], kas radusies [[Masačūsetsas Tehnoloģiju institūts|Masačūsetsas Tehnoloģiju institūtā]] (MIT).<ref> Lawrence Rosen, OPEN SOURCE LICENSING, p.85 (Prentice Hall PTR, 1st ed. 2004)</ref> Tā ir atļaujoša brīvās programmatūras licence, kas nozīmē to, ka tā atļauj izmantošanu slēgtā pirmkoda programmatūrā, ja vien visām licencētās programmatūras kopijām ir līdzi iekļauti arī MIT licences nosacījumi un autortiesību informācija. Šāda slēgtā pirmkoda programmatūra saglabā savu slēgto dabu, lai arī tā iekļauj programmatūru, kas licencēta saskaņā ar MIT licenci.
+
+Licence ir savietojama arī ar [[GNU Vispārējā publiskā licence|GNU Vispārējo publisko licenci]], kas nozīmē, ka GPL ļauj kombinēt un tālāk izplatīt programmatūru kopā ar citu programmatūru, kas izmanto MIT licenci.<ref>[https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses Various Licenses and Comments about Them – GNU Project – Free Software Foundation]. Gnu.org (1999-09-03). Retrieved on 2013-07-17.</ref>
+
+Zināmākā programmatūra, kas izmanto kādu no MIT licences versijām ir ''[[Expat (XML)|Expat]]'', [[Mono (programmatūra)|''Mono'' izstrādes platformas]] klašu bibliotēkas, ''[[Ruby on Rails]]'', ''[[Node.js]]'', ''[[Lua (programmēšanas valoda)|Lua]]'' (no versijas 5.0), ''[[Wayland (displeja servera protokols)|Wayland]]'', ''[[jQuery]]'' un ''[[X Window System]]'', kam sākotnēji licence tika sarakstīta.
+
+== Atsauces ==
+{{atsauces}}
+
+== Ārējās saites ==
+* [https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT MIT licences variants]
+* [http://www.opensource.org/licenses/MIT MIT licences šablons] (''Open Source Initiative'' oficiālā vietne)
+* [http://www.jclark.com/xml/copying.txt Expat licence]
+* [http://www.xfree86.org/3.3.6/COPYRIGHT2.html#3 X11 licence]
+* [https://web.archive.org/web/20150209075321/https://tldrlegal.com/license/mit-license MIT Expat licences īss kopsavilkums]
+
+{{IT-aizmetnis}}
+
+[[Kategorija:Brīvā un atvērtā pirmkoda programmatūras licences]]

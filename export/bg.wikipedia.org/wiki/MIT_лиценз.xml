@@ -1,0 +1,101 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="bg">
+  <siteinfo>
+    <sitename>Уикипедия</sitename>
+    <dbname>bgwiki</dbname>
+    <base>https://bg.wikipedia.org/wiki/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Медия</namespace>
+      <namespace key="-1" case="first-letter">Специални</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Беседа</namespace>
+      <namespace key="2" case="first-letter">Потребител</namespace>
+      <namespace key="3" case="first-letter">Потребител беседа</namespace>
+      <namespace key="4" case="first-letter">Уикипедия</namespace>
+      <namespace key="5" case="first-letter">Уикипедия беседа</namespace>
+      <namespace key="6" case="first-letter">Файл</namespace>
+      <namespace key="7" case="first-letter">Файл беседа</namespace>
+      <namespace key="8" case="first-letter">МедияУики</namespace>
+      <namespace key="9" case="first-letter">МедияУики беседа</namespace>
+      <namespace key="10" case="first-letter">Шаблон</namespace>
+      <namespace key="11" case="first-letter">Шаблон беседа</namespace>
+      <namespace key="12" case="first-letter">Помощ</namespace>
+      <namespace key="13" case="first-letter">Помощ беседа</namespace>
+      <namespace key="14" case="first-letter">Категория</namespace>
+      <namespace key="15" case="first-letter">Категория беседа</namespace>
+      <namespace key="100" case="first-letter">Портал</namespace>
+      <namespace key="101" case="first-letter">Портал беседа</namespace>
+      <namespace key="118" case="first-letter">Чернова</namespace>
+      <namespace key="119" case="first-letter">Чернова беседа</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Модул</namespace>
+      <namespace key="829" case="first-letter">Модул беседа</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MIT лиценз</title>
+    <ns>0</ns>
+    <id>278837</id>
+    <revision>
+      <id>11682892</id>
+      <parentid>10943067</parentid>
+      <timestamp>2023-02-12T19:34:13Z</timestamp>
+      <contributor>
+        <username>Carbonaro.</username>
+        <id>221440</id>
+      </contributor>
+      <minor/>
+      <comment>пунктуация</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6193" xml:space="preserve">'''MIT лицензът''' е [[лиценз]] за [[свободен софтуер]], произлизащ от [[Масачузетски технологичен институт|Масачузетския технологичен институт]]. Лицензът позволява преизползването на лицензираното с него съдържание в софтуер със [[затворен код]] и е съвместим с [[GPL]], което означава, че GPL позволява комбинация и разпространяване със съдържание, лицензирано под лиценза MIT. MIT лицензът изисква негово копие да бъде разпространявано заедно със софтуера или значителни части от него.
+
+MIT лицензът има няколко различни версии. Според [[Фондация за свободен софтуер|Фондацията за свободен софтуер]], след като MIT са използвали различни лицензи за софтуера си, означението „MIT лиценз“ не е едносмислено и е по-правилно да се говори за Expat лиценз (използван за Expat)&lt;ref name="GUN-Expat"&gt;{{cite web|url=http://www.gnu.org/licenses/license-list.html#Expat |title=Various Licenses and Comments about Them # Expat License |accessdate=5 декември 2010 |last=Stallman |first=Richard |publisher=Free Software Foundation }}&lt;/ref&gt; или за X11 лиценз (използван за [[X Window System]] от [[MIT X Consortium]]).&lt;ref name="GUN-X11License"&gt;{{cite web|url=http://www.gnu.org/licenses/license-list.html#X11License |title=Various Licenses and Comments about Them # X11 License |accessdate=5 декември 2010 |last=Stallman |first=Richard |publisher=Free Software Foundation }}&lt;/ref&gt; MIT лицензът, който е често използван и е публикуван на официалния сайт на [[Инициатива за отворен код|Инициативата за отворен код]]&lt;ref name="OSI-MIT"&gt;{{cite web|url=http://www.opensource.org/licenses/mit-license.php|title=Open Source Initiative OSI – The MIT License:Licensing|publisher=Open Source Initiative|accessdate=5 декември 2010}}&lt;/ref&gt;, е същият като лиценза на Expat.
+
+XFree86 Project използва модифициран MIT лиценз за [[XFree86]] версия 4.4 и по-късни. Този лиценз включва клауза, която изисква специално признание, казващо, че продуктът използва софтуер от XFree86 Project.&lt;ref&gt;{{cite web|url=http://www.xfree86.org/current/LICENSE4.html#6 |title=XFree86 License (version 1.1) |accessdate=12 юли 2007 |publisher=XFree86 Project }}&lt;/ref&gt; Фондацията за свободен софтуер твърди, че тази добавка не е съвместима с версия 2 на GPL, но е съвместима с версия 3.&lt;ref&gt;{{cite web|url=http://www.gnu.org/licenses/license-list.html#X11License |title=Licenses |accessdate=12 юли 2007 |publisher=[[Free Software Foundation]] }}&lt;/ref&gt;
+
+== Текст на Expat версията ==
+{{цитат|Copyright (C) &lt;година&gt;&lt;притежател&gt;
+
+Предоставя се безплатно разрешение, на всеки човек, който получава копие
+на този Софтуер и принадлежащата му документация („софтуерът“), да се ползва
+без ограничения, включително без ограничаване на правата за ползване, копиране,
+модифициране, сливане с друг софтуер, публикуване, разпространяване,
+под-лицензиране, и/или продаването на копия на Софтуера, също така лицата, на
+които този софтуер е предоставен, да ползват същите права при спазване на
+следните условия:
+
+Горните авторски права и настоящата разрешителна забележка, да се включват във
+всички копия или значителни части от Софтуера.
+
+СОФТУЕРЪТ СЕ ПРЕДОСТАВЯ „ТАКЪВ КАКЪВТО Е“, БЕЗ ГАРАНЦИЯ ОТ КАКЪВТО И ДА Е ВИД,
+ЯВНА ИЛИ НЕЯВНА, ВКЛЮЧИТЕЛНО НО И НЕ САМО ТЪРГОВСКИ ГАРАНЦИИ, ГОДНОСТ ЗА
+ОПРЕДЕЛЕНА ЦЕЛ И НЕНАРУШАВАНЕ. АВТОРЪТ ИЛИ ПРИТЕЖАТЕЛИТЕ НА ЛИЦЕНЗА В НИКАКЪВ СЛУЧАЙ
+НЕ НОСЯТ ОТГОВОРНОСТ ЗА КАКВИТО И ДА Е ИСКОВЕ, ЩЕТИ ИЛИ ДРУГИ ОТГОВОРНОСТИ,
+НЕЗАВИСИМО ДАЛИ СА В СЛЕДСТВИЕ ОТ ДОГОВОР, НАРУШЕНИЕ ИЛИ ПО ДРУГ НАЧИН,
+ПРОИЗТИЧАЩИ ОТ ИЛИ ВЪВ ВРЪЗКА СЪС СОФТУЕРА ИЛИ ИЗПОЛЗВАНЕТО МУ ИЛИ
+ДРУГИ НЕЩА ВЪВ СОФТУЕРА.|}}
+
+== Източници ==
+&lt;references /&gt;
+
+== Външни препратки ==
+* [http://www.opensource.org/licenses/mit-license.php The MIT License] на сайта на [[Инициативата за отворен код]] {{икона|en}}
+* [http://www.jclark.com/xml/copying.txt Лицензът на Expat] {{икона|en}}
+* [http://www.xfree86.org/3.3.6/COPYRIGHT2.html#3 Лицензът на X11] {{икона|en}}
+* [http://www.xfree86.org/current/LICENSE4.html#6 Лицензът на XFree86] {{икона|en}}
+
+{{Превод от|en|MIT License|422035686}}
+
+[[Категория:Софтуерни лицензи]]
+[[Категория:Масачузетски технологичен институт]]</text>
+      <sha1>mcxkhhkdg0dz74tgn2qvqz050fma33m</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,119 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="nl">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>nlwiki</dbname>
+    <base>https://nl.wikipedia.org/wiki/Hoofdpagina</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Speciaal</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Overleg</namespace>
+      <namespace key="2" case="first-letter">Gebruiker</namespace>
+      <namespace key="3" case="first-letter">Overleg gebruiker</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Overleg Wikipedia</namespace>
+      <namespace key="6" case="first-letter">Bestand</namespace>
+      <namespace key="7" case="first-letter">Overleg bestand</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Overleg MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Sjabloon</namespace>
+      <namespace key="11" case="first-letter">Overleg sjabloon</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Overleg help</namespace>
+      <namespace key="14" case="first-letter">Categorie</namespace>
+      <namespace key="15" case="first-letter">Overleg categorie</namespace>
+      <namespace key="100" case="first-letter">Portaal</namespace>
+      <namespace key="101" case="first-letter">Overleg portaal</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Overleg module</namespace>
+      <namespace key="2300" case="case-sensitive">Uitbreiding</namespace>
+      <namespace key="2301" case="case-sensitive">Overleg uitbreiding</namespace>
+      <namespace key="2302" case="case-sensitive">Uitbreidingsdefinitie</namespace>
+      <namespace key="2303" case="case-sensitive">Overleg uitbreidingsdefinitie</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MIT-licentie</title>
+    <ns>0</ns>
+    <id>779932</id>
+    <revision>
+      <id>65719495</id>
+      <parentid>53357835</parentid>
+      <timestamp>2023-09-06T22:05:26Z</timestamp>
+      <contributor>
+        <username>Wikiwernerbot</username>
+        <id>1061913</id>
+      </contributor>
+      <minor/>
+      <comment>[[Speciaal:Permalink/60259738|Botverzoeken]]: toevoegen archieflinks en vervangen http:// door https://</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2587" xml:space="preserve">{{Infobox softwarelicentie
+| naam=MIT-licentie
+| auteur=[[Massachusetts Institute of Technology]]
+| OSI approved=Ja&lt;ref&gt;https://opensource.org/licenses/alphabetical. [https://web.archive.org/web/20230210084600/https://opensource.org/licenses/alphabetical Gearchiveerd] op 10 februari 2023.&lt;/ref&gt;
+| Debian approved=Ja
+| Vrije software=Ja
+| GPL compatible=Ja&lt;ref&gt;https://www.gnu.org/licenses/license-list.html#X11License&lt;/ref&gt;
+| copyleft=Nee
+| linking=Ja
+| portaal2=Vrije software
+}}
+
+De '''MIT-licentie''' is een [[softwarelicentie]] voor [[opensourcesoftware]]. Het is ontstaan op [[Massachusetts Institute of Technology]]. Net als de [[BSD-licentie]] staat de MIT-licentie bijna alles toe. De enige voorwaarde is dat het [[copyright]] statement in alle kopieën moet blijven staan. Verder mag de software ook gebruikt worden als onderdeel van [[propriëtaire software]].
+
+De MIT-licentie is goedgekeurd volgens de ''[[Definitie van Vrije Culturele Werken]]''.
+
+== Licentietekst ==
+De MIT-licentie luidt als volgt:
+
+&lt;pre&gt;
+ Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+
+ Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation
+ files (the "Software"), to deal in the Software without
+ restriction, including without limitation the rights to use,
+ copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the
+ Software is furnished to do so, subject to the following
+ conditions:
+
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+ OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+ OTHER DEALINGS IN THE SOFTWARE.
+&lt;/pre&gt;
+
+== Aanverwante onderwerpen ==
+* [[LGPL]], Lesser General Public License
+* [[GNU-licentie voor vrije documentatie|GFDL]], GNU Free Documentation License
+* [[Public domain software]]
+* [[Vrije software]]
+* [[Opensourcesoftware]]
+* [[GNU]]
+* [[Linux]]
+
+== Externe link ==
+{{Link portaal|Vrije software}}
+* {{en}}[https://www.opensource.org/licenses/mit-license.php De officiële MIT-licentie]
+
+{{Appendix}}
+
+[[Categorie:Vrijesoftwarelicentie]]
+[[Categorie:Opensourcelicentie]]</text>
+      <sha1>pyjegu83426r7g2vqm84842idneziu4</sha1>
+    </revision>
+  </page>
+</mediawiki>

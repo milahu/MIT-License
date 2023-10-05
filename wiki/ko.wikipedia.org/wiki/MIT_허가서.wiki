@@ -1,0 +1,69 @@
+{{위키데이터 속성 추적}}
+{{Infobox software license
+| name = MIT 허가서
+| author = 
+| version =
+| copyright = [[매사추세츠 공과대학교]]
+| OSI approved = 예<ref name="osi-licenses">{{웹 인용|url=https://opensource.org/licenses/alphabetical |title=Licenses by Name |date=n.d. |website=[[Open Source Initiative]] |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720141629/https://opensource.org/licenses/alphabetical |url-status=live |archive-date=2017-07-20 |quote=...&nbsp;The following licenses have been approved by the OSI.&nbsp;...{{Bulleted list|...|MIT License (MIT)|...}}}}</ref>
+| Debian approved = 예<ref name="dfsg-licenses">{{웹 인용|url=https://www.debian.org/legal/licenses/ |title=License information |date=1997–2017 |publication-date=2017-07-12 |website=The [[Debian Project]] |publisher=[[Software in the Public Interest]] |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720142826/https://www.debian.org/legal/licenses/ |url-status=live |archive-date=2017-07-20 |quote=...&nbsp;This page presents the opinion of some debian-legal contributors on how certain licenses follow the Debian Free Software Guidelines (DFSG).&nbsp;...&nbsp;Licenses currently found in Debian main include:{{Bulleted list|...|Expat/MIT-style licenses|...}}}}</ref>
+| Free Software = 예<ref name="gnu-license-list-expat">{{웹 인용|url=https://www.gnu.org/licenses/license-list.en.html |title=Various Licenses and Comments about Them |date=2014–2017 |publication-date=2017-04-04 |website=The [[GNU Project]] |publisher=[[자유 소프트웨어 재단]] |at=Expat License |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720140022/https://www.gnu.org/licenses/license-list.en.html |url-status=live |archive-date=2017-07-20 |quote=...&nbsp;This is a lax, permissive non-copyleft free software license, compatible with the GNU GPL. It is sometimes ambiguously referred to as the MIT License.&nbsp;...}}</ref><ref name="gnu-license-list-x11">{{웹 인용|url=https://www.gnu.org/licenses/license-list.en.html |title=Various Licenses and Comments about Them |date=2014–2017 |publication-date=2017-04-04 |website=The [[GNU Project]] |publisher=[[자유 소프트웨어 재단]] |at=X11 License |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720140022/https://www.gnu.org/licenses/license-list.en.html |url-status=live |archive-date=2017-07-20 |quote=...&nbsp;This is a lax permissive non-copyleft free software license, compatible with the GNU GPL.&nbsp;...&nbsp;This license is sometimes called the MIT license, but that term is misleading, since MIT has used many licenses for software.&nbsp;...}}</ref>
+| GPL compatible = 예<ref name="gnu-license-list-expat"/><ref name="gnu-license-list-x11"/>
+| copyleft = 아니요<ref name="gnu-license-list-expat"/><ref name="gnu-license-list-x11"/>
+| copyfree = 예<ref>Certified [http://copyfree.org/licenses Copyfree Licenses]</ref>
+| linking = 예
+}}
+'''MIT 허가서'''({{llang|en|MIT License}}, MIT 라이선스)는 [[매사추세츠 공과대학교]](MIT)를 기원으로 하는 [[소프트웨어]] [[라이선스]] 중 가장 대표적인 것이다. '''X11 License''' 또는 '''X License'''로 표기된다.
+
+== 개요 ==
+MIT 허가서는 [[미국]]의 매사추세츠 공과대학교에서 자기 학교의 소프트웨어 공학도들을 돕기 위해 개발한 허가서이다. MIT 허가서를 따르는 소프트웨어를 개조한 제품을 반드시 [[오픈 소스]]로 배포해야 한다는 규정이 없으며, [[GNU 일반 공중 허가서]](GPL)의 엄격함을 피하려는 사용자들에게 인기가 있다.
+
+MIT 허가서는 GNU 일반 공중 허가서 등과 달리 [[카피 레프트]]는 아니며 [[오픈 소스]] 여부에 관계없이 재사용을 인정하고 있다. [[BSD 라이선스]]를 기초로 작성된 [[BSD계열 라이선스]] 중의 하나이다. 여러 가지 라이선스 중에서도 MIT 허가서는 매우 제한이 느슨한 라이선스라고 할 수 있다. 이 허가서를 따르는 대표적 소프트웨어로 [[Node.js]], [[jQuery]], [[루비 온 레일즈|Ruby on Rails]],  [[X 윈도 시스템]](X11) , [[비주얼 스튜디오 코드]] 등이 있다.
+
+때로는 "AS IS" End-User License Agreement(EULA)로 표기해 사용할 수도 있다. 그러나 이러한 형식은 [[BSD 라이선스]]와 구별이 가능하다.<ref>{{웹 인용 |url=http://qsupport.quantum.com/kb/flare/content/Scalar_i3/docCenter/License_EULA.htm |제목=보관된 사본 |확인날짜=2018-05-26 |보존url=https://web.archive.org/web/20180527201452/http://qsupport.quantum.com/kb/flare/content/Scalar_i3/docCenter/License_EULA.htm |보존날짜=2018-05-27 |url-status=dead }}</ref>
+
+== 특징 ==
+MIT 허가서는 다음과 같은 형식을 갖는다:
+
+ Copyright (c) <연도> <저작권 소유자>
+
+ Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation
+ files (the "Software"), to deal in the Software without
+ restriction, including without limitation the rights to use,
+ copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the
+ Software is furnished to do so, subject to the following
+ conditions:
+
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+ OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+ OTHER DEALINGS IN THE SOFTWARE.
+
+요약하면 MIT 허가서는 다음과 같은 라이선스이다.
+# 이 소프트웨어를 누구라도 무상으로 제한없이 취급해도 좋다. 단, 저작권 표시 및 이 허가 표시를 소프트웨어의 모든 복제물 또는 중요한 부분에 기재해야 한다.
+# 저자 또는 저작권자는 소프트웨어에 관해서 아무런 책임을 지지 않는다.
+
+== 같이 보기 ==
+* [[아파치 라이선스]]
+
+== 각주 ==
+{{각주}}
+
+== 외부 링크 ==
+* [http://olis.or.kr/ossw/license/license/detail.do?lid=1006 MIT 허가서] (한국저작권위원회 OLIS)
+* {{언어링크|en}} [http://www.opensource.org/licenses/mit-license.php Open Source Initiative OSI - The MIT License:Licensing] (원문)
+
+{{자유-오픈 소스 소프트웨어}}
+{{자유 소프트웨어 사용권 종류}}
+
+[[분류:매사추세츠 공과대학교]]
+[[분류:자유 및 오픈 소스 소프트웨어 사용권]]
+[[분류:X 윈도 시스템]]

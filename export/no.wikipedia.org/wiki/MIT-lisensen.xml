@@ -1,0 +1,98 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="nb">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>nowiki</dbname>
+    <base>https://no.wikipedia.org/wiki/Portal:Forside</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spesial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskusjon</namespace>
+      <namespace key="2" case="first-letter">Bruker</namespace>
+      <namespace key="3" case="first-letter">Brukerdiskusjon</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia-diskusjon</namespace>
+      <namespace key="6" case="first-letter">Fil</namespace>
+      <namespace key="7" case="first-letter">Fildiskusjon</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki-diskusjon</namespace>
+      <namespace key="10" case="first-letter">Mal</namespace>
+      <namespace key="11" case="first-letter">Maldiskusjon</namespace>
+      <namespace key="12" case="first-letter">Hjelp</namespace>
+      <namespace key="13" case="first-letter">Hjelpdiskusjon</namespace>
+      <namespace key="14" case="first-letter">Kategori</namespace>
+      <namespace key="15" case="first-letter">Kategoridiskusjon</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portaldiskusjon</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Modul</namespace>
+      <namespace key="829" case="first-letter">Moduldiskusjon</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Sak</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MIT-lisensen</title>
+    <ns>0</ns>
+    <id>45599</id>
+    <revision>
+      <id>17190147</id>
+      <parentid>17190144</parentid>
+      <timestamp>2017-02-25T07:59:13Z</timestamp>
+      <contributor>
+        <username>Ranværing</username>
+        <id>25968</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2448" xml:space="preserve">'''MIT-lisensen''' er en lisensbestemmelse som opprinnelig ble brukt for programvare med [[åpen kildekode]] fra [[Massachusetts Institute of Technology]] (MIT). Den brukes i dag også av andre organisasjoner og utviklere. [[Vindussystemet X]] og [[Wayland]] er eksempler på programvare som er lisensiert under MIT-lisensen.
+
+Lisensen er veldig lik [[BSD-lisensen]], blant annet gjør den det mulig å gjenbruke kildekoden uten å gjøre endringene tilgjengelig. Den største forskjellen mellom de to lisensene er at BSD-lisensen inneholder en klausul om at man ikke kan bruke navnet på kopirettinnehaveren eller andre bidragsytere til det originale produktet for å promotere et avledet produkt, uten å ha tillatelse fra disse. MIT-lisensen inneholder ikke denne klausulen.
+
+Lisensen blir også kalt X11-lisensen, siden MIT utgir programvare under flere lisenser. Blant annet [[Free Software Foundation]] kaller den X11-lisensen på sin lisensliste [http://www.gnu.org/licenses/license-list.html#X11License].
+
+== Lisensteksten ==
+&lt;pre&gt;
+Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+&lt;/pre&gt;
+== Se også ==
+*[[BSD-lisensen]]
+*[[GNU General Public License]]
+*[[Apache-lisensen]]
+
+== Eksterne lenker ==
+* [http://www.opensource.org/licenses/mit-license.php Open Source Initiative: The MIT License]
+{{Autoritetsdata}}
+
+[[Kategori:Fri programvare]]
+[[Kategori:Massachusetts Institute of Technology]]
+[[Kategori:Programvarelisenser]]</text>
+      <sha1>puqqqhddf7mfa8be0o08exc6a1qmbqv</sha1>
+    </revision>
+  </page>
+</mediawiki>

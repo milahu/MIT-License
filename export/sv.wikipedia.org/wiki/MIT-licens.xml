@@ -1,0 +1,133 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="sv">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>svwiki</dbname>
+    <base>https://sv.wikipedia.org/wiki/Portal:Huvudsida</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Användare</namespace>
+      <namespace key="3" case="first-letter">Användardiskussion</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipediadiskussion</namespace>
+      <namespace key="6" case="first-letter">Fil</namespace>
+      <namespace key="7" case="first-letter">Fildiskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki-diskussion</namespace>
+      <namespace key="10" case="first-letter">Mall</namespace>
+      <namespace key="11" case="first-letter">Malldiskussion</namespace>
+      <namespace key="12" case="first-letter">Hjälp</namespace>
+      <namespace key="13" case="first-letter">Hjälpdiskussion</namespace>
+      <namespace key="14" case="first-letter">Kategori</namespace>
+      <namespace key="15" case="first-letter">Kategoridiskussion</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portaldiskussion</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Modul</namespace>
+      <namespace key="829" case="first-letter">Moduldiskussion</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Ämne</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MIT-licens</title>
+    <ns>0</ns>
+    <id>704166</id>
+    <revision>
+      <id>49184812</id>
+      <parentid>46619468</parentid>
+      <timestamp>2021-05-01T10:57:34Z</timestamp>
+      <contributor>
+        <username>Boivie</username>
+        <id>5971</id>
+      </contributor>
+      <minor/>
+      <comment>/* Källor */ tar bort stubbmall</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5688" xml:space="preserve">{{Faktamall
+|titel      = MIT License
+|över       = 
+|bild       = [[File:MIT logo.svg|MIT license logga]]
+|bildtext   = MIT license logotyp.
+|rubrikstil = 
+|rubrik1   = 
+|etikett1  = Skapare
+|innehåll1 = Massachusetts Institute of Technology (MIT)
+|rubrik2   = 
+|etikett2  = Publicerad
+|innehåll2 = 1988
+|etikett3  = [[DFSG]] kompatibel
+|innehåll3 = Ja
+|etikett4   = Godkänd av [[Free Software Foundation|FSF]]
+|innehåll4  = Ja
+|etikett5  = Godkänd av [[Open Source Initiative|OSI]]
+|innehåll5  = Ja
+|etikett6  = [[GPL]] kompatibel
+|innehåll6  = Ja
+|etikett7  = Copyleft
+|innehåll7  = Nej
+|etikett8  = Copyfree
+|innehåll8  = Ja
+|etikett9  = Länkning från kod med annan licens
+|innehåll9  = Ja
+|under      = ''Denna faktaruta är direkt översatt från {{ webref | url = http://en.wikipedia.org/wiki/MIT_License| titel = Engelska wikipedia }}''
+}}
+
+'''MIT-licens''' är en av de tidigaste&lt;ref&gt;{{webref |url = https://books.google.se/books?id=04jG7TTLujoC&amp;printsec=frontcover&amp;dq=MIT+license+google+books&amp;source=bl&amp;ots=AfkFXKplGC&amp;sig=AqbgUKXfOPhZn0kGtKxKIYhWCrk&amp;hl=sv&amp;sa=X&amp;ei=cbVZUKm1A-XN4QTsvYDoCA&amp;ved=0CC8Q6AEwAA#v=onepage&amp;q=MIT%20license&amp;f=false|titel = Understanding Open Source and Free Software Licensing |datum = 2004 |efternamn = St. Laurent |förnamn = Andrew |utgivare = O'Reilly}}&lt;/ref&gt; programvarulicenser för [[öppen programvara]] som utvecklats av [[Massachusetts Institute of Technology]] (MIT). Det är en förhållandevis kortfattad och enkel [[copyfree]] licens där användaren tilldelas rätten att nyttja, kopiera, sprida och ändra programvaran med det enda kravet att MIT-licensen distribueras med den&lt;ref&gt;{{webref | url = https://books.google.se/books?id=0vbr7xvvzjgC&amp;pg=PA240&amp;lpg=PA240&amp;dq=mit+license&amp;source=bl&amp;ots=D0fX-4vczw&amp;sig=YsiaGYdtSj92azTtYu2MRvzhYPg&amp;hl=sv&amp;sa=X&amp;ei=fsJZULDqDZTQ4QTL7YDYDA&amp;ved=0CEYQ6AEwAw#v=onepage&amp;q=mit%20license&amp;f=false | titel = Producing Open Source Software: How to Run a Successful Free Software Project | efternamn = Fogel | förnamn = Karl | datum = 2006 | utgivare = O'Reilly}}&lt;/ref&gt;. Den tillåter även att koden släpps under licenser tillhörande [[proprietära programvaror]] under samma krav. I dessa fall bibehålls de proprietära egenskaperna i programvaran trots att en eller flera programvaror i den är fria&lt;ref&gt;{{webref |url = https://books.google.se/books?id=04jG7TTLujoC&amp;printsec=frontcover&amp;dq=MIT+license+google+books&amp;source=bl&amp;ots=AfkFXKplGC&amp;sig=AqbgUKXfOPhZn0kGtKxKIYhWCrk&amp;hl=sv&amp;sa=X&amp;ei=cbVZUKm1A-XN4QTsvYDoCA&amp;ved=0CC8Q6AEwAA#v=onepage&amp;q=MIT%20license&amp;f=false |titel = Understanding Open Source and Free Software Licensing | datum = 2004 | efternamn = St. Laurent | förnamn = Andrew | utgivare = O'Reilly}}&lt;/ref&gt;.
+
+Licensen är också kompatibel med [[GNU General Public License]] (GPL), i den meningen att GPL tillåter kombinationer och återdistributioner av programvara som använder MIT License.
+
+Exempel på programvaror som använder MIT-licens är [[PuTTY]], [[Mono (utvecklingsplattform)|Mono]], [[Ruby on Rails]], [[script.aculo.us]] och [[X Window System]].
+
+==Versioner==
+
+Eftersom MIT har använt flera olika licenser för olika programvaror menar [[Free Software Foundation]] att "MIT License" är tvetydigt då det inte framgår vilken version som gäller. En version är ''X11 License'' (eller ''MIT/X Consortium License'') som skapades ursprungligen för [[X Window System]]&lt;ref&gt;{{Webbref |url = http://www.gnu.org/licenses/license-list.html#X11License|titel = Various Licenses and Comments about Them|hämtdatum = 19 september 2012|efternamn = Stallman|förnamn = Richard|utgivare = Free Software Foundation}}&lt;/ref&gt; En annan version är ''Expat License'' som används för ''Expat''&lt;ref name="GUN-Expat"&gt;{{Webbref |url = http://www.gnu.org/licenses/license-list.html#Expat |titel = Various Licenses and Comments about Them # Expat License |hämtdatum = 19 september 2012 |efternamn = Stallman |förnamn = Richard |utgivare = Free Software Foundation }}&lt;/ref&gt; Gemensamt för båda versionerna är att de lämpar sig bra för mindre program där man inte är rädd för [[patent]]stöld.
+
+==Licensvillkor==
+En vanlig version av MIT-licensen (från OSI:s officiella hemsida) har definierats på följande vis:&lt;ref name="OSI-MIT"&gt;{{webbref|url=http://opensource.org/licenses/MIT|titel=Open Source Initiative OSI – The MIT License:Licensing|utgivare=Open Source Initiative|hämtdatum=2014-09-29}}&lt;/ref&gt;
+
+&lt;blockquote&gt;&lt;poem&gt;
+The MIT License (MIT)
+
+Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+&lt;/poem&gt;&lt;/blockquote&gt;
+
+== Källor ==
+&lt;references/&gt;
+
+{{enwp|url=http://en.wikipedia.org/w/index.php?title=MIT_License&amp;oldid=171265537}}
+
+[[Kategori:Fria programvarulicenser]]</text>
+      <sha1>641d5uekzf0vrnxcfnuh53rq08vofie</sha1>
+    </revision>
+  </page>
+</mediawiki>

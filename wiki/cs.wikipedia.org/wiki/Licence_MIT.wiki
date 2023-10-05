@@ -1,0 +1,44 @@
+'''Licence MIT''' je [[svobodný software|svobodná]] licence vzniknuvší na [[Massachusettský technologický institut|Massachusettském technologickém institutu]] (MIT). Software uvolněný pod touto licencí je možné použít jak v [[proprietární software|proprietárním software]] (s podmínkou, že text licence MIT musí být dodáván spolu s daným software), tak i s [[GNU General Public License|GPL]] licencovaným software (díky tomu, že GPL explicitně povoluje kombinaci s licencí MIT).
+
+Podle [[Free Software Foundation]] je přesnější název pro licenci '''licence Expat'''<ref name="Nejmenovaný-1-w1u-1">{{Citace elektronického periodika
+| titul = Různé licence a komentáře k nim - GNU projekt - Nadace pro svobodný software
+| periodikum = www.gnu.org
+| url = https://www.gnu.org/licenses/license-list.cs.html
+| datum přístupu = 2022-12-25
+}}</ref> nebo '''[[X11]]'''<ref name="Nejmenovaný-1-w1u-1" />, jelikož MIT používala pro své produkty mnoho licencí a tato původně vznikla pro distribuci [[X Window System]].
+
+Mezi software používající tuto licenci patří například [[Expat]], [[PuTTY]], knihovny tříd [[Mono (platforma)|Mono]], [[Ruby on Rails]], [[Twisted (software)|Twisted]], [[Lua]] od verze 5.0 a [[X Window System]].
+
+== Text licence ==
+ Copyright (c) <year> <copyright holders>
+ 
+ Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation
+ files (the "Software"), to deal in the Software without
+ restriction, including without limitation the rights to use,
+ copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the
+ Software is furnished to do so, subject to the following
+ conditions:
+ 
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ 
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+ OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+ OTHER DEALINGS IN THE SOFTWARE.
+
+== Odkazy ==
+
+=== Reference ===
+<references />
+
+=== Externí odkazy ===
+* {{Commonscat}}
+
+[[Kategorie:Softwarové licence]]

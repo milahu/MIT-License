@@ -1,0 +1,98 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="tr">
+  <siteinfo>
+    <sitename>Vikipedi</sitename>
+    <dbname>trwiki</dbname>
+    <base>https://tr.wikipedia.org/wiki/Anasayfa</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Ortam</namespace>
+      <namespace key="-1" case="first-letter">Özel</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Tartışma</namespace>
+      <namespace key="2" case="first-letter">Kullanıcı</namespace>
+      <namespace key="3" case="first-letter">Kullanıcı mesaj</namespace>
+      <namespace key="4" case="first-letter">Vikipedi</namespace>
+      <namespace key="5" case="first-letter">Vikipedi tartışma</namespace>
+      <namespace key="6" case="first-letter">Dosya</namespace>
+      <namespace key="7" case="first-letter">Dosya tartışma</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki tartışma</namespace>
+      <namespace key="10" case="first-letter">Şablon</namespace>
+      <namespace key="11" case="first-letter">Şablon tartışma</namespace>
+      <namespace key="12" case="first-letter">Yardım</namespace>
+      <namespace key="13" case="first-letter">Yardım tartışma</namespace>
+      <namespace key="14" case="first-letter">Kategori</namespace>
+      <namespace key="15" case="first-letter">Kategori tartışma</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal tartışma</namespace>
+      <namespace key="102" case="first-letter">Vikiproje</namespace>
+      <namespace key="103" case="first-letter">Vikiproje tartışma</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Modül</namespace>
+      <namespace key="829" case="first-letter">Modül tartışma</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MIT Lisansı</title>
+    <ns>0</ns>
+    <id>595899</id>
+    <revision>
+      <id>28222801</id>
+      <parentid>24262790</parentid>
+      <timestamp>2022-08-03T04:49:01Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>1107536</id>
+      </contributor>
+      <comment>1 kaynak kurtarıldı ve 0 kaynak ölü olarak işaretlendi.) #IABot (v2.0.8.9</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3059" xml:space="preserve">{{Yazılım lisansı bilgi kutusu
+| ad              = MIT Lisansı
+| resim           =[[Dosya:MIT_logo.svg|200px]] 
+| resimyazısı     = 
+| yazar           = [[Massachusetts Teknoloji Enstitüsü]]
+| sürüm           = 
+| yayımcı         = Massachusetts Teknoloji Enstitüsü
+| yayım tarihi    = 1988
+| ilk yayımlanma  =
+| DFSG uyumlu     = Evet
+| FSF onaylı      = Evet
+| OSI onaylı      = Evet
+| GPL uyumlu      = Evet
+| telif feragatlı = Hayır
+| kod bağdaştırma = Evet
+| web sitesi      = 
+}}
+
+'''MIT Lisansı''', 1988 yılında [[Massachusetts Teknoloji Enstitüsü]] tarafından hazırlanmış, en yaygın kullanılan [[özgür yazılım]] lisanslarından biridir.&lt;ref name="blackduck2013"&gt;{{Web kaynağı | url = http://www.blackducksoftware.com/resources/data/top-20-licenses | başlık = Top 20 licenses | yayımcı = Black Duck Software | erişimtarihi = 23 Ağustos 2013 | arşivurl = https://web.archive.org/web/20130904051147/http://www.blackducksoftware.com/resources/data/top-20-licenses | arşivtarihi = 4 Eylül 2013 | ölüurl =evet}}&lt;/ref&gt;
+
+MIT Lisansı ile yayınlanan kodların [[sahipli yazılım]]larda kullanılmasına, o yazılımın da lisansı dağıtması durumunda olanak verir. Ayrıca [[GPL]] ile uyumludur. Bir başka deyişle, GPL lisanslı bir yazılımla MIT lisanslı bir yazılımın kodları birlikte kullanılabilir ve dağıtılabilir.
+
+MIT Lisansı, GPL dışında, [[Açık Kaynak İnisiyatifi]] standartlarına ve [[Debian Özgür Yazılım Yönergeleri]]'yle de uyumludur. [[telif feragatı|Telif feragatlı]] değildir.&lt;ref&gt;[http://tr.pardus-wiki.org/ PardusWiki] {{Webarşiv|url=https://web.archive.org/web/20170120063355/http://tr.pardus-wiki.org/ |tarih=20 Ocak 2017 }}’de "MIT Lisansı" maddesi&lt;/ref&gt;
+
+== MIT Lisansı'nın kullanımı ==
+MIT Lisansı en yaygın kullanılan özgür yazılım lisanslarından biridir.&lt;ref name="blackduck2013"/&gt;
+[[Mono]] geliştirme çatısı, [[Ruby on Rails]], [[PuTTY]], [[Lua]] (5.0 ve sonraki sürümlerde) gibi uygulama ve diller MIT Lisansı kullanmaktadır. Bunun yanında [[XFree86]] sistemi de MIT Lisansı kullanır, ki lisans zaten ilk olarak bu sistem için yazılmıştır.
+
+Popüler [[çoklu lisans]]lı yazılımlardan [[JQuery]] JavaScript kütüphanesi hem MIT hem de GPL ile dağıtılmaktadır.
+
+== Dış bağlantılar ==
+* [http://ozgurlisanslar.org.tr/mit/ Gayriresmi çevirisi]{{Webarşiv|url=https://web.archive.org/web/20170413071115/http://ozgurlisanslar.org.tr/mit/ |tarih=13 Nisan 2017 }} {{Tr}}
+* [http://www.opensource.org/licenses/mit-license.php MIT Lisansı şablonu]{{Webarşiv|url=https://web.archive.org/web/20120217152029/http://www.opensource.org/licenses/mit-license.php |tarih=17 Şubat 2012 }} {{ing.}}
+* [https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT MIT Lisansı türevleri]{{Webarşiv|url=https://web.archive.org/web/20200919040011/https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing%2FMIT |tarih=19 Eylül 2020 }} {{ing.}}
+
+== Kaynakça ==
+{{Kaynakça}}
+
+[[Kategori:Özgür yazılım lisansları]]</text>
+      <sha1>m47j8ido1xh6a1oaiavn8y7jcdo0bsx</sha1>
+    </revision>
+  </page>
+</mediawiki>

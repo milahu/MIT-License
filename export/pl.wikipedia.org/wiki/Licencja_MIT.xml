@@ -1,0 +1,103 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="pl">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>plwiki</dbname>
+    <base>https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Specjalna</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Dyskusja</namespace>
+      <namespace key="2" case="first-letter">Wikipedysta</namespace>
+      <namespace key="3" case="first-letter">Dyskusja wikipedysty</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Dyskusja Wikipedii</namespace>
+      <namespace key="6" case="first-letter">Plik</namespace>
+      <namespace key="7" case="first-letter">Dyskusja pliku</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Dyskusja MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Szablon</namespace>
+      <namespace key="11" case="first-letter">Dyskusja szablonu</namespace>
+      <namespace key="12" case="first-letter">Pomoc</namespace>
+      <namespace key="13" case="first-letter">Dyskusja pomocy</namespace>
+      <namespace key="14" case="first-letter">Kategoria</namespace>
+      <namespace key="15" case="first-letter">Dyskusja kategorii</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Dyskusja portalu</namespace>
+      <namespace key="102" case="first-letter">Wikiprojekt</namespace>
+      <namespace key="103" case="first-letter">Dyskusja wikiprojektu</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Moduł</namespace>
+      <namespace key="829" case="first-letter">Dyskusja modułu</namespace>
+      <namespace key="2300" case="case-sensitive">Gadżet</namespace>
+      <namespace key="2301" case="case-sensitive">Dyskusja gadżetu</namespace>
+      <namespace key="2302" case="case-sensitive">Definicja gadżetu</namespace>
+      <namespace key="2303" case="case-sensitive">Dyskusja definicji gadżetu</namespace>
+      <namespace key="2600" case="first-letter">Wątek</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Licencja MIT</title>
+    <ns>0</ns>
+    <id>86375</id>
+    <revision>
+      <id>65411598</id>
+      <parentid>64534773</parentid>
+      <timestamp>2021-11-21T22:31:32Z</timestamp>
+      <contributor>
+        <username>The Polish Bot</username>
+        <id>479522</id>
+      </contributor>
+      <minor/>
+      <comment>poprawiam nieznane parametry</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3254" xml:space="preserve">{{Dopracować|więcej przypisów|data=2019-06}}
+{{Licencja oprogramowania infobox
+ |nazwa    = Licencja MIT
+ |logo     = MIT logo.svg
+ |autor    = [[Massachusetts Institute of Technology]]
+ |wersja   = 
+ |data     = 
+ |FSF      = tak
+ |OSI      = tak
+ |GPL      = tak
+ |copyleft = nie
+ |commons  = 
+ |www      = 
+}}
+'''Licencja MIT''' (''Licencja X11'') – jedna z najprostszych i najbardziej liberalnych [[Licencja oprogramowania|licencji]] [[Otwarte oprogramowanie|otwartego oprogramowania]]. Daje użytkownikom nieograniczone prawo do używania, kopiowania, modyfikowania i rozpowszechniania (w tym sprzedaży) oryginalnego lub zmodyfikowanego programu w postaci binarnej lub źródłowej. Jedynym wymaganiem jest, by we wszystkich wersjach zachowano warunki licencyjne i informacje o autorze.
+
+Podobna do zmodyfikowanej [[Licencje BSD|licencji BSD]] (bez klauzuli ogłoszeniowej) i [[Licencja ISC|ISC]].
+
+Według statystyk serwisu [[GitHub]] z 2015 roku, licencja MIT jest najczęściej używaną licencją wśród oprogramowania utrzymywanego w tym serwisie&lt;ref&gt;{{cytuj stronę|url=https://github.com/blog/1964-license-usage-on-github-com|tytuł=Open source license usage on GitHub.com|opublikowany=github.com|autor=Ben Balter|data=2015-03-09|język=en}}&lt;/ref&gt;.
+
+== Powiązane licencje ==
+Oryginalna [[Licencje BSD|licencja BSD]] zawierała klauzulę wymagającą załączenia informacji o autorach i treści licencji we wszystkich materiałach reklamowych. Ta klauzula (w późniejszych wersjach usunięta&lt;ref&gt;{{Cytuj stronę | url = https://www.gnu.org/software/cssc/manual/BSD-Code.html | tytuł = To All Licensees, Distributors of Any Version of BSD | autor = Berkeley | data = 1999-07-22 | opublikowany = University of California | data dostępu = 2019-06-09}}&lt;/ref&gt;) jest nadal obecna w zmodyfikowanej licencji MIT używanej przez [[XFree86]].
+
+Licencja typu NCSA Open Source/University of Illinois (UIUC) łączy w sobie założenia licencji MIT oraz BSD. Fragmenty dotyczące zezwoleń i wyłączenia odpowiedzialności pochodzą z licencji MIT.
+
+[[Licencja ISC]] zawiera podobieństwa do licencji MIT, a także do uproszczonej licencji BSD, przy czym największą różnicą jest to, że słownictwo uznane za niepotrzebne przez [[Konwencja berneńska o ochronie dzieł literackich i artystycznych|Konwencję Berneńską]] zostało pominięte&lt;ref&gt;{{Cytuj książkę |autor = Yi-Hsuan Lin, Tung-Mei Ko, Tyng-Ruey Chuang, Kwei-Jay Lin |tytuł = Open Source Licenses and the Creative Commons Framework: License Selection and Comparison | wydawca = Institute of Information Science |url = https://www.iis.sinica.edu.tw/page/jise/2006/200601_01.pdf | data = 2006}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |tytuł = OpenBSD: Copyright Policy |data dostępu = 2019-06-12 |opublikowany = www.openbsd.org |url = http://www.openbsd.org/policy.html}}&lt;/ref&gt;.
+
+== Zobacz też ==
+* [[GNU General Public License]]
+* [[X Window System]]
+
+== Przypisy ==
+{{Przypisy}}
+
+== Linki zewnętrzne ==
+* [https://opensource.org/licenses/mit-license.php Tekst licencji MIT]
+* [http://www.gnu.org/philosophy/license-list.pl.html#GPLCompatibleLicenses Licencje zgodne z GNU GPL]
+
+{{Prawa autorskie}}
+
+[[Kategoria:Licencje wolnego oprogramowania]]
+[[Kategoria:Wolne i otwarte oprogramowanie]]</text>
+      <sha1>krfi7139oxsb2pgw2q2juiufgpym9lg</sha1>
+    </revision>
+  </page>
+</mediawiki>

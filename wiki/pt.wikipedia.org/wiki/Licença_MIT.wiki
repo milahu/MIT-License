@@ -1,0 +1,67 @@
+{{Mais notas|data=janeiro de 2021}}
+{{Info/Licença de software
+| nome            = MIT License
+| imagem          = 
+| legenda         = 
+| autor           = [[Instituto de Tecnologia de Massachusetts]] (MIT)
+| versão          = 
+| editora         = 
+| data            = 
+| aprovado_OSI    = Sim<ref name="osi">{{citar web |url=https://opensource.org/licenses/alphabetical |titulo=Licenças aprovadas pela OSI (em inglês) |publicado=[[Open Source Initiative]] |acessodata=19 de Agosto de 2017 |lingua=en}}</ref>
+| aprovado_Debian = Sim<ref>{{citar web |url=https://wiki.debian.org/DFSGLicenses#The_MIT_License |titulo=The DFSG and Software Licenses |publicado=Debian |acessodata=19 de Agosto de 2017 |lingua=en}}</ref>
+| aprovado_FSF    = Sim<ref name="fsf x11license">{{citar web |url=https://www.gnu.org/philosophy/license-list.html#X11License |titulo=Various Licenses and Comments about Them |publicado=[[Free Software Foundation]] |acessodata=19 de Agosto de 2017 |lingua=en}}</ref>
+| compatível_GPL  = Sim<ref name="fsf x11license" />
+| copyleft        = Não
+| linking         = Sim
+| website         = {{URL|https://mit-license.org/}}
+}}
+A '''licença MIT''', também chamada de '''licença X''' ou de '''licença X11''', é uma licença de programas de computadores (''[[software]]''), criada pelo [[Instituto de Tecnologia de Massachusetts]] (MIT). Ela é uma licença permissiva utilizada tanto em [[software livre]] quanto em [[software proprietário]].
+
+Muitos grupos utilizam a licença MIT no seu ''software'', como os programas [[Expat (XML)|Expat]], [[MetaKit]], [[PuTTY]], as [[Biblioteca de rotinas|bibliotecas]] do projeto [[Mono (projeto)|Mono]], [[Lua (linguagem de programação)|Lua]], e o sistema [[X Window]], sendo este último o exemplo mais conhecido. É uma licença popular no repositório [[GitHub]].<ref>{{citar web |url=https://github.com/blog/1964-license-usage-on-github-com |titulo=Open source license usage on GitHub.com |data=9 de Março de 2015 |publicado=GitHub |acessodata=19 de Agosto de 2017 |lingua=en}}</ref>
+
+A licença é permissiva e considerada equivalente a BSD Simplificada sem a cláusula de endosso. Porém, seu texto é bem mais explícito ao tratar dos direitos que estão sendo transferidos, afirmando que qualquer pessoa que obtém uma copia do software e seus arquivos de documentação associados pode lidar com eles sem restrição, incluindo sem limitação os direitos a usar, copiar, modificar, mesclar, publicar, distribuir, vender copias do software. As condições impostas para tanto são apenas manter o aviso de copyright e uma copia da licença em todas as cópias do software.
+
+== Vantagens e desvantagens da licença MIT ==
+Essa licença é a recomendada pela Free Software Foundation quando se busca uma licença permissiva, pois é bastante conhecida e  não possui múltiplas versões com cláusulas que podem gerar dificuldades adicionais. Outra vantagem da licença MIT, é a maior clareza dos seus termos ao declarar explicitamente o que é permitido. Por exemplo, sublicenciar ou vender cópias do software. A questão do sublicenciamento é bastante importante quando o software será usado como parte de um trabalho coletivo ou derivado que será distribuído sob outra licença, o que é bastante comum nas práticas de software livre. Se não houver o direito de sublicenciamento, então apenas o detentor do direito autoral pode conceder a licença. Desta forma, o usuário de um trabalho derivado precisa obter a licença tanto do autor desse trabalho como também dos detentores dos direitos de cada componente que faz parte dele, sendo necessário identificar todos esses componentes e pessoas envolvidas, aumentando a dificuldade, os riscos e a complexidade jurídica. Por outro lado, quando é permitido o sublicenciamento, a pessoa que está emitindo a licença, que valerá para todos os componentes de seu software, fica responsável por analisar os termos de cada um dos componentes e certificar-se da compatibilidade entre as licenças. Assim, ao chegar no usuário final, o potencial de problemas é restrito a uma única licença.
+
+A licença contém uma cláusula sobre a ausência de garantias e responsabilidades, protegendo os detentores do direito autoral de qualquer processo judicial relacionado ao software. Nesta licença ainda é excluída explicitamente a responsabilidade de não infração, que pode ocorrer, por exemplo, quando alguém usa a propriedade intelectual de outra pessoa sem a devida autorização. Isso cobre casos em que o autor do software, acidentalmente ou não, tenha utilizado algum material protegido sob direitos autorais ou uma ideia patenteada sem obter uma licença para tanto, o que pode gerar um processo contra o autor, os distribuidores do software e até seus usuários. Porém, assim como explicado anteriormente, a ausência de responsabilidades tem sua validade limitada pelas leis vigentes.
+
+== Texto da licença ==
+Obtido da Open Source Initiative:<ref>{{citar web|url=https://opensource.org/licenses/MIT|titulo=MIT License Open Source Initiative|acessodata=25 de Fevereiro de 2022|publicado=Open Source Initiative|lingua=en}}</ref>
+<pre>
+ Copyright (c) <year> <copyright holders>
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+
+ The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ THE SOFTWARE.
+</pre>
+
+==Opiniões==
+Segundo a lista de licenças da Free Software Foundation, a licença MIT deveria ser chamada de licença X11, já que o MIT possui muitas licenças para ''software''.<ref name="fsf x11license" /> Por outro lado, o [[Open Source Initiative]] se refere a ela como licença MIT,<ref name="osi" /> assim como outros.
+
+{{Referências}}
+
+== Ligações externas ==
+* [http://www.opensource.org/licenses/mit-license.php O texto da licença MIT, em inglês]
+
+{{Software Livre}}
+
+[[Categoria:Software usando a licença MIT]]
+[[Categoria:Licenças de código aberto]]
+[[Categoria:X Window System]]
+[[Categoria:Instituto de Tecnologia de Massachusetts]]
+[[Categoria:Licenças de software livre e de código aberto]]

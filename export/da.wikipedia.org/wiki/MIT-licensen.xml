@@ -1,0 +1,91 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="da">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>dawiki</dbname>
+    <base>https://da.wikipedia.org/wiki/Forside</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Speciel</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Bruger</namespace>
+      <namespace key="3" case="first-letter">Brugerdiskussion</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia-diskussion</namespace>
+      <namespace key="6" case="first-letter">Fil</namespace>
+      <namespace key="7" case="first-letter">Fildiskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki-diskussion</namespace>
+      <namespace key="10" case="first-letter">Skabelon</namespace>
+      <namespace key="11" case="first-letter">Skabelondiskussion</namespace>
+      <namespace key="12" case="first-letter">Hjælp</namespace>
+      <namespace key="13" case="first-letter">Hjælp-diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategori</namespace>
+      <namespace key="15" case="first-letter">Kategoridiskussion</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portaldiskussion</namespace>
+      <namespace key="102" case="first-letter">Artikeldata</namespace>
+      <namespace key="103" case="first-letter">Artikeldatadiskussion</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Modul</namespace>
+      <namespace key="829" case="first-letter">Moduldiskussion</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MIT-licensen</title>
+    <ns>0</ns>
+    <id>159025</id>
+    <revision>
+      <id>10028277</id>
+      <parentid>8794269</parentid>
+      <timestamp>2019-08-13T01:24:18Z</timestamp>
+      <contributor>
+        <username>LouisCle</username>
+        <id>343386</id>
+      </contributor>
+      <minor/>
+      <comment>Kosmetisk</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2172" xml:space="preserve">{{Infoboks software licens
+| forfatter       = Massachusetts Institute of Technology
+| udgivet         = 1988
+| DFSG-kompatibel = Ja
+| OSI-godkendt    = Ja
+| FSF-godkendt    = Ja
+| GPL-kompatibel  = Ja
+| copyleft        = Nej
+}}
+'''MIT-licensen''' er oprindeligt udsprunget fra [[MIT|Massachusetts Institute of Technology]]. Det er ikke [[copyleft]] licens, hvilket primært betyder at software der er viderudviklet på software, baseret på MIT licensen, kan udgives som proprietær software.
+
+Licensen ser ud som følger:
+
+&lt;blockquote&gt;
+Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br /&gt;
+&lt;br /&gt;
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br /&gt;
+&lt;br /&gt;
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+&lt;/blockquote&gt;
+
+Af kendt software, der er udgivet under MIT-licensen, kan bl.a. nævnes PuTTY&lt;ref&gt;[http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html PuTTY hjemmeside]&lt;/ref&gt;, Ruby on Rails&lt;ref&gt;[http://www.rubyonrails.org/ Ruby on Rails hjemmeside]&lt;/ref&gt; og [[X Window System|X Window systemet]].
+
+== Referencer, kilder og eksterne links ==
+{{Reflist}}
+* [http://www.opensource.org/licenses/mit-license.php Open Source Initiative: The MIT License]
+
+[[Kategori:Fri software-licenser]]
+[[Kategori:Massachusetts Institute of Technology]]</text>
+      <sha1>gw6wwvrdn6q8c61rsbxeppbsd530kdq</sha1>
+    </revision>
+  </page>
+</mediawiki>

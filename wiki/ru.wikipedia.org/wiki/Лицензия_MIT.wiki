@@ -1,0 +1,136 @@
+{{Карточка свободной лицензии
+| name = MIT License/X11 License
+| author = [[Массачусетский технологический институт]]
+| version = 
+| copyright = Массачусетский технологический институт
+| date = 1988
+| OSI approved = Да
+| Debian approved = Да
+| Free Software = Да
+| GPL compatible = Да
+| copyleft = Нет
+| linking = Да
+| image = [[Файл:MIT_logo.svg|150px]]}}
+
+'''Лицензия MIT''' ({{lang-en|MIT License}}), или '''лицензия X11''' ({{lang-en|X11 License}}), — [[лицензия]] [[Открытое программное обеспечение|открытого]] и [[Свободное программное обеспечение|свободного программного обеспечения]], разработанная [[Массачусетский технологический институт|Массачусетским технологическим институтом]]. Одна из самых ранних [[Свободная лицензия|свободных лицензий]], так как она относительно проста и иллюстрирует некоторые из основных принципов свободного лицензирования{{sfn|Understanding Open Source and Free Software Licensing|2004|с=14}}. Лицензия MIT является разрешительной лицензией, то есть позволяет программистам использовать лицензируемый код в закрытом программном обеспечении при условии, что текст лицензии предоставляется вместе с этим программным обеспечением.
+
+Лицензия является GPL-совместимой, то есть разрешает программистам комбинировать и распространять GPL-продукты с программным обеспечением под лицензией X11{{sfn|Stallman, X11License}}.
+
+По мнению [[Free Software Foundation]], лучше использовать название X11 License, так как в прошлом MIT использовал много лицензий, и в текущем виде она была написана для [[X Window System]].
+
+Программное обеспечение под лицензией X11 включает в себя [[Expat]], [[MetaKit]], [[PuTTY]], [[Mono]], [[Ruby on Rails]], [[Twisted]], [[JQuery]], [[Prototype (фреймворк)|Prototype]], [[Wayland]], а также [[X Window System]] (X11), для которой она и была написана.
+
+== Текст лицензии ==
+Внимание! Перевод лицензии не является официальным.
+{{начало цитаты}}
+Copyright (c) &lt;год&gt; &lt;владельцы прав&gt;
+
+Данная лицензия разрешает лицам, получившим копию данного программного обеспечения и сопутствующей документации (далее — Программное обеспечение), безвозмездно использовать Программное обеспечение без ограничений, включая неограниченное право на использование, копирование, изменение, слияние, публикацию, распространение, сублицензирование и/или продажу копий Программного обеспечения, а также лицам, которым предоставляется данное Программное обеспечение, при соблюдении следующих условий:
+
+Указанное выше уведомление об авторском праве и данные условия должны быть включены во все копии или значимые части данного Программного обеспечения.
+
+ДАННОЕ ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ», БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, ЯВНО ВЫРАЖЕННЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ ГАРАНТИИ ТОВАРНОЙ ПРИГОДНОСТИ, СООТВЕТСТВИЯ ПО ЕГО КОНКРЕТНОМУ НАЗНАЧЕНИЮ И ОТСУТСТВИЯ НАРУШЕНИЙ, НО НЕ ОГРАНИЧИВАЯСЬ ИМИ. НИ В КАКОМ СЛУЧАЕ АВТОРЫ ИЛИ ПРАВООБЛАДАТЕЛИ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ПО КАКИМ-ЛИБО ИСКАМ, ЗА УЩЕРБ ИЛИ ПО ИНЫМ ТРЕБОВАНИЯМ, В ТОМ ЧИСЛЕ, ПРИ ДЕЙСТВИИ КОНТРАКТА, ДЕЛИКТЕ ИЛИ ИНОЙ СИТУАЦИИ, ВОЗНИКШИМ ИЗ-ЗА ИСПОЛЬЗОВАНИЯ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ ИЛИ ИНЫХ ДЕЙСТВИЙ С ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ.
+{{oq|en|
+Copyright (c) &lt;year&gt; &lt;copyright holders&gt;<br>
+<br>
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<br>
+<br>
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br>
+<br>
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+}}
+{{конец цитаты|источник={{cite web
+ |url         = http://www.opensource.org/licenses/mit-license.php
+ |title       = Open Source Initiative OSI - The MIT License:Licensing
+ |lang        = en
+ |accessdate  = 07.07.2010
+ |description = Шаблон лицензии MIT. Официальный текст
+ |archiveurl  = https://www.webcitation.org/65V5m5UiW?url=http://www.opensource.org/licenses/mit-license.php
+ |archivedate = 2012-02-16
+ |deadlink    = no
+}}
+}}
+
+== Использование лицензии ==
+Поскольку [[копирайт]] на данную лицензию отсутствует, другие группы имеют право использовать и изменять её для удовлетворения своих целей. Например, [[Фонд свободного программного обеспечения]] использовал схожую лицензию для своей библиотеки [[ncurses]], добавив следующий абзац:
+
+{{начало цитаты}}
+Кроме содержимого в этом уведомлении, имя (имена) вышеуказанных держателей авторских прав не должно быть использовано в рекламе или иным способом, чтобы увеличивать продажу, использование или другие работы в этом Программном обеспечении без предшествующего письменного разрешения.
+{{oq|en|
+: Except as contained in this notice, the name(s) of the above copyright holders shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization.
+}}
+{{конец цитаты}}
+
+Добавление этого абзаца сделало текст почти идентичным «новой» [[Лицензии BSD]].
+
+В то же время, другие группы предпочитают [[двойное лицензирование]] для своих продуктов. Например, старые версии библиотеки [[cURL]] допускали выбор использования [[Mozilla Public License]] или лицензии MIT.
+
+В соответствии со списком Фонда свободного ПО, приведённую выше лицензию MIT более правильно называть лицензией Expat, поскольку МТИ имеет слишком много лицензий под своим именем, а другую — лицензией X11{{sfn|Stallman, X11License}}. Однако [[Open Source Initiative|Движение Open Source]] называет лицензию Expat лицензией MIT<ref>{{Cite web |url=http://opensource.org/licenses/mit-license.php |title=Open Source Initiative OSI — The MIT License:Licensing {{!}} Open Source Initiative<!-- Заголовок добавлен ботом --> |access-date=2008-11-06 |archive-date=2021-02-07 |archive-url=https://web.archive.org/web/20210207032243/https://opensource.org/licenses/mit-license.php |deadlink=no }}</ref>, а лицензии X11 у них вообще нет<ref>{{Cite web |url=http://opensource.org/licenses/ |title=Open Source Licenses {{!}} Open Source Initiative<!-- Заголовок добавлен ботом --> |access-date=2008-11-06 |archive-date=2008-11-03 |archive-url=https://web.archive.org/web/20081103031255/http://www.opensource.org/licenses |deadlink=no }}</ref>, зато есть похожая лицензия X.Net, от которой отказались её авторы<ref>{{Cite web |url=http://opensource.org/licenses/xnet.php |title=Open Source Initiative OSI — The X.Net, Inc. License:Licensing {{!}} Open Source Initiative<!-- Заголовок добавлен ботом --> |access-date=2008-11-06 |archive-date=2008-12-19 |archive-url=https://web.archive.org/web/20081219003811/http://opensource.org/licenses/xnet.php |deadlink=no }}</ref>.
+
+== Сравнение с другими лицензиями ==
+Лицензия MIT более всего соответствует трёхпунктной [[Лицензия BSD|Лицензии BSD]], отличаясь лишь пунктом, запрещающим использование ''доброго имени'' держателя авторских прав в рекламе.
+
+Четырёхпунктная лицензия BSD также включает подобный пункт, обязывающий ''все'' рекламные материалы отображать эту лицензию, в отличие от лицензии MIT. Последняя также более явно говорит о правах [[Конечный пользователь|конечного пользователя]], включая права использования, копирования, изменения, включения в другой исходный код, публикации, распространения, сублицензировании и/или продажи лицензированного программного обеспечения.
+
+Двухпунктная, сходная с BSD, лицензия вроде лицензии на [[Apple Computer]] [[WebCore]] (хотя большая часть WebCore распространяется по лицензии [[LGPL]]) также считается практически идентичной лицензии MIT, не включающей «рекламного» пункта.
+
+Лицензия считается{{Кем}} [[Академическая лицензия|академической лицензией]], то есть признана годной к использованию в сфере научных разработок.
+
+== Примечания ==
+{{примечания}}
+
+== Литература ==
+* {{cite web
+ |url         = http://www.gnu.org/philosophy/x.ru.html
+ |title       = Западня системы X Window
+ |author      = [[Столлман, Ричард Мэттью|Ричард Столлман]], пер. [mailto:svk@lib.ru Сергей Короп]
+ |lang        = ru
+ |date        = 6.10.1999
+ |accessdate  = 07.07.2010
+ |archiveurl  = https://www.webcitation.org/65V5mi3Zh?url=http://www.gnu.org/philosophy/x.ru.html
+ |archivedate = 2012-02-16
+ |deadlink    = no
+}}
+* {{Cite web
+ |url         = http://www.gnu.org/licenses/license-list.html#X11License
+ |title       = X11 License
+ |work        = Various Licenses and Comments about Them
+ |author      = [[Столлман, Ричард Мэттью|Ричард Столлман]]
+ |archiveurl  = https://www.webcitation.org/617idumi2?url=http://www.gnu.org/licenses/license-list.html#X11License
+ |archivedate = 2011-08-22
+ |lang        = en
+ |ref         = Stallman, X11License
+ |accessdate  = 2008-09-24
+ |deadlink    = no
+}}
+* {{книга
+ |автор          = {{nobr|Andrew M. St. Laurent}}
+ |заглавие    = Understanding Open Source and Free Software Licensing
+ |ссылка        = http://hugoroy.eu/doc/understanding_fs_licensing-andrewmstlaurent-ccbynd.pdf
+ |год              = 2004
+ |страниц      = 207
+ |ref                 = Understanding Open Source and Free Software Licensing
+ |архив          = https://web.archive.org/web/20131029204808/http://hugoroy.eu/doc/understanding_fs_licensing-andrewmstlaurent-ccbynd.pdf
+ |архив дата = 2013-10-29
+ |deadlink            = yes
+}} {{Wayback|url=http://hugoroy.eu/doc/understanding_fs_licensing-andrewmstlaurent-ccbynd.pdf |date=20131029204808 }}
+
+== Ссылки ==
+* {{Cite web
+ |url         = http://licenseit.ru/
+ |title       = Портал о лицензиях на ПО на русском языке
+ |author      = Pavlov M.
+ |publisher   = LicenseIt.ru
+ |lang        = ru
+ |accessdate  = 07.07.2010
+ |description = Описание и тексты лицензий на русском
+ |archiveurl  = https://www.webcitation.org/65V5nE2Ud?url=http://licenseit.ru/
+ |archivedate = 2012-02-16
+ |deadlink    = no
+}}
+
+{{FOSS}}
+
+[[Категория:X Window System]]
+[[Категория:Массачусетский технологический институт]]
+[[Категория:Разрешительные лицензии свободного ПО|MIT]]

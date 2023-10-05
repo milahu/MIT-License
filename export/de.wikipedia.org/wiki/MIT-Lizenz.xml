@@ -1,0 +1,104 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="de">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>dewiki</dbname>
+    <base>https://de.wikipedia.org/wiki/Wikipedia:Hauptseite</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal Diskussion</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Modul</namespace>
+      <namespace key="829" case="first-letter">Modul Diskussion</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget Diskussion</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget-Definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget-Definition Diskussion</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MIT-Lizenz</title>
+    <ns>0</ns>
+    <id>432268</id>
+    <revision>
+      <id>226837056</id>
+      <parentid>226808001</parentid>
+      <timestamp>2022-10-07T11:49:39Z</timestamp>
+      <contributor>
+        <username>Alan Smithe</username>
+        <id>3926885</id>
+      </contributor>
+      <comment>Satzball korrigiert</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5360" xml:space="preserve">Die '''MIT-Lizenz''', auch '''X-Lizenz''' oder '''X11-Lizenz''' genannt, ist eine vom [[Massachusetts Institute of Technology]] stammende [[freizügige Open-Source-Lizenz]]. Sie erlaubt die Wiederverwendung der unter ihr stehenden [[Software]] sowohl für Software, deren [[Quelltext]] frei verwendbar ist ([[Open Source]]), als auch für Software, deren Quelltext nicht frei verwendbar ist ([[Closed Source]]).
+
+Die Lizenz wurde 1987 veröffentlicht.&lt;ref&gt;{{Internetquelle |autor= Gordon Haff |url= https://opensource.com/article/19/4/history-mit-license |titel= The mysterious history of the MIT License |werk= opensource.com |datum=2019-04-26|sprache= en|abruf=2022-01-19}}&lt;/ref&gt; Viele Entwicklergruppen stellen ihre eigene Software unter die MIT-Lizenz. Darunter befinden sich unter anderem das Betriebssystem [[Haiku (Betriebssystem)|Haiku]], die Kryptowährung [[Bitcoin]], das Web-Framework [[Ruby on Rails]], das JavaScript-Framework [[jQuery]],&lt;ref&gt;GitHub: [https://github.com/jquery/jquery/blob/master/LICENSE.txt LICENSE.TXT-Datei] zu jquery&lt;/ref&gt; und das [[X Window System]] ([[X11]]). Weitere Frameworks unter dieser Lizenz sind [[Node.js]]&lt;ref&gt;GitHub: [https://github.com/nodejs/node/blob/master/LICENSE LICENSE-Datei] zu node.js&lt;/ref&gt; oder [[.NET Core]].&lt;ref&gt;GitHub: [https://github.com/dotnet/core/blob/master/LICENSE.TXT LICENSE.TXT-Datei] zu .NET Core&lt;/ref&gt;
+
+Nicht jede MIT-Software steht unter dieser Lizenz. Das MIT Game Lab benutzt beispielsweise eine restriktivere Lizenz.&lt;ref&gt;[http://gamelab.mit.edu/eula/slower_eula_win.php Lizenztext des MIT Game Labs]&lt;/ref&gt;
+
+== Lizenztext ==
+{|
+|
+''' Originaltext '''
+|
+''' Sinngemäße Übersetzung ''' ''(nicht offiziell)''
+|-
+|style="vertical-align:top;padding-right:25px;"|[[Copyright law (Vereinigte Staaten)|Copyright]] (c) &amp;lt;year&amp;gt; &amp;lt;copyright holders&amp;gt;
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+|style="vertical-align:top;"|Copyright (c) &amp;lt;Jahr&amp;gt; &amp;lt;Copyright Inhaber&amp;gt;
+
+Jedem, der eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die „Software“) erhält, wird hiermit kostenlos die Erlaubnis erteilt, ohne Einschränkung mit der Software zu handeln, einschließlich und ohne Einschränkung der Rechte zur Nutzung, zum Kopieren, Ändern, Zusammenführen, Veröffentlichen, Verteilen, Unterlizenzieren und/oder Verkaufen von Kopien der Software, und Personen, denen die Software zur Verfügung gestellt wird, dies unter den folgenden Bedingungen zu gestatten:
+
+Der obige Urheberrechtshinweis und dieser Genehmigungshinweis müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
+
+DIE SOFTWARE WIRD OHNE MÄNGELGEWÄHR UND OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GEWÄHRLEISTUNG, EINSCHLIEẞLICH, ABER NICHT BESCHRÄNKT AUF DIE GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER, ZUR VERFÜGUNG GESTELLT. DIE AUTOREN ODER URHEBERRECHTSINHABER SIND IN KEINEM FALL HAFTBAR FÜR ANSPRÜCHE, SCHÄDEN ODER ANDERE VERPFLICHTUNGEN, OB IN EINER VERTRAGS- ODER HAFTUNGSKLAGE, EINER UNERLAUBTEN HANDLUNG ODER ANDERWEITIG, DIE SICH AUS ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER NUTZUNG ODER ANDEREN GESCHÄFTEN MIT DER SOFTWARE ERGEBEN.
+|}
+
+== Verwendung ==
+Da die MIT-Lizenz selbst nicht mit einem [[Urheberrecht|Copyright]] versehen ist, steht es jedem frei, die MIT-Lizenz für den eigenen Gebrauch zu modifizieren. Zum Beispiel verwendet die [[Free Software Foundation]] eine fast wortgleiche Lizenz für ihre Bibliothek [[ncurses]]. Andere Gruppen wiederum stellen ihre Software neben der MIT-Lizenz auch unter eine zweite Lizenz. Zum Beispiel kann man bei älteren Versionen der Bibliothek [[cURL]] zwischen der MIT-Lizenz und der [[Mozilla Public License]] wählen. In der Lizenzliste der Free Software Foundation wird die MIT-Lizenz „Expat-Lizenz“ genannt, um Verwechslungen mit anderen Softwarelizenzen des MIT zu vermeiden.&lt;ref&gt;[http://www.gnu.org/philosophy/license-list.html Various Licenses and Comments about Them]&lt;/ref&gt;
+
+== Siehe auch ==
+* [[Apache-Lizenz]]
+
+== Weblinks ==
+* [http://www.opensource.org/licenses/mit-license.php Open Source Initiative OSI - The MIT License:Licensing]
+
+== Einzelnachweise ==
+&lt;references /&gt;
+
+{{Rechtshinweis}}
+
+{{SORTIERUNG:Mit Lizenz}}
+[[Kategorie:FLOSS-Lizenz]]
+[[Kategorie:Massachusetts Institute of Technology]]</text>
+      <sha1>br8fobcutbgbzrk4618xy3ne67sm6n3</sha1>
+    </revision>
+  </page>
+</mediawiki>

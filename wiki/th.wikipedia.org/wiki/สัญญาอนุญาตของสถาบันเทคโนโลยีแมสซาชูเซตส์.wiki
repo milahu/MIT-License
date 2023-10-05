@@ -1,0 +1,59 @@
+{{Infobox software license
+| name = MIT License
+| image = MIT logo.svg| author = <!-- An author is always a person. Something more clever than "Massachusetts Institute of Technology", please! -->
+| image_size = 100px
+| copyright = [[Massachusetts Institute of Technology]]
+| spdx = MIT<br />(see list for more)<ref name="SPDX License List" />
+| OSI approved = Yes<ref name="osi-licenses">{{Cite web |url=https://opensource.org/licenses/alphabetical |title=Licenses by Name |date=n.d. |website=[[Open Source Initiative]] |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720141629/https://opensource.org/licenses/alphabetical |url-status=live |archive-date=2017-07-20 |quote=The following licenses have been approved by the OSI. ...&nbsp;MIT License (MIT)&nbsp;...}}</ref>
+| Debian approved = Yes<ref name="dfsg-licenses">{{Cite web |url=https://www.debian.org/legal/licenses/ |title=License information |date=1997–2017 |publication-date=2017-07-12 |website=The [[Debian Project]] |publisher=[[Software in the Public Interest]] |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720142826/https://www.debian.org/legal/licenses/ |url-status=live |archive-date=2017-07-20 |quote=This page presents the opinion of some debian-legal contributors on how certain licenses follow the Debian Free Software Guidelines (DFSG).&nbsp;... Licenses currently found in Debian main include: ...&nbsp;Expat/MIT-style licenses&nbsp;...}}</ref>
+| Free Software = Yes<ref name="gnu-license-list-expat">{{Cite web |url=https://www.gnu.org/licenses/license-list.en.html#Expat |title=Various Licenses and Comments about Them |date=2014–2017 |publication-date=2017-04-04 |website=The [[GNU Project]] |publisher=[[Free Software Foundation]] |at=Expat License |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720140022/https://www.gnu.org/licenses/license-list.en.html |url-status=live |archive-date=2017-07-20 |quote=This is a lax, permissive non-copyleft free software license, compatible with the GNU GPL. It is sometimes ambiguously referred to as the MIT License.}}</ref><ref name="gnu-license-list-x11">{{Cite web |url=https://www.gnu.org/licenses/license-list.en.html#X11License |title=Various Licenses and Comments about Them |date=2014–2017 |publication-date=2017-04-04 |website=The [[GNU Project]] |publisher=[[Free Software Foundation]] |at=X11 License |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720140022/https://www.gnu.org/licenses/license-list.en.html |url-status=live |archive-date=2017-07-20 |quote=This is a lax permissive non-copyleft free software license, compatible with the GNU GPL.&nbsp;... This license is sometimes called the MIT license, but that term is misleading, since MIT has used many licenses for software.}}</ref>
+| GPL compatible = Yes<ref name="gnu-license-list-expat"/><ref name="gnu-license-list-x11"/>
+| copyleft = No<ref name="gnu-license-list-expat"/><ref name="gnu-license-list-x11"/>
+| linking = Yes
+}}
+
+
+'''สัญญาอนุญาตของสถาบันเทคโนโลยีแมสซาชูเซตส์''' หรือ '''สัญญาอนุญาตเอ็มไอที''' ({{lang-en|MIT License}}) เป็น[[สัญญาอนุญาต]][[ซอฟต์แวร์เสรี]]ที่สร้างขึ้นในช่วงปลายคริสต์ทศวรรษ 1980<ref name="history">{{cite web |url=https://opensource.com/article/19/4/history-mit-license |work=opensource.com |title=The mysterious history of the MIT License |publisher=opensource.com |quote=The date? The best single answer is probably 1987. But the complete story is more complicated and even a little mysterious. [...] Precursors from 1985. The X Consortium or X11 License variant from 1987. Or the Expat License from 1998 or 1999. |access-date=2019-07-30 }}</ref> โดย[[สถาบันเทคโนโลยีแมสซาชูเซตส์]] (MIT)<ref>Lawrence Rosen, OPEN SOURCE LICENSING, p.85 (Prentice Hall PTR, 1st ed. 2004)</ref> มีลักษณะเป็นสัญญาอนุญาตซอฟต์แวร์เสรีที่มีข้อจำกัดน้อย (Permissive License) โดยอนุญาตให้นำซอฟต์แวร์ที่มีลิขสิทธิ์ชนิดดังกล่าวไปประกอบเป็นส่วนหนึ่งของ[[ซอฟต์แวร์กรรมสิทธิ์]]ได้ โดยที่ชุดซอฟต์แวร์ที่แจกจ่ายไปนั้นต้องมีข้อความในสัญญาอนุญาตเอ็มไอที<ref name="opensoucecomp">{{cite web|url=http://opensource.com/business/14/1/what-license-should-i-use-open-source-project |quote=Permissive licensing simplifies things One reason the business world, and more and more developers [...], favor permissive licenses is in the simplicity of reuse. The license usually only pertains to the source code that is licensed and makes no attempt to infer any conditions upon any other component, and because of this there is no need to define what constitutes a derived work. I have also never seen a license compatibility chart for permissive licenses; it seems that they are all compatible.|title=Should I use a permissive license? Copyleft? Or something in the middle? |date=2014-01-28 |access-date=2015-05-30 |first=Marcus D. |last=Hanwell |publisher=opensource.com}}</ref><ref name="comaptible">{{cite web |url=https://joinup.ec.europa.eu/software/page/licence_compatibility_and_interoperability |work=Open-Source Software - Develop, share, and reuse open source software for public administrations |title=Licence Compatibility and Interoperability |publisher=joinup.ec.europa.eu |quote=The licences for distributing free or open source software (FOSS) are divided in two families: permissive and copyleft. Permissive licences (BSD, MIT, X11, Apache, Zope) are generally compatible and interoperable with most other licences, tolerating to merge, combine or improve the covered code and to re-distribute it under many licences (including non-free or 'proprietary'). |access-date=2015-05-30 |url-status=dead |archive-url=https://web.archive.org/web/20150617130550/https://joinup.ec.europa.eu/software/page/licence_compatibility_and_interoperability |archive-date=2015-06-17 }}</ref>
+
+ซอฟต์แวร์กรรมสิทธิ์ที่ใช้งานที่อยู่ภายใต้สัญญาอนุญาตเอ็มไอทีนี้ยังคงสภาพของความเป็นซอฟต์แวร์กรรมสิทธิ์อยู่ สัญญาอนุญาตดังกล่าวสามารถใช้กับ[[สัญญาอนุญาตสาธารณะทั่วไปของกนู]] (GPL) ได้ ทำให้สามารถทำการรวมและแจกจ่ายซอฟต์แวร์ GPL คู่กับซอฟต์แวร์ที่ใช้สัญญาอนุญาตเอ็มไอทีได้<ref name="gnu-license-list-gpl">{{cite web|url=https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses |title=Various Licenses and Comments about Them |access-date=17 July 2013 |publisher=Free Software Foundation }}</ref>
+
+โปรเจกต์ที่มีชี่อเสียงที่ใช้สัญญาอนุญาตของสถาบันเทคโนโลยีแมสซาชูเซตส์ประกอบไปด้วย [[X Window System]], [[Ruby on Rails]], [[Nim (programming language)|Nim]], [[Node.js]], [[Lua (programming language)|Lua]], และ [[jQuery]]. บริษัทที่มีชี่อเสียงที่ใช้สัญญาอนุญาตของสถาบันเทคโนโลยีแมสซาชูเซตส์ประกอบไปด้วย  [[Microsoft]] ([[.NET]]), [[Google]] ([[Angular (web framework)|Angular]]), and [[Meta Platforms|Meta]] ([[React_(JavaScript library)|React]]).
+
+== ข้อตกลงในใบอนุญาต ==
+ข้อตกลงเป็นดังต่อไปนี้:<ref>{{Cite web|title=MIT License Explained in Plain English - TLDRLegal|url=https://tldrlegal.com/license/mit-license|access-date=2021-07-07|website=tldrlegal.com}}</ref>
+
+<pre>Copyright (c) <year> <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</pre>
+
+==อ้างอิง==
+{{รายการอ้างอิง}}
+
+== อ่านเพิ่ม ==
+* {{Cite web |url=https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html |title=The MIT License, Line by Line |last1=Mitchell |first1=Kyle E. |date=2016-09-21 |website=/dev/lawyer |archive-url=https://web.archive.org/web/20160928235700/https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html |archive-date=2016-09-28 |url-status=live |access-date=2016-09-28}}
+
+== แหล่งข้อมูลอื่น ==
+* [https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT MIT License variants]
+* [http://www.opensource.org/licenses/MIT The MIT License template] (Open Source Initiative official site)
+* [http://www.jclark.com/xml/copying.txt Expat License]
+* [https://xfree86.org/3.3.6/COPYRIGHT2.html#3 X11 License]
+
+[[หมวดหมู่:สัญญาอนุญาตและใบอนุญาต]]
+{{โครงเทคโนโลยี}}

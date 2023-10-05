@@ -1,0 +1,119 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="th">
+  <siteinfo>
+    <sitename>วิกิพีเดีย</sitename>
+    <dbname>thwiki</dbname>
+    <base>https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">สื่อ</namespace>
+      <namespace key="-1" case="first-letter">พิเศษ</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">พูดคุย</namespace>
+      <namespace key="2" case="first-letter">ผู้ใช้</namespace>
+      <namespace key="3" case="first-letter">คุยกับผู้ใช้</namespace>
+      <namespace key="4" case="first-letter">วิกิพีเดีย</namespace>
+      <namespace key="5" case="first-letter">คุยเรื่องวิกิพีเดีย</namespace>
+      <namespace key="6" case="first-letter">ไฟล์</namespace>
+      <namespace key="7" case="first-letter">คุยเรื่องไฟล์</namespace>
+      <namespace key="8" case="first-letter">มีเดียวิกิ</namespace>
+      <namespace key="9" case="first-letter">คุยเรื่องมีเดียวิกิ</namespace>
+      <namespace key="10" case="first-letter">แม่แบบ</namespace>
+      <namespace key="11" case="first-letter">คุยเรื่องแม่แบบ</namespace>
+      <namespace key="12" case="first-letter">วิธีใช้</namespace>
+      <namespace key="13" case="first-letter">คุยเรื่องวิธีใช้</namespace>
+      <namespace key="14" case="first-letter">หมวดหมู่</namespace>
+      <namespace key="15" case="first-letter">คุยเรื่องหมวดหมู่</namespace>
+      <namespace key="100" case="first-letter">สถานีย่อย</namespace>
+      <namespace key="101" case="first-letter">คุยเรื่องสถานีย่อย</namespace>
+      <namespace key="108" case="first-letter">หนังสือ</namespace>
+      <namespace key="109" case="first-letter">คุยเรื่องหนังสือ</namespace>
+      <namespace key="118" case="first-letter">ฉบับร่าง</namespace>
+      <namespace key="119" case="first-letter">คุยเรื่องฉบับร่าง</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">มอดูล</namespace>
+      <namespace key="829" case="first-letter">คุยเรื่องมอดูล</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>สัญญาอนุญาตของสถาบันเทคโนโลยีแมสซาชูเซตส์</title>
+    <ns>0</ns>
+    <id>598582</id>
+    <revision>
+      <id>10894765</id>
+      <parentid>10891234</parentid>
+      <timestamp>2023-07-21T06:31:00Z</timestamp>
+      <contributor>
+        <username>Jothefiredragon</username>
+        <id>454845</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="10668" xml:space="preserve">{{Infobox software license
+| name = MIT License
+| image = MIT logo.svg| author = &lt;!-- An author is always a person. Something more clever than "Massachusetts Institute of Technology", please! --&gt;
+| image_size = 100px
+| copyright = [[Massachusetts Institute of Technology]]
+| spdx = MIT&lt;br /&gt;(see list for more)&lt;ref name="SPDX License List" /&gt;
+| OSI approved = Yes&lt;ref name="osi-licenses"&gt;{{Cite web |url=https://opensource.org/licenses/alphabetical |title=Licenses by Name |date=n.d. |website=[[Open Source Initiative]] |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720141629/https://opensource.org/licenses/alphabetical |url-status=live |archive-date=2017-07-20 |quote=The following licenses have been approved by the OSI. ...&amp;nbsp;MIT License (MIT)&amp;nbsp;...}}&lt;/ref&gt;
+| Debian approved = Yes&lt;ref name="dfsg-licenses"&gt;{{Cite web |url=https://www.debian.org/legal/licenses/ |title=License information |date=1997–2017 |publication-date=2017-07-12 |website=The [[Debian Project]] |publisher=[[Software in the Public Interest]] |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720142826/https://www.debian.org/legal/licenses/ |url-status=live |archive-date=2017-07-20 |quote=This page presents the opinion of some debian-legal contributors on how certain licenses follow the Debian Free Software Guidelines (DFSG).&amp;nbsp;... Licenses currently found in Debian main include: ...&amp;nbsp;Expat/MIT-style licenses&amp;nbsp;...}}&lt;/ref&gt;
+| Free Software = Yes&lt;ref name="gnu-license-list-expat"&gt;{{Cite web |url=https://www.gnu.org/licenses/license-list.en.html#Expat |title=Various Licenses and Comments about Them |date=2014–2017 |publication-date=2017-04-04 |website=The [[GNU Project]] |publisher=[[Free Software Foundation]] |at=Expat License |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720140022/https://www.gnu.org/licenses/license-list.en.html |url-status=live |archive-date=2017-07-20 |quote=This is a lax, permissive non-copyleft free software license, compatible with the GNU GPL. It is sometimes ambiguously referred to as the MIT License.}}&lt;/ref&gt;&lt;ref name="gnu-license-list-x11"&gt;{{Cite web |url=https://www.gnu.org/licenses/license-list.en.html#X11License |title=Various Licenses and Comments about Them |date=2014–2017 |publication-date=2017-04-04 |website=The [[GNU Project]] |publisher=[[Free Software Foundation]] |at=X11 License |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720140022/https://www.gnu.org/licenses/license-list.en.html |url-status=live |archive-date=2017-07-20 |quote=This is a lax permissive non-copyleft free software license, compatible with the GNU GPL.&amp;nbsp;... This license is sometimes called the MIT license, but that term is misleading, since MIT has used many licenses for software.}}&lt;/ref&gt;
+| GPL compatible = Yes&lt;ref name="gnu-license-list-expat"/&gt;&lt;ref name="gnu-license-list-x11"/&gt;
+| copyleft = No&lt;ref name="gnu-license-list-expat"/&gt;&lt;ref name="gnu-license-list-x11"/&gt;
+| linking = Yes
+}}
+
+
+'''สัญญาอนุญาตของสถาบันเทคโนโลยีแมสซาชูเซตส์''' หรือ '''สัญญาอนุญาตเอ็มไอที''' ({{lang-en|MIT License}}) เป็น[[สัญญาอนุญาต]][[ซอฟต์แวร์เสรี]]ที่สร้างขึ้นในช่วงปลายคริสต์ทศวรรษ 1980&lt;ref name="history"&gt;{{cite web |url=https://opensource.com/article/19/4/history-mit-license |work=opensource.com |title=The mysterious history of the MIT License |publisher=opensource.com |quote=The date? The best single answer is probably 1987. But the complete story is more complicated and even a little mysterious. [...] Precursors from 1985. The X Consortium or X11 License variant from 1987. Or the Expat License from 1998 or 1999. |access-date=2019-07-30 }}&lt;/ref&gt; โดย[[สถาบันเทคโนโลยีแมสซาชูเซตส์]] (MIT)&lt;ref&gt;Lawrence Rosen, OPEN SOURCE LICENSING, p.85 (Prentice Hall PTR, 1st ed. 2004)&lt;/ref&gt; มีลักษณะเป็นสัญญาอนุญาตซอฟต์แวร์เสรีที่มีข้อจำกัดน้อย (Permissive License) โดยอนุญาตให้นำซอฟต์แวร์ที่มีลิขสิทธิ์ชนิดดังกล่าวไปประกอบเป็นส่วนหนึ่งของ[[ซอฟต์แวร์กรรมสิทธิ์]]ได้ โดยที่ชุดซอฟต์แวร์ที่แจกจ่ายไปนั้นต้องมีข้อความในสัญญาอนุญาตเอ็มไอที&lt;ref name="opensoucecomp"&gt;{{cite web|url=http://opensource.com/business/14/1/what-license-should-i-use-open-source-project |quote=Permissive licensing simplifies things One reason the business world, and more and more developers [...], favor permissive licenses is in the simplicity of reuse. The license usually only pertains to the source code that is licensed and makes no attempt to infer any conditions upon any other component, and because of this there is no need to define what constitutes a derived work. I have also never seen a license compatibility chart for permissive licenses; it seems that they are all compatible.|title=Should I use a permissive license? Copyleft? Or something in the middle? |date=2014-01-28 |access-date=2015-05-30 |first=Marcus D. |last=Hanwell |publisher=opensource.com}}&lt;/ref&gt;&lt;ref name="comaptible"&gt;{{cite web |url=https://joinup.ec.europa.eu/software/page/licence_compatibility_and_interoperability |work=Open-Source Software - Develop, share, and reuse open source software for public administrations |title=Licence Compatibility and Interoperability |publisher=joinup.ec.europa.eu |quote=The licences for distributing free or open source software (FOSS) are divided in two families: permissive and copyleft. Permissive licences (BSD, MIT, X11, Apache, Zope) are generally compatible and interoperable with most other licences, tolerating to merge, combine or improve the covered code and to re-distribute it under many licences (including non-free or 'proprietary'). |access-date=2015-05-30 |url-status=dead |archive-url=https://web.archive.org/web/20150617130550/https://joinup.ec.europa.eu/software/page/licence_compatibility_and_interoperability |archive-date=2015-06-17 }}&lt;/ref&gt;
+
+ซอฟต์แวร์กรรมสิทธิ์ที่ใช้งานที่อยู่ภายใต้สัญญาอนุญาตเอ็มไอทีนี้ยังคงสภาพของความเป็นซอฟต์แวร์กรรมสิทธิ์อยู่ สัญญาอนุญาตดังกล่าวสามารถใช้กับ[[สัญญาอนุญาตสาธารณะทั่วไปของกนู]] (GPL) ได้ ทำให้สามารถทำการรวมและแจกจ่ายซอฟต์แวร์ GPL คู่กับซอฟต์แวร์ที่ใช้สัญญาอนุญาตเอ็มไอทีได้&lt;ref name="gnu-license-list-gpl"&gt;{{cite web|url=https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses |title=Various Licenses and Comments about Them |access-date=17 July 2013 |publisher=Free Software Foundation }}&lt;/ref&gt;
+
+โปรเจกต์ที่มีชี่อเสียงที่ใช้สัญญาอนุญาตของสถาบันเทคโนโลยีแมสซาชูเซตส์ประกอบไปด้วย [[X Window System]], [[Ruby on Rails]], [[Nim (programming language)|Nim]], [[Node.js]], [[Lua (programming language)|Lua]], และ [[jQuery]]. บริษัทที่มีชี่อเสียงที่ใช้สัญญาอนุญาตของสถาบันเทคโนโลยีแมสซาชูเซตส์ประกอบไปด้วย  [[Microsoft]] ([[.NET]]), [[Google]] ([[Angular (web framework)|Angular]]), and [[Meta Platforms|Meta]] ([[React_(JavaScript library)|React]]).
+
+== ข้อตกลงในใบอนุญาต ==
+ข้อตกลงเป็นดังต่อไปนี้:&lt;ref&gt;{{Cite web|title=MIT License Explained in Plain English - TLDRLegal|url=https://tldrlegal.com/license/mit-license|access-date=2021-07-07|website=tldrlegal.com}}&lt;/ref&gt;
+
+&lt;pre&gt;Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+&lt;/pre&gt;
+
+==อ้างอิง==
+{{รายการอ้างอิง}}
+
+== อ่านเพิ่ม ==
+* {{Cite web |url=https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html |title=The MIT License, Line by Line |last1=Mitchell |first1=Kyle E. |date=2016-09-21 |website=/dev/lawyer |archive-url=https://web.archive.org/web/20160928235700/https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html |archive-date=2016-09-28 |url-status=live |access-date=2016-09-28}}
+
+== แหล่งข้อมูลอื่น ==
+* [https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT MIT License variants]
+* [http://www.opensource.org/licenses/MIT The MIT License template] (Open Source Initiative official site)
+* [http://www.jclark.com/xml/copying.txt Expat License]
+* [https://xfree86.org/3.3.6/COPYRIGHT2.html#3 X11 License]
+
+[[หมวดหมู่:สัญญาอนุญาตและใบอนุญาต]]
+{{โครงเทคโนโลยี}}</text>
+      <sha1>bc7pt2xlg0f4zjwhrg8wq48fvfvepg6</sha1>
+    </revision>
+  </page>
+</mediawiki>

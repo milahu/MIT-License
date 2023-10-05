@@ -1,0 +1,119 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="gl">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>glwiki</dbname>
+    <base>https://gl.wikipedia.org/wiki/Portada</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Conversa</namespace>
+      <namespace key="2" case="first-letter">Usuario</namespace>
+      <namespace key="3" case="first-letter">Conversa usuario</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Conversa Wikipedia</namespace>
+      <namespace key="6" case="first-letter">Ficheiro</namespace>
+      <namespace key="7" case="first-letter">Conversa ficheiro</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Conversa MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Modelo</namespace>
+      <namespace key="11" case="first-letter">Conversa modelo</namespace>
+      <namespace key="12" case="first-letter">Axuda</namespace>
+      <namespace key="13" case="first-letter">Conversa axuda</namespace>
+      <namespace key="14" case="first-letter">Categoría</namespace>
+      <namespace key="15" case="first-letter">Conversa categoría</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Conversa portal</namespace>
+      <namespace key="102" case="first-letter">Libro</namespace>
+      <namespace key="103" case="first-letter">Conversa libro</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Módulo</namespace>
+      <namespace key="829" case="first-letter">Conversa módulo</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Licenza MIT</title>
+    <ns>0</ns>
+    <id>400554</id>
+    <revision>
+      <id>5538901</id>
+      <parentid>5191452</parentid>
+      <timestamp>2020-08-06T02:34:08Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>89787</id>
+      </contributor>
+      <comment>Recuperando 3 fontes e etiquetando 0 como mortas.) #IABot (v2.0.2</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="12903" xml:space="preserve">A '''licenza MIT''' (ou licenza X11 ou MIT X)&lt;ref name="techtarget"&gt;{{Cita web|url = http://whatis.techtarget.com/definition/MIT-License-X11-license-or-MIT-X-license | título = MIT License (X11 license or MIT X license) | editores = techtarget.com | data = Marzo de 2011| autores = Margaret Rouse}}&lt;/ref&gt; é unha licenza de [[software libre]] permisiva&lt;ref name="rosen2004"&gt;{{Cita libro | autores = Lawrence Rosen | título = Open Source Licensing: Software Freedom and Intellectual Property Law | isbn =  0131487876 | editores = Prentice Hall PTR | edición = 1 | ano = 2004}}&lt;/ref&gt; Esta licenza creárona avogados no [[Instituto Tecnolóxico de Massachusetts]] (MIT) fundamentándose na [[licenza BSD]] e facéndoa máis sinxela.&lt;ref name="rosen2004" /&gt;&lt;ref name="kiuwan"&gt;{{Cita web | url = https://www.kiuwan.com/blog/a-comparison-of-the-most-popular-open-source-licenses/ | título = A Comparison Of The Most Popular Open Source Licenses | editores = Kiuwan | dataacceso = 9/01/2018 | urlarquivo = https://web.archive.org/web/20180115080228/https://www.kiuwan.com/blog/a-comparison-of-the-most-popular-open-source-licenses/ | dataarquivo = 15/01/2018 | urlmorta = yes }}&lt;/ref&gt;. Como o MIT liberou diversas licenzas a [[Free Software Foundation]] refírese a esta licenza chamándoa ''Licenza X11''.&lt;ref name="gnu_x11"&gt;{{Cita web| url = https://www.gnu.org/licenses/license-list.html#X11License | editores = GNU Operating System, Free Software Foundation| título = Licenses: Various Licenses and Comments about Them}}&lt;/ref&gt; Dálle ese nome porque é a licenza do xestor gráfico [[X Window System]].&lt;ref name="techtarget" /&gt; Pola contra a [[Open Source Iniciative]] non concorda con iso e chámalle ''Licenza MIT''.&lt;ref name="techtarget" /&gt;
+
+Xa que é unha licenza permisiva, ten poucas limitacións sobre do reuso do software e permite que sexa unha ampla compatible con outras licenzas.&lt;ref name="opensoucecomp"&gt;{{cita web| url = http://opensource.com/business/14/1/what-license-should-i-use-open-source-project | título =Should I use a permissive license? Copyleft? Or something in the middle? | date = 28/01/2014 | nome = Marcus D. | apelidos = Hanwell | editores = opensource.com | cita = As licenzas permisivas simplifican as cousas. Unha razón polo que o mundo empresarial, en cada vez máis e máis desenvolvedores [...], prefiren as licenzas permisivas é a súa facilidade para ser reusadas. A licenza polo xeral só é aplicable ao código fonte e e non expón condicións que afecten a outras compoñentes, e grazas a iso non hai a necesidade de definir que constitúe un traballo derivado. Ademais nunca teño visto unha táboa de compatibilidade de licenzas para as licenzas permisivas; parece que todas son compatibles.}}&lt;/ref&gt;&lt;ref name="comaptible"&gt;{{cita web | url = https://joinup.ec.europa.eu/software/page/licence_compatibility_and_interoperability | obra = Open-Source Software - Develop, share, and reuse open source software for public administrations | título = Licence Compatibility and Interoperability | editores = joinup.ec.europa.eu | cita = As licenzas para distrubuír o código aberto e libre (FOSS) divídense en dúas familias: as permisivas e as [[copyleft]]. As licenzas permisivas (BSD, MUT, X11, Apache, Zope) son polo xeral compatibles e combinables con case todas as demais licenzas, aceptando as unións, as combinacións ou as melloras que o código permite e son redistribuibles baixo moitas licenzas (incluídas as licenzas non-libre ou "privativas"). | data-acceso = 14 de xaneiro de 2018 | urlarquivo = https://web.archive.org/web/20150617130550/https://joinup.ec.europa.eu/software/page/licence_compatibility_and_interoperability | dataarquivo = 17 de xuño de 2015 | urlmorta = yes }}&lt;/ref&gt; A licenza sempre inclúe unha declaración sobre do [[Dereito de autoría|copyright]] e unha advertencia que indica que o software se distribúe "''como está''" e que os propietarios non se fan responsables das reclamacións polos erros do emprego dese software.&lt;ref name="kiuwan" /&gt;  A licenza permite reempregar o código mais mantendo os dereitos de copyright e as notas da licenza. Permite traballos derivados ou modificacións baixo diferentes termos e mesmo sen distribuír o código fonte. Con iso, a licenza MIT permite a reutilización dentro de [[software privativo]], xa que permite as adaptacións a fins comerciais.&lt;ref name="techtarget" /&gt;&lt;ref name="kiuwan" /&gt;
+
+A licenza MIT tamén é compatible con moitas licenzas de [[copyleft]], como a [[GNU General Public License]] (GPL). Grazas a iso o software con licenza MIT pódese integrar en software GPL, inda que non do outro xeito.&lt;ref name="gnu_x11" /&gt;
+
+En [[2018]] a licenza MIT foi a máis popular para proxectos de [[código aberto]], xa que dos 2 millóns de proxectos estudados foi a licenza empregada polo 32%.&lt;ref name="statsbd"&gt;{{Cita web| url = https://www.blackducksoftware.com/top-open-source-licenses | título = Top open sources licenses | dataacceso = 9/01/2018 | editores = backducksoftware.com}}&lt;/ref&gt; Algúns exemplos de software que emprega está licenza é o [[X Window System]] ou as linguaxes de programación [[Ruby on Rails]] e [[Node.js]].
+
+== Termos da licenza e variantes ==
+A MIT ten varias variantes que se empregan, e de feito a [[Free Software Foundation]] se refire á licenza como ambigua por iso. Unha versión común é a denominada "Licenza ''[[Exilio|expat]]''" (''expat'' de "expatriado")&lt;ref name="GNU_Expat"&gt;{{Cita web | url = https://www.gnu.org/licenses/license-list.html#Expat | título = Various Licenses and Comments about Them: Expat License | dataacceso = 19/01/2018 | editores = Free Software Foundation }}&lt;/ref&gt; e a outra é a "Licenza X11" (ou "Licenza do consorcio MIT/X")&lt;ref name="GNU_X11License"&gt;{{Cita web | url = https://www.gnu.org/licenses/license-list.html#X11License | título = Various Licenses and Comments about Them: X11 License | dataacceso = 19/01/2018 | editores = Free Software Foundation }}&lt;/ref&gt;. A Licenza X11 é a versión que emprega o xestor de xanelas [[X Window System|X11]] e que mantén o "consorcio MIT X".&lt;ref name="OSI_MIT"&gt;{{Cita web | url = http://opensource.org/licenses/MIT | título = Open Source Initiative OSI – The MIT License: Licensing | editores = Open Source Initiative| dataacceso = 19/01/2018}}&lt;/ref&gt; A [[Open Source Iniciative|Open Source Initiative]] publica a versión da "Licenza MIT" tal e como é a "licenza expat".
+
+A forma máis habitual da licenza é a publicada pola OSI, a "Licenza expat". Esta di:
+
+{{Cita|
+Copyright (c) &lt;nowiki&gt;&lt;ano&gt; &lt;titulares dos dereitos de autor&gt;&lt;/nowiki&gt;
+
+De aquí en diante dáselle permiso, sen custe ningún, a que calquera persoa que obteña unha copia deste software e dos ficheiros de documentación asociados (o "Software"), de empregalos en Software sen restricións, mesmo sen que exista unha limitación dos dereitos de para usar, copiar, modificar, fusionar, publicar, distribuír, sublicenciar e/ou vender as copias do Software; e permíteselle as persoas que obtiveron o Software que o fornezan do mesmo xeito, estando suxeitos ás seguintes condicións:
+
+O SOFTWARE OFRÉCESE "TAL É COMO ESTÁ", SEN QUE HAXA GARANTÍAS DE NINGÚN TIPO, EXPLÍCITAS OU IMPLÍCITAS, INCLUÍDAS MAIS SEN LIMITALAS ÁS GARANTÍAS COMERCIAIS, DA IDONEIDADE PARA UN PROPÓSITO PARTICULAR E QUE NON SUPOÑA INFRACCIÓNS. EN NINGÚN CASO OS AUTORES OU TITULARES DOS DEREITOS DE AUTOR SE FARÁN RESPONSABLES DE NINGUNHA RECLAMACIÓN, DOS DANOS OU DOUTRA RESPONSABILIDADE, BEN SEXA COMO CONDICIÓN CONTRACTUAL OU DE NEGLIXENCIA OU OUTRA CONDICIÓN, DERIVADA DE, CAUSA DE OU LIGADA AO SOFTWARE OU AO SEU USO OU RELACIÓN CON OUTROS.&lt;ref name="ReferenceA"&gt;Esta tradución da licenza é orientativa e non foi revisada por ningún tradutor ou experto en lexislación.&lt;/ref&gt;}}
+
+A ''expat'' non é idéntica á do código fonte do xestor de xanelas X, que a editou o consorcio que o mantén X11 e que é unha versión intermedia con algunha modificación.&lt;ref&gt;{{Cita web| url = http://www.xfree86.org/4.0/LICENSE3.html#6 | título = 3.3. X Consortium: 3. X/MIT Licenses | editores = The XFree86 Project | data = Marzo de 2004}}&lt;/ref&gt;. A Licenza X11 di:
+
+{{Cita|
+Copyright (C) &lt;nowiki&gt;&lt;data&gt; X Consorcio&lt;/nowiki&gt;
+
+De aquí en diante dáselle permiso, sen custe ningún, a que calquera persoa que obteña unha copia deste software e dos ficheiros de documentación asociados (o "Software"), de empregalos en Software sen restricións, mesmo sen que exista unha limitación dos dereitos de para usar, copiar, modificar, fusionar, publicar, distribuír, sublicenciar e/ou vender as copias do Software; e permíteselle as persoas que obtiveron o Software que o fornezan do mesmo xeito, estando suxeitos ás seguintes condicións:
+
+Que as notas sobre do dereito de autor e esta nota de permisos ten que estar incluída en todas as copias ou nas partes importante do Software.
+
+O SOFTWARE OFRÉCESE "TAL É COMO ESTÁ", SEN QUE HAXA GARANTÍAS DE NINGÚN TIPO, EXPLÍCITAS OU IMPLÍCITAS, INCLUÍDAS MAIS SEN LIMITALAS ÁS GARANTÍAS COMERCIAIS, DA IDONEIDADE PARA UN PROPÓSITO PARTICULAR E QUE NON SUPOÑA INFRACCIÓNS. EN NINGÚN CASO O CONSORCIO X SE FARÁ RESPONSABLE DE NINGUNHA RECLAMACIÓN, DOS DANOS OU DOUTRA RESPONSABILIDADE, BEN SEXA COMO CONDICIÓN CONTRACTUAL OU DE NEGLIXENCIA OU OUTRA CONDICIÓN, DERIVADA DE, CAUSA DE OU LIGADA AO SOFTWARE OU AO SEU USO OU RELACIÓN CON OUTROS.
+
+Agás para o uso neste aviso, o nome do Consorcio X non se pode empregar en publicidade ou con finalidade comercial de ningún tipo que promova a venda, o uso ou outras cuestións que estean relacionada co uso do Software salvo que haxa unha autorización expresa do Consorcio X que o permita.
+
+X Window System é unha marca rexistrada de Consorcio X, Inc.&lt;ref name="ReferenceA"&gt;Esta tradución da licenza é orientativa e non foi revisada por ningún tradutor ou experto en lexislación.&lt;/ref&gt;}}
+
+Outro caso de variante da licenza é a que emprega ''ncurses'', unha libraría para xestor de interfaces gráficas.
+
+== Comparación con outras licenzas ==
+A licenza BSD orixinal inclúe unha cláusula que prega que cando haxa promoción do software se lle dea crédito aos autores. Esta cláusula de promoción, e que desaconsellou a [[Universidade de California, Berkeley|UC de Berkeley]]&lt;ref name="ucberkeley"&gt;{{Cita web | url=ftp://ftp.cs.berkeley.edu/pub/4bsd/README.Impt.License.Change | título = To All Licensees, Distributors of Any Version of BSD | editores = University of California, Berkeley | data = 22/07/1999}}&lt;/ref&gt;, incluíuse noutras versións da MIT, como a que emprega a ''XFree86''.
+
+A "Licenza da Universidade Illinois/Licenza de código aberto NCSA" combina texto da licenza MIT e de licenzas BSD. A introdución da licenza e a advertencia recolléronse da licenza MIT.
+
+A "Licenza ISC" contén similitudes coa MIT e as licenzas simplificadas da BSD. A súa maior diferenza é que se omite algunha sentenza que a [[Convención de Berna para a protección das obras literarias e artísticas|Convención de Berna]] considerou como innecesaria.&lt;ref&gt;{{Cita web | url   = http://www.openbsd.org/policy.html | título = Copyright Policy | obra = OpenBSD | cita = ''The ISC copyright is functionally equivalent to a two-term BSD copyright with language removed that is made unnecessary by the Berne convention.''}}&lt;/ref&gt;&lt;ref name="theo2008"&gt;{{Cita web | url = https://marc.info/?l=openbsd-misc&amp;m=120618313520730&amp;w=2 | título  = Re: BSD Documentation License? | obra = Lista de correo 'openbsd-misc' | autores = Theo de Raadt | data = 21/04/2008}}&lt;/ref&gt;
+
+== Acollida ==
+Segundo webs de posicionamento&lt;ref name="blackduck2018"&gt;{{Cita web | url = http://www.blackducksoftware.com/resources/data/top-20-licenses | quote = 1. MIT License 32%, 2. GNU General Public License (GPL 2.0) 18% | título = Top 20 licenses | editores = Black Duck Software | dataacceso = 19/01/2018 | data = 19/01/2018 | urlarquivo = https://web.archive.org/web/20160719043600/https://www.blackducksoftware.com/top-open-source-licenses | dataarquivo = 19/07/2016 | urlmorta = yes }}&lt;/ref&gt; e o uso en [[Github]]&lt;ref name="github2015"&gt;{{cita web | url = https://github.com/blog/1964-license-usage-on-github-com | cita = 1 MIT 44.69%, 2 Other 15.68% | título = Open source license usage on GitHub.com | data = 09/03/2015 | nome = Ben | apelidos = Balter | editores = github.com}}&lt;/ref&gt; en [[2018]] a licenza MIT foi a máis empregada das licenzas libres, por diante da [[GNU General Public License|GPLv2]].
+
+Entre os proxectos máis destacados que a empregan están [[Ruby on Rails]] e [[Node.js]], [[jQuery]] ou [[Lua (linguaxe de programación)|Lua]].
+
+== Notas ==
+{{Listaref|30em}}
+== Véxase tamén ==
+=== Outros artigos ===
+* [[GNU General Public License|GNU GPL]]
+* [[GNU LGPL]]
+* [[GNU FDL|Licenza de documentación libre de GNU]]
+
+{{Control de autoridades}}
+
+[[Categoría:Licenzas de software]]</text>
+      <sha1>nlxzmdtly5knna938lk9n3bmh3ha011</sha1>
+    </revision>
+  </page>
+</mediawiki>

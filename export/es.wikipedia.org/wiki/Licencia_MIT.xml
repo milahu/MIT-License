@@ -1,0 +1,184 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="es">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>eswiki</dbname>
+    <base>https://es.wikipedia.org/wiki/Wikipedia:Portada</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medio</namespace>
+      <namespace key="-1" case="first-letter">Especial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Discusión</namespace>
+      <namespace key="2" case="first-letter">Usuario</namespace>
+      <namespace key="3" case="first-letter">Usuario discusión</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia discusión</namespace>
+      <namespace key="6" case="first-letter">Archivo</namespace>
+      <namespace key="7" case="first-letter">Archivo discusión</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki discusión</namespace>
+      <namespace key="10" case="first-letter">Plantilla</namespace>
+      <namespace key="11" case="first-letter">Plantilla discusión</namespace>
+      <namespace key="12" case="first-letter">Ayuda</namespace>
+      <namespace key="13" case="first-letter">Ayuda discusión</namespace>
+      <namespace key="14" case="first-letter">Categoría</namespace>
+      <namespace key="15" case="first-letter">Categoría discusión</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal discusión</namespace>
+      <namespace key="102" case="first-letter">Wikiproyecto</namespace>
+      <namespace key="103" case="first-letter">Wikiproyecto discusión</namespace>
+      <namespace key="104" case="first-letter">Anexo</namespace>
+      <namespace key="105" case="first-letter">Anexo discusión</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Módulo</namespace>
+      <namespace key="829" case="first-letter">Módulo discusión</namespace>
+      <namespace key="2300" case="case-sensitive">Accesorio</namespace>
+      <namespace key="2301" case="case-sensitive">Accesorio discusión</namespace>
+      <namespace key="2302" case="case-sensitive">Accesorio definición</namespace>
+      <namespace key="2303" case="case-sensitive">Accesorio definición discusión</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Licencia MIT</title>
+    <ns>0</ns>
+    <id>152654</id>
+    <revision>
+      <id>151165122</id>
+      <parentid>151165113</parentid>
+      <timestamp>2023-05-15T10:14:34Z</timestamp>
+      <contributor>
+        <username>René T. Schröder</username>
+        <id>5179936</id>
+      </contributor>
+      <comment>/* Proyectos que la utilizan */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="15252" xml:space="preserve">
+{{Ficha de licencia de software
+| nombre          = MIT License/X11 license
+| autor           = [[Instituto Tecnológico de Massachusetts]]
+| version         = [[N/A]]
+| publicado       = Instituto Tecnológico de Massachusetts
+| fecha           = [[1988]]
+| aprobado Debian = Sí
+| Aprobada FSF = Sí
+| soft libre      = Sí
+| Lic OpenSource  = Sí
+| compatible GPL  = Sí
+| copyleft        = Sí
+
+| compatible GNU  = Sí
+}}
+
+La '''licencia MIT''' es una [[licencia de software]] que se origina en el [[Instituto Tecnológico de Massachusetts]] (MIT, ''Massachusetts Institute of Technology''). Quizás debería llamarse más correctamente '''licencia X11''', ya que es el [[software]] de muestra de la información de manera gráfica [[X Window System]] originario del MIT en los años 1980. Pero ya sea como MIT o X11, su texto es idéntico.
+
+Esta licencia es una [[Licencia de software libre permisiva]] lo que significa que impone muy pocas limitaciones en la reutilización y por tanto posee una excelente [[Compatibilidad de licencia]]. La licencia MIT permite reutilizar ''software'' dentro de [[Software propietario]]. Por otro lado, la licencia MIT es compatible con muchas licencias ''[[copyleft]]'', como la [[GNU General Public License]]&lt;ref&gt;{{Cita web|url=http://www.gnu.org/licenses/gpl.html|título=gnu.org|fechaacceso=4 de mayo de 2016|sitioweb=www.gnu.org}}&lt;/ref&gt; (el software con licencia MIT puede integrarse en software con licencia GPL, pero no al contrario). 
+
+El texto de la licencia no tiene [[copyright]], lo que permite su modificación. No obstante esto, puede no ser recomendable e incluso muchas veces dentro del movimiento del [[software de código abierto]] desaconsejan el uso de este texto para una licencia, a no ser que se indique que es una modificación, y no la versión original.
+
+La licencia MIT es muy parecida a la [[licencia BSD]]&lt;ref&gt;{{Cita web|url=http://www.linfo.org/bsdlicense.html|título=BSD license definition|fechaacceso=4 de mayo de 2016|sitioweb=www.linfo.org}}&lt;/ref&gt; en cuanto a efectos.
+
+Por otro lado, la licencia MIT siempre ha sido una licencia importante y se utiliza muy a menudo en el [[Software libre]]. En 2015, de acuerdo con Black Duck Software y datos de [[GitHub]],&lt;ref&gt;{{Cita web|url=https://github.com/|título=Build software better, together|fechaacceso=4 de mayo de 2016|sitioweb=GitHub}}&lt;/ref&gt; se convirtió en la licencia más popular por encima de las variantes de la licencia GPL.
+
+== La licencia ==
+La licencia original (en inglés),&lt;ref&gt;[https://opensource.org/licenses/MIT The MIT License]&lt;/ref&gt; con su traducción no oficial, es la siguiente:
+{{cita|
+Copyright &lt;YEAR&gt; &lt;COPYRIGHT HOLDER&gt;
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+|col2=
+Copyright &lt;AÑO&gt; &lt;TITULAR DEL COPYRIGHT&gt;
+
+Por la presente se concede permiso, libre de cargos, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el "Software"), a utilizar el Software sin restricción, incluyendo sin limitación los derechos a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar, y/o vender copias del Software, y a permitir a las personas a las que se les proporcione el Software a hacer lo mismo, sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "COMO ESTÁ", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR E INCUMPLIMIENTO. EN NINGÚN CASO LOS AUTORES O PROPIETARIOS DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRAS RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, DERIVADAS DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O SU USO U OTRO TIPO DE ACCIONES EN EL SOFTWARE.
+}}
+
+El texto diferencia tres puntos:
+
+# '''Condiciones''', la condición es que la nota de copyright y la parte de los derechos se incluya en todas las copias o partes sustanciales del Software. Esta es la condición que invalidaría la licencia en caso de no cumplirse.
+# '''Derechos''', los derechos son muchos: sin restricciones; incluyendo usar, copiar, modificar, integrar con otro Software, publicar, sublicenciar o vender copias del Software, y además permitir a las personas a las que se les entregue el Software hacer lo mismo.
+# '''Limitación de responsabilidad''', finalmente se tiene un ''disclaimer'' o nota de limitación de la responsabilidad habitual en este tipo de licencias.
+
+== Varias versiones ==
+Debido a que MIT ha utilizado muchas licencias de software, la [[Free Software Foundation]]&lt;ref&gt;{{Cita web|url=http://www.fsf.org/|título=Front Page — Free Software Foundation — working together for free software|fechaacceso=4 de mayo de 2016|sitioweb=www.fsf.org|urlarchivo=https://web.archive.org/web/20100115014249/http://www.fsf.org/|fechaarchivo=15 de enero de 2010}}&lt;/ref&gt; la considera una licencia ambigua. La licencia MIT puede referirse a la licencia Expat (utilizada por [[Expat]]&lt;ref&gt;{{Cita web|url=http://expat.sourceforge.net/|título=The Expat XML Parser|fechaacceso=4 de mayo de 2016|sitioweb=expat.sourceforge.net}}&lt;/ref&gt;) o a la licencia X11 (también llamada MIT/Consortium license) utilizada por X Windows System. La licencia MIT publicada por la [[Open Source Initiative]]&lt;ref&gt;{{Cita web|url=https://opensource.org/|título=News {{!}} Open Source Initiative|fechaacceso=4 de mayo de 2016|sitioweb=opensource.org}}&lt;/ref&gt; es la misma que la licencia Expat.
+
+A diferencia de la licencia Expat, las licencias X11 y MIT elegidas para [[Ncurses|Curses]] por la [[Free Software Foundation]] incluyen la siguiente cláusula:&lt;blockquote&gt;Excepto lo contenido en este aviso, el nombre de los titulares con derecho de autor, no podrá ser utilizado para promover la venta, uso u otras cuestiones relacionadas con el software sin previa autorización por escrito.&lt;/blockquote&gt;
+
+== Comparación con otras licencias ==
+La licencia MIT pone muy pocas restricciones en la reutilización de ''software'', aunque no llega a ser sin restricciones como [[Dominio público]].
+
+La licencia BSD incluye una cláusula que exige que toda la publicidad del ''[[software]]'' sea notificada a sus autores. Esta cláusula de publicidad está presente en la licencia MIT usada por [[XFree86]].&lt;ref&gt;{{Cita web|url=http://www.xfree86.org/|título=XFree86® Home to the X Window System|fechaacceso=4 de mayo de 2016|sitioweb=www.xfree86.org|urlarchivo=https://web.archive.org/web/20031020210433/http://xfree86.org/|fechaarchivo=20 de octubre de 2003}}&lt;/ref&gt;
+
+Los derechos otorgados al [[Usuario final]] en la licencia MIT, incluyen: el derecho a usar, copiar, modificar, fusionar, publicar, distribuir, cambiar la licencia y/o vender el ''software''. La licencia MIT reconoce específicamente el derecho a cambiar la licencia en el texto de la propia licencia (un derecho que no se menciona en la [[Licencia BSD]], que sólo conoce el derecho a redistribuir y reutilizar). El derecho para cambiar la licencia significa que en la parte del ''software'' que está bajo la licencia MIT se tiene el derecho a otorgar nuevas licencias antes de distribuir el ''software'' con licencia MIT.
+
+Al igual que la [[Licencia BSD]], la licencia MIT no incluye una licencia de [[patente]] expresa. Ambas licencias se redactaron antes de que se pudiera registrar legalmente una [[patente]] en los EE.{{esd}}UU. No obstante, la [[Apache License]] versión 2.0 o superior es también permisiva e incluye la licencia de patente.
+
+La [[licencia BSD simplificada]], conocida por ser utilizada por [[FreeBSD]]&lt;ref&gt;{{Cita web|url=http://www.freebsd.org/es/|título=El Proyecto FreeBSD|fechaacceso=4 de mayo de 2016|sitioweb=www.freebsd.org}}&lt;/ref&gt; es prácticamente idéntica a la licencia MIT, ya que no contiene cláusula de uso publicitario ni prohibición de uso promocional del nombre del poseedor de los derechos de ''[[copyright]]''.
+
+La [[Licencia ISC]]&lt;ref&gt;{{Cita web|url=https://www.isc.org/downloads/software-support-policy/isc-license/|título=ISC License {{!}} Internet Systems Consortium|fechaacceso=4 de mayo de 2016|sitioweb=www.isc.org}}&lt;/ref&gt; es muy parecida también a la licencia MIT, pero con un lenguaje más sencillo.
+
+== Características y usos de esta licencia ==
+Esta licencia permite reutilizar el ''software'' así licenciado tanto para ser [[software libre]] como para ser [[software no libre]], permitiendo no liberar los cambios realizados al programa original.
+
+También permite licenciar dichos cambios con [[licencia BSD]], [[Licencia pública general de GNU|GPL]],&lt;ref&gt;[https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses Various Licenses and Comments about Them – GNU Project – Free Software Foundation]. Gnu.org (1999-09-03).&lt;/ref&gt; u otra cualquiera que sea compatible (es decir, que cumpla las cláusulas de distribución).
+
+Con esta licencia se tiene ''software'' libre. Ejemplos en los que podría interesar su aplicación serían las [[licencia dual|licencias duales]], si se pretende difundir un [[Norma (tecnología)|estándar]] mediante una implementación de referencia, o si simplemente se pretende que el producto sea libre sin mayores consideraciones.
+
+== Recepción e impacto ==
+En 2015, según Black Duck Software&lt;ref&gt;{{Cita web|url=https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html|título=Black Duck Software {{!}} Open Source Security &amp; Management|fechaacceso=29 de enero de 2020|sitioweb=Synopsys}}&lt;/ref&gt; y [[GitHub]], la licencia MIT fue la licencia de [[software libre]] más popular, estando la [[GPLv2]] en segundo lugar.
+
+Numerosas herramientas ''[[software]]'' utilizan una de las versiones de la licencia MIT, como por ejemplo: [[Expat]], [[Ruby on Rails]],&lt;ref&gt;{{Cita web|url=http://www.rubyonrails.org/|título=Ruby on Rails|fechaacceso=4 de mayo de 2016|sitioweb=www.rubyonrails.org}}&lt;/ref&gt; [[Node.js]]&lt;ref&gt;{{Cita web|url=http://nodejs.org/|título=Node.js|fechaacceso=4 de mayo de 2016|apellido=Foundation|nombre=Node.js|sitioweb=nodejs.org}}&lt;/ref&gt; o [[jQuery]].&lt;ref&gt;{{Cita web|url=http://jquery.com/|título=jQuery|fechaacceso=4 de mayo de 2016|apellido=jquery.org|nombre=jQuery Foundation -|sitioweb=jquery.com}}&lt;/ref&gt;
+
+== Proyectos que la utilizan ==
+Ejemplos de proyectos de ''software'' que emplean esta licencia:
+
+* [[X11]]
+* [[X.Org Server|X.org]]&lt;ref&gt;{{Cita web|url=http://www.x.org/|título=X.Org|fechaacceso=4 de mayo de 2016|sitioweb=www.x.org}}&lt;/ref&gt;
+* [[Expat]]
+* [[Bitcoin]]&lt;ref&gt;{{Cita web|url=http://www.bitcoin.org/|título=Bitcoin - Dinero P2P de código abierto|fechaacceso=4 de mayo de 2016|sitioweb=www.bitcoin.org}}&lt;/ref&gt;
+* [[PuTTY]]&lt;ref&gt;{{Cita web|url=http://www.chiark.greenend.org.uk/~sgtatham/putty/|título=PuTTY: a free SSH and Telnet client|fechaacceso=4 de mayo de 2016|sitioweb=www.chiark.greenend.org.uk}}&lt;/ref&gt;
+* [[Proyecto Mono|Mono]]&lt;ref&gt;{{Cita web|url=http://www.mono-project.com/|título=Home {{!}} Mono|fechaacceso=4 de mayo de 2016|sitioweb=www.mono-project.com}}&lt;/ref&gt;
+* [[Symfony]]&lt;ref&gt;{{Cita web|url=https://symfony.com/|título=Symfony, High Performance PHP Framework for Web Development|fechaacceso=4 de mayo de 2016|sitioweb=symfony.com}}&lt;/ref&gt;&lt;ref&gt;{{Cita web|url=http://www.symfony-project.org/|título=- Symfony|fechaacceso=4 de mayo de 2016|sitioweb=www.symfony-project.org}}&lt;/ref&gt;
+* [[Ruby on Rails]]
+* [[CakePHP]]&lt;ref&gt;{{Cita web|url=http://www.cakephp.org/|título=CakePHP v3.2 - the rapid development php framework.|fechaacceso=4 de mayo de 2016|sitioweb=www.cakephp.org}}&lt;/ref&gt; 
+* [[CodeIgniter]]&lt;ref&gt;{{Cita web|url=https://ellislab.com/codeigniter|título=CodeIgniter / EllisLab|fechaacceso=4 de mayo de 2016|apellido=Inc|nombre=EllisLab,|sitioweb=ellislab.com|urlarchivo=https://web.archive.org/web/20160512160556/https://ellislab.com/codeigniter/|fechaarchivo=12 de mayo de 2016}}&lt;/ref&gt; 
+* [[Torque (motor gráfico)|Torque]]&lt;ref&gt;{{Cita web|url=http://www.garagegames.com/products/torque-3d|título=Torque 3D {{!}} Products {{!}} GarageGames.com|fechaacceso=4 de mayo de 2016|sitioweb=www.garagegames.com}}&lt;/ref&gt;
+* [[Zend Framework|ZendPHP]]&lt;ref&gt;{{Cita web|url=http://www.framework.zend.com/|título=Zend Framework|fechaacceso=4 de mayo de 2016|sitioweb=www.framework.zend.com}}&lt;/ref&gt;
+* [[StepMania]]&lt;ref&gt;{{Cita web|url=http://www.stepmania.com/|título=News - StepMania|fechaacceso=4 de mayo de 2016|sitioweb=www.stepmania.com}}&lt;/ref&gt;
+* [[Transmission]]&lt;ref&gt;{{Cita web|url=http://www.transmissionbt.com/|título=Transmission|fechaacceso=4 de mayo de 2016|sitioweb=www.transmissionbt.com}}&lt;/ref&gt;
+* [[JQuery]]
+* [[Mootools]]&lt;ref&gt;{{Cita web|url=http://mootools.net/|título=MooTools|fechaacceso=4 de mayo de 2016|sitioweb=mootools.net}}&lt;/ref&gt;
+* [[Haiku (sistema operativo)]]&lt;ref&gt;{{Cita web|url=https://haiku-os.org/|título=Home {{!}} Haiku Project|fechaacceso=4 de mayo de 2016|sitioweb=haiku-os.org}}&lt;/ref&gt;
+* [[Kivy]]&lt;ref&gt;{{Cita web|url=https://kivy.org/#home|título=Kivy: Cross-platform Python Framework for NUI|fechaacceso=4 de mayo de 2016|idioma=en-US|sitioweb=kivy.org}}&lt;/ref&gt;
+* [[Laravel]]&lt;ref&gt;{{Cita web|url=https://laravel.com/|título=The PHP Framework For Web Artisans|sitioweb=laravel.com}}&lt;/ref&gt;
+* [[Godot|Godot Engine]]
+* [[React]]&lt;ref&gt;{{Cita web|sitioweb=reactjs.org}}&lt;/ref&gt;
+* [[Vue.js]]&lt;ref&gt;{{Cita web|sitioweb=vuejs.org}}&lt;/ref&gt;
+* [https://frappeframework.com/ Frappe Framework]&lt;ref&gt;{{Cita web|url=https://github.com/frappe/frappe|título=Frappe - Low code, open source, web framework in Python and Javascript for the 21st century|fechaacceso=15 de mayo de 2023|sitioweb=frappeframework.com}}&lt;/ref&gt;
+
+== Referencias ==
+{{Listaref|2}}
+
+== Enlaces externos ==
+* [http://www.opensource.org/licenses/mit-license.php Plantilla de la licencia MIT] - [[Open Source Initiative]]
+* [http://www.gnu.org/licenses/license-list.html#X11License Compatibilidad con la [[GPL]]]
+&lt;!-- Enlace muerto, verificado en fecha 23 de noviembre de 2012
+* [http://web.archive.org/web/http://blackshell.usebox.net/archivo/289.php] --&gt;
+
+{{Control de autoridades}}
+[[Categoría:Licencias de software libre]]
+[[Categoría:Licencias de código abierto]]
+[[Categoría:Instituto de Tecnología de Massachusetts]]</text>
+      <sha1>oexdgnfjy4x6a8ndjqg8h7yw4v2hw53</sha1>
+    </revision>
+  </page>
+</mediawiki>

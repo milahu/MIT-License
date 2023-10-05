@@ -1,0 +1,104 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="id">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>idwiki</dbname>
+    <base>https://id.wikipedia.org/wiki/Halaman_Utama</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Istimewa</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Pembicaraan</namespace>
+      <namespace key="2" case="first-letter">Pengguna</namespace>
+      <namespace key="3" case="first-letter">Pembicaraan Pengguna</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Pembicaraan Wikipedia</namespace>
+      <namespace key="6" case="first-letter">Berkas</namespace>
+      <namespace key="7" case="first-letter">Pembicaraan Berkas</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Pembicaraan MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Templat</namespace>
+      <namespace key="11" case="first-letter">Pembicaraan Templat</namespace>
+      <namespace key="12" case="first-letter">Bantuan</namespace>
+      <namespace key="13" case="first-letter">Pembicaraan Bantuan</namespace>
+      <namespace key="14" case="first-letter">Kategori</namespace>
+      <namespace key="15" case="first-letter">Pembicaraan Kategori</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Pembicaraan Portal</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Modul</namespace>
+      <namespace key="829" case="first-letter">Pembicaraan Modul</namespace>
+      <namespace key="1704" case="first-letter">Story</namespace>
+      <namespace key="1705" case="first-letter">Pembicaraan Story</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topik</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lisensi MIT</title>
+    <ns>0</ns>
+    <id>2435791</id>
+    <revision>
+      <id>18898807</id>
+      <parentid>18038064</parentid>
+      <timestamp>2021-08-04T03:11:20Z</timestamp>
+      <contributor>
+        <username>HsfBot</username>
+        <id>820984</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:Bot|Bot]]: namun (di tengah kalimat) → tetapi</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7118" xml:space="preserve">{{Kotak info lisensi perangkat lunak
+|name       = Lisensi MIT
+|author     = &lt;!-- An author is always a person. Something more clever than "Massachusetts Institute of Technology", please! --&gt;
+|copyright  = [[Massachusetts Institute of Technology]]
+|Debian approved = Ya&lt;ref name="dfsg-licenses"&gt;{{Cite web |url=https://www.debian.org/legal/licenses/ |title=License information |date=1997–2017 |publication-date=2017-07-12 |website=The [[Debian Project]] |publisher=[[Software in the Public Interest]] |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720142826/https://www.debian.org/legal/licenses/ |dead-url=no |archive-date=2017-07-20 |quote=...&amp;nbsp;This page presents the opinion of some debian-legal contributors on how certain licenses follow the Debian Free Software Guidelines (DFSG).&amp;nbsp;...&amp;nbsp;Licenses currently found in Debian main include:{{Bulleted list|...|Expat/MIT-style licenses|...}}}}&lt;/ref&gt;
+|Free Software  = Ya&lt;ref name="gnu-license-list-expat"&gt;{{Cite web |url=https://www.gnu.org/licenses/license-list.en.html |title=Various Licenses and Comments about Them |date=2014–2017 |publication-date=2017-04-04 |website=The [[GNU Project]] |publisher=[[Free Software Foundation]] |at=Expat License |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720140022/https://www.gnu.org/licenses/license-list.en.html |dead-url=no |archive-date=2017-07-20 |quote=...&amp;nbsp;This is a lax, permissive non-copyleft free software license, compatible with the GNU GPL. It is sometimes ambiguously referred to as the MIT License.&amp;nbsp;...}}&lt;/ref&gt;&lt;ref name="gnu-license-list-x11"&gt;{{Cite web |url=https://www.gnu.org/licenses/license-list.en.html |title=Various Licenses and Comments about Them |date=2014–2017 |publication-date=2017-04-04 |website=The [[GNU Project]] |publisher=[[Free Software Foundation]] |at=X11 License |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720140022/https://www.gnu.org/licenses/license-list.en.html |dead-url=no |archive-date=2017-07-20 |quote=...&amp;nbsp;This is a lax permissive non-copyleft free software license, compatible with the GNU GPL.&amp;nbsp;...&amp;nbsp;This license is sometimes called the MIT license, but that term is misleading, since MIT has used many licenses for software.&amp;nbsp;...}}&lt;/ref&gt;
+|OSI approved   = Ya&lt;ref name="osi-licenses"&gt;{{Cite web |url=https://opensource.org/licenses/alphabetical |title=Licenses by Name |date=n.d. |website=[[Open Source Initiative]] |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170720141629/https://opensource.org/licenses/alphabetical |dead-url=no |archive-date=2017-07-20 |quote=...&amp;nbsp;The following licenses have been approved by the OSI.&amp;nbsp;...{{Bulleted list|...|MIT License (MIT)|...}}}}&lt;/ref&gt;
+|GPL compatible = Ya&lt;ref name="gnu-license-list-expat"/&gt;&lt;ref name="gnu-license-list-x11"/&gt;
+|copyleft       = Tidak&lt;ref name="gnu-license-list-expat"/&gt;&lt;ref name="gnu-license-list-x11"/&gt;
+|linking        = Ya
+}}
+
+'''Lisensi MIT''' adalah lisensi perangkat lunak bebas permisif yang berasal dari [[Institut Teknologi Massachusetts|Massachusetts Institute of Technology]] (MIT).&lt;ref&gt;Lawrence Rosen, OPEN SOURCE LICENSING, p.85 (Prentice Hall PTR, 1st ed. 2004)&lt;/ref&gt; Sebagai lisensi permisif, Lisensi MIT memberikan batasan yang sangat longgar tentang penggunaan kembali dan memiliki kompatibilitas lisensi yang sangat baik.&lt;ref name="opensoucecomp"&gt;{{Cite web|url=http://opensource.com/business/14/1/what-license-should-i-use-open-source-project|title=Should I use a permissive license? Copyleft? Or something in the middle?|last=Hanwell|first=Marcus D.|date=2014-01-28|publisher=opensource.com|access-date=2015-05-30|quote=Permissive licensing simplifies things One reason the business world, and more and more developers [...], favor permissive licenses is in the simplicity of reuse. The license usually only pertains to the source code that is licensed and makes no attempt to infer any conditions upon any other component, and because of this there is no need to define what constitutes a derived work. I have also never seen a license compatibility chart for permissive licenses; it seems that they are all compatible.}}&lt;/ref&gt;&lt;ref name="comaptible"&gt;{{Cite web|url=https://joinup.ec.europa.eu/software/page/licence_compatibility_and_interoperability|title=Licence Compatibility and Interoperability|website=Open-Source Software - Develop, share, and reuse open source software for public administrations|publisher=joinup.ec.europa.eu|access-date=2015-05-30|quote=The licences for distributing free or open source software (FOSS) are divided in two families: permissive and copyleft. Permissive licences (BSD, MIT, X11, Apache, Zope) are generally compatible and interoperable with most other licences, tolerating to merge, combine or improve the covered code and to re-distribute it under many licences (including non-free or 'proprietary').|archive-date=2015-06-17|archive-url=https://web.archive.org/web/20150617130550/https://joinup.ec.europa.eu/software/page/licence_compatibility_and_interoperability|dead-url=yes}}&lt;/ref&gt; Lisensi MIT mengizinkan penggunaan kembali perangkat lunak dengan lisensi MIT menjadi [[perangkat lunak berpemilik]] asalkan menyediakan salinan semua persyaratan dan pemberitahuan hak cipta dari Lisensi MIT. Lisensi MIT juga kompatibel dengan banyak [[Copyleft|lisensi copyleft]], misalnya [[Lisensi Publik Umum GNU]] (GPL); Perangkat lunak berlisensi MIT dapat diintegrasikan ke dalam perangkat lunak [[Lisensi Publik Umum GNU|GPL]], tetapi tidak sebaliknya.&lt;ref&gt;{{Cite web|url=https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses|title=Various Licenses and Comments about Them|publisher=Free Software Foundation|access-date=17 July 2013}}&lt;/ref&gt;
+
+== Ketentuan lisensi ==
+Bentuk umum Lisensi MIT (dari situs web OSI, yang merupakan versi yang sama dengan "Lisensi Expat") didefinisikan sebagai berikut:&lt;pre&gt;Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+&lt;/pre&gt;
+
+== Referensi ==
+{{Reflist|30em}}
+
+{{FOSS}}
+
+[[Kategori:Lisensi sumber terbuka]]
+[[Kategori:Lisensi perangkat lunak bebas]]</text>
+      <sha1>8uxpkutgusdwj7nymkrw49qo9hl8nou</sha1>
+    </revision>
+  </page>
+</mediawiki>

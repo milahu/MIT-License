@@ -1,0 +1,94 @@
+{{Infobox software license
+| name = MIT License
+| image=[[Tập tin:MIT logo.svg|200px|MIT logo]]
+| author = <!-- An author is always a person. Something more clever than "Massachusetts Institute of Technology", please! -->
+| version =
+| copyright = [[Viện Công nghệ Massachusetts]](MIT)
+| OSI approved = Có<ref name="osi-licenses">{{chú thích web |url=https://opensource.org/licenses/alphabetical |title=Licenses by Name |date=n.d. |website=[[Open Source Initiative]] |access-date =ngày 20 tháng 7 năm 2017 |archive-url=https://web.archive.org/web/20170720141629/https://opensource.org/licenses/alphabetical |url-status=live |archive-date=ngày 20 tháng 7 năm 2017 |quote=...&nbsp;The following licenses have been approved by the OSI.&nbsp;...{{Bulleted list|...|MIT License (MIT)|...}}}}</ref>
+| Debian approved = Có<ref name="dfsg-licenses">{{chú thích web |url=https://www.debian.org/legal/licenses/ |title=License information |date=1997–2017 |publication-date=ngày 12 tháng 7 năm 2017 |website=The [[Debian Project]] |publisher=[[Software in the Public Interest]] |access-date =ngày 20 tháng 7 năm 2017 |archive-url=https://web.archive.org/web/20170720142826/https://www.debian.org/legal/licenses/ |url-status=live |archive-date=ngày 20 tháng 7 năm 2017 |quote=...&nbsp;This page presents the opinion of some debian-legal contributors on how certain licenses follow the Debian Free Software Guidelines (DFSG).&nbsp;...&nbsp;Licenses currently found in Debian main include:{{Bulleted list|...|Expat/MIT-style licenses|...}}}}</ref>
+| Free Software = Có<ref name="gnu-license-list-expat">{{chú thích web |url=https://www.gnu.org/licenses/license-list.en.html |title=Various Licenses and Comments about Them |date=2014–2017 |publication-date=ngày 4 tháng 4 năm 2017 |website=The [[GNU Project]] |publisher=[[Free Software Foundation]] |at=Expat License |access-date =ngày 20 tháng 7 năm 2017 |archive-url=https://web.archive.org/web/20170720140022/https://www.gnu.org/licenses/license-list.en.html |url-status=live |archive-date=ngày 20 tháng 7 năm 2017 |quote=...&nbsp;This is a lax, permissive non-copyleft free software license, compatible with the GNU GPL. It is sometimes ambiguously referred to as the MIT License.&nbsp;...}}</ref><ref name="gnu-license-list-x11">{{chú thích web |url=https://www.gnu.org/licenses/license-list.en.html |title=Various Licenses and Comments about Them |date=2014–2017 |publication-date=ngày 4 tháng 4 năm 2017 |website=The [[GNU Project]] |publisher=[[Free Software Foundation]] |at=X11 License |access-date =ngày 20 tháng 7 năm 2017 |archive-url=https://web.archive.org/web/20170720140022/https://www.gnu.org/licenses/license-list.en.html |url-status=live |archive-date=ngày 20 tháng 7 năm 2017 |quote=...&nbsp;This is a lax permissive non-copyleft free software license, compatible with the GNU GPL.&nbsp;...&nbsp;This license is sometimes called the MIT license, but that term is misleading, since MIT has used many licenses for software.&nbsp;...}}</ref>
+| GPL compatible = Có<ref name="gnu-license-list-expat"/><ref name="gnu-license-list-x11"/>
+| copyleft = Không<ref name="gnu-license-list-expat"/><ref name="gnu-license-list-x11"/>
+| copyfree = Có<ref>Certified [http://copyfree.org/licenses Copyfree Licenses]</ref>
+| linking = Có
+}}
+'''Giấy phép MIT''' là một loại giấy phép sử dụng cho các [[Phần mềm mã nguồn mở tự do|phần mềm mã nguồn mở]] được phát triển dựa trên một loại giấy phép có nguồn gốc tại [[Viện Công nghệ Massachusetts]] ([[Học viện Công nghệ Massachusetts|MIT]])<ref>Lawrence Rosen, OPEN SOURCE LICENSING, p.85 (Prentice Hall PTR, 1st ed. 2004)</ref>. Là một giấy phép cấp phép, nó có rất ít các hạn chế sử dụng lại và do đó, có một khả năng tương thích giấy phép tuyệt vời.<ref name="opensoucecomp">{{chú thích web|url=http://opensource.com/business/14/1/what-license-should-i-use-open-source-project|quote=Permissive licensing simplifies things One reason the business world, and more and more developers [...], favor permissive licenses is in the simplicity of reuse. The license usually only pertains to the source code that is licensed and makes no attempt to infer any conditions upon any other component, and because of this there is no need to define what constitutes a derived work. I have also never seen a license compatibility chart for permissive licenses; it seems that they are all compatible.|title=Should I use a permissive license? Copyleft? Or something in the middle?|date=ngày 28 tháng 1 năm 2014|access-date =ngày 30 tháng 5 năm 2015|first=Marcus D.|last=Hanwell|publisher=opensource.com}}</ref><ref name="comaptible">{{chú thích web|url=https://joinup.ec.europa.eu/software/page/licence_compatibility_and_interoperability|work=Open-Source Software - Develop, share, and reuse open source software for public administrations|title=Licence Compatibility and Interoperability|publisher=joinup.ec.europa.eu|quote=The licences for distributing free or open source software (FOSS) are divided in two families: permissive and copyleft. Permissive licences (BSD, MIT, X11, Apache, Zope) are generally compatible and interoperable with most other licences, tolerating to merge, combine or improve the covered code and to re-distribute it under many licences (including non-free or 'proprietary').|access-date =ngày 30 tháng 5 năm 2015|url-status=dead|archiveurl=https://web.archive.org/web/20150617130550/https://joinup.ec.europa.eu/software/page/licence_compatibility_and_interoperability|archive-date=ngày 17 tháng 6 năm 2015|df=}}</ref> Các rủi ro cấp phép của MIT trong phần mềm sở hữu độc quyền được cung cấp bởi tất cả các bản sao của phần mềm được cấp phép bao gồm một bản sao các điều khoản của Giấy phép MIT và các điểm chú ý về bản quyền. Giấy phép MIT cũng tương thích với nhiều giấy phép [[copyleft]], ví dụ như [[GNU General Public License]] (GPL). Phần mềm được cấp phép MIT có thể được tích hợp vào phần mềm GPL, nhưng không phải là cách khác.<ref>{{chú thích web|url=https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses|title=Various Licenses and Comments about Them|access-date =ngày 17 tháng 7 năm 2013|publisher=Free Software Foundation}}</ref>
+
+{{As of|2015}}, nó là [[giấy phép phần mềm]] phổ biến nhất trên [[GitHub]], trước bất kỳ biến thể [[Giấy phép Công cộng GNU|GPL]] nào và các giấy phép phần mềm tự do nguồn mở (FOSS) khác.<ref name="github20153">{{chú thích web|url=https://github.com/blog/1964-license-usage-on-github-com|quote=1 MIT 44.69%, 2 Other 15.68%|title=Open source license usage on GitHub.com|date=ngày 9 tháng 3 năm 2015|first=Ben|last=Balter|access-date =ngày 21 tháng 11 năm 2015|publisher=[[github.com]]}}</ref> Các dự án đáng chú ý sử dụng một trong các phiên bản của Giấy phép MIT bao gồm [[Ruby on Rails]], [[Node.js]], [[jQuery]] và [[Hệ thống X Window]].
+
+Giấy phép [[Học viện Công nghệ Massachusetts|MIT]] còn có tên gọi khác là giấy phép [[X11]]. Một số phần mềm sử dụng cả hai loại giấy phép như thư viện [[jQuery]] được cấp giấy phép theo cả MIT và [[Giấy phép Công cộng GNU]].
+
+== Lịch sử ==
+
+== Điều khoản cấp phép ==
+Một hình thức phổ biến của Giấy phép MIT là này (được lấy từ trang web của Sáng kiến nguồn mở, điều này giống với ''"[[Giấy phép Expat]]"'', và khác với giấy phép được sử dụng trong mã nguồn [[Hệ thống X Window|X]]):<ref name="OSI-MIT2">{{chú thích web|url=http://opensource.org/licenses/MIT|title=Open Source Initiative OSI – The MIT License:Licensing|publisher=Open Source Initiative|access-date =ngày 5 tháng 12 năm 2010}}</ref>
+ Copyright (c) <year> <copyright holders>
+ 
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+ 
+ The above copyright notice and this permission notice shall be included in all
+ copies or substantial portions of the Software.
+ 
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE.
+Một dạng giấy phép trung gian được [[X Consortium]] sử dụng cho [[Hệ thống X Window|X11]] sử dụng từ ngữ sau đây:<ref>{{citation|url=http://www.xfree86.org/4.0/LICENSE3.html#6|section=3.3. X Consortium|title=3. X/MIT Licenses|publisher=The XFree86 Project|date=March 2004}}</ref>
+ Copyright (C) <date> X Consortium
+ 
+ Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+ 
+ The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ 
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE X CONSORTIUM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ 
+ Except as contained in this notice, the name of the X Consortium shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from the X Consortium.
+ 
+ X Window System is a trademark of X Consortium, Inc.
+
+== Biến thể ==
+Bởi vì MIT đã sử dụng nhiều giấy phép cho phần mềm, [[Quỹ Phần mềm Tự do|Free Software Foundation]] đánh giá "Giấy phép MIT" không rõ ràng. "Giấy phép MIT" có thể tham khảo '''Giấy phép Expat''' (được sử dụng cho thư viện phân tích cú pháp [[XML]] Expat) hoặc '''Giấy phép X11''' (còn được gọi là "'''Giấy phép MIT / X Consortium'''"; được dùng cho [[X Window|X Window System]] bởi [[MIT X Consortium]]).<ref name="GUN-X11License">{{chú thích web|url=https://www.gnu.org/licenses/license-list.html#X11License|title=Various Licenses and Comments about Them#X11 License|access-date =ngày 5 tháng 12 năm 2010|publisher=Free Software Foundation}}</ref> "Giấy phép MIT" được xuất bản bởi [[Open system interconnection|Sáng kiến nguồn mở]] <ref name="OSI-MIT2"/> như là "Giấy phép Expat".
+
+Giấy phép X11<ref name="GUN-X11License" /> và " Giấy phép MIT" được chọn cho [[ncurses]] bởi Free Software Foundation<ref>{{chú thích web|url=http://invisible-island.net/ncurses/ncurses.faq.html#is_it_gpl|title=NCURSES&nbsp;— Frequently Asked Questions (FAQ)|last=Dickey|first=Thomas E.}}</ref> cả hai đều bao gồm mệnh đề sau, không có trong Giấy phép Expat:<ref name="GUN-Expat">{{chú thích web|url=https://www.gnu.org/licenses/license-list.html#Expat|title=Various Licenses and Comments about Them#Expat License|access-date =ngày 5 tháng 12 năm 2010|publisher=Free Software Foundation}}</ref><blockquote>Trừ khi có trong thông báo này, (các) tên của chủ sở hữu bản quyền ở trên sẽ không được sử dụng trong quảng cáo hoặc cách khác để quảng bá việc bán, sử dụng hoặc các giao dịch khác trong Phần mềm này mà không có sự cho phép trước bằng văn bản.</blockquote>
+
+== So sánh với các giấy phép khác ==
+[[Giấy phép BSD#Giấy phép BSD 4-điều khoản ("Giấy phép BSD" gốc)|Giấy phép BSD gốc]] cũng bao gồm một điều khoản yêu cầu tất cả quảng cáo của phần mềm để hiển thị thông báo ghi nhận tác giả của nó. "Điều khoản quảng cáo" này (kể từ khi bị từ chối bởi UC Berkeley<ref name="update">{{chú thích web|url=ftp://ftp.cs.berkeley.edu/pub/4bsd/README.Impt.License.Change|title=To All Licensees, Distributors of Any Version of BSD|publisher=University of California, Berkeley|date=ngày 22 tháng 7 năm 1999|access-date =ngày 15 tháng 11 năm 2006}}</ref>) hiện diện trong Giấy phép MIT được sửa đổi được sử dụng bởi [[XFree86]].
+
+[[University of Illinois/NCSA Open Source License]] kết hợp văn bản từ cả giấy phép MIT và BSD; giấy phép cấp và từ chối trách nhiệm được lấy từ Giấy phép MIT.
+
+[[Giấy phép ISC]] có những điểm tương đồng với cả giấy phép MIT và các [[Giấy phép BSD#Giấy phép 2 điều khoản ("Giấy phép BSD đơn giản hóa" hoặc "Giấy phép FreeBSD")|giấy phép BSD đơn giản hóa]], sự khác biệt lớn nhất là ngôn ngữ được coi là không cần thiết bởi [[Công ước Bern]]e được bỏ qua.<ref>{{chú thích web|url=http://www.openbsd.org/policy.html|title=Copyright Policy|work=[[OpenBSD]]|access-date =ngày 6 tháng 6 năm 2016|quote=The ISC copyright is functionally equivalent to a two-term BSD copyright with language removed that is made unnecessary by the Berne convention.}}</ref><ref name="theo2008">{{cite mailing list|url=https://marc.info/?l=openbsd-misc&m=120618313520730&w=2|title=Re: BSD Documentation License?|mailing-list=openbsd-misc|last=de Raadt|first=Theo|authorlink=Theo de Raadt|date=ngày 21 tháng 3 năm 2008}}</ref>
+
+== Quan hệ với Bằng sáng chế ==
+Giống như giấy phép BSD, giấy phép MIT không bao gồm giấy phép bằng sáng chế. Cả hai giấy phép BSD và MIT đều được soạn thảo trước khi khả năng cấp bằng sáng chế của phần mềm thường được công nhận theo luật pháp Mỹ.<ref>Stern and Allen, Open Source Licensing, p. 495 in Understanding the Intellectual Property License 2013 (Practicing Law Institute 2013)</ref> Giấy phép cho phép tương tự, bao gồm giấy phép bằng sáng chế của người đóng góp rõ ràng, là [[Giấy phép Apache]] phiên bản 2.0+. Giấy phép MIT chứa các điều khoản được sử dụng trong việc xác định quyền của chủ sở hữu bằng sáng chế ở 35 phần Mã Hoa Kỳ 154, cụ thể là "sử dụng" và "bán". Điều này đã được hiểu bởi một số nhà bình luận như là một giấy phép ngầm để sử dụng bất kỳ bằng sáng chế cơ bản nào.<ref>Christian H. Nadan, Closing the Loophole; Open Source Licensing and the Implied Patent License, THE COMPUTER AND INTERNET LAWYER, Vol. 26, No. 8 (Aug. 2009) who argues that "By using patent terms like "deal in", "use", and "sell", the MIT license grant is more likely to be deemed to include express patent rights than the BSD license."</ref>
+
+== Tiếp nhận ==
+{{As of|2015}}, Theo Black Duck Software<ref name="blackduck2015">{{chú thích web|url=http://www.blackducksoftware.com/resources/data/top-20-licenses|quote=1. MIT license 24%, 2. GNU General Public License (GPL) 2.0 23%|title=Top 20 licenses|publisher=Black Duck Software|access-date =ngày 19 tháng 11 năm 2015|date=ngày 19 tháng 11 năm 2015|archive-date = ngày 19 tháng 7 năm 2016 |archive-url=https://web.archive.org/web/20160719043600/https://www.blackducksoftware.com/top-open-source-licenses}}</ref>{{Better source|reason=Source is very informal and in contradiction with Das 2016; no methodology or explanation is given as to how `or later` licenses are being considered.|date=November 2016}} và blog năm 2015 từ [[GitHub]]<ref name="github20153"/>, giấy phép MIT là giấy phép phần mềm tự do phổ biến nhất, với [[GNU GPLv2]] đứng thứ hai trong mẫu kho lưu trữ của họ. Vào tháng 6 năm 2016, một phân tích về các gói của [[Dự án Fedora]] cho thấy MIT là giấy phép được sử dụng nhiều nhất..<ref name="Das2016">{{chú thích web|url=https://anweshadas.in/software-licenses-in-fedora-ecosystem/|title=Software Licenses in Fedora Ecosystem|author=Anwesha Das|date=ngày 22 tháng 6 năm 2016|publisher=anweshadas.in|access-date =ngày 27 tháng 6 năm 2016|quote=In the above bar-chart I have counted GPL and its different versions as one family, and I did the same with LGPL too. From this diagram it is very much clear that the MIT License is the most used license, with a total number of use case of 2706.Therefore comes GPL(i.e GNU General Public License) and its different versions, BSD, LGPL(i.e GNU Lesser General Public License) and its different versions, ASL (i.e Apache Software License) family, MPL (i.e Mozilla Public License). Apart from these licenses there are projects who has submitted themselves in to Public Domain and that number is 137.}}{{retracted|https://anweshadas.in/software-licenses-in-fedora-ecosystem/|intentional=no}}</ref>{{Failed verification|date=November 2016|reason=Source was edited to reflect a mistake. GPLv2+ alone is the most prevalent single license in Fedora, see reference again.}}
+
+Các dự án đáng chú ý sử dụng một trong các phiên bản của Giấy phép MIT bao gồm Expat, một thư viện phân tích cú pháp XML, [[Ruby on Rails]], một framework [[ứng dụng web]]; [[Node.js]], môi trường chạy ứng dụng web; [[jQuery]], một thư viện JavaScript; Ngôn ngữ lập trình [[Lua (programming language)|Lua]]; và [[X Window|X Window System]], với giấy phép được viết ban đầu. [[Framework]].NET Core của [[Microsoft]] cũng được xuất bản theo [https://github.com/dotnet/core/blob/master/LICENSE.TXT Giấy phép MIT] và kho lưu trữ mã nguồn trên GitHub bao gồm giấy phép cho bất kỳ ai truy cập tài nguyên.
+
+== Xem thêm ==
+
+* [[Giấy phép Công cộng GNU|Giấy phép GPL]]
+* [[Giấy phép Apache]]
+* [[Giấy phép BSD]]
+
+==Tham khảo==
+{{tham khảo}}
+== Liên kết ngoài ==
+* [https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT MIT License variants]
+* [http://www.opensource.org/licenses/MIT The MIT License template] (Open Source Initiative official site)
+* [http://www.jclark.com/xml/copying.txt Expat License]
+* [http://www.xfree86.org/3.3.6/COPYRIGHT2.html#3 X11 License]
+{{rất sơ khai}}
+
+[[Thể loại:Giấy phép nội dung tự do]]
+[[Thể loại:Hệ thống X Window]]
+[[Thể loại:Viện Công nghệ Massachusetts]]

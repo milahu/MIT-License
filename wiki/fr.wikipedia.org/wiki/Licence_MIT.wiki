@@ -1,0 +1,62 @@
+{{Ébauche|informatique}}
+{{Infobox Licence de logiciel
+   | dernière version          = [http://www.opensource.org/licenses/mit-license.php opensource.org]
+   | approuvée par l'OSI       = Oui
+   | compatible GPL            = Oui
+   | identifiant SPDX            = MIT
+}}
+[[Fichier:MIT logo.svg|vignette]]
+La '''licence MIT''' est une [[licence de logiciel]] pour [[logiciel libre|logiciels libres]]<ref>[http://www.gnu.org/licenses/license-list.fr.html#GPLCompatibleLicenses Liste des licences avec commentaires - Les licences de logiciels libres compatibles avec la GPL], projet GNU.</ref> et ''[[open source]]''<ref name="OSI-MIT">{{lien web|langue=en|url=http://www.opensource.org/licenses/mit-license.php|titre=''Open Source Initiative OSI - The MIT License:Licensing''|éditeur=Open Source Initiative|consulté le=5 décembre 2010}}.</ref>, provenant de l'[[Massachusetts Institute of Technology|Institut de technologie du Massachusetts]] (MIT) à la fin des [[années 1980]]. Cette [[licence de logiciel permissive]] implique très peu de limitations sur la réutilisation du code et elle est ainsi compatible avec de nombreuses autres licences.
+
+Le terme « licence MIT » est ambigu, puisque le MIT a utilisé des licences différentes, et le texte exact peut varier selon les publications ([[Free Software Foundation]], [[Open Source Initiative]]). La licence MIT est parfois synonyme de « '''''X11 License''''' » ou « '''''MIT/X Consortium License''''' », d'après le gestionnaire de fenêtre X11 (ou ''[[X Window System]]''). D'autres fois « licence MIT » fait référence à la « '''licence Expat''' » utilisée pour la bibliothèque XML {{lien|langue=en|trad=Expat (library)|fr=Expat}}.
+
+La licence donne à toute personne recevant le logiciel (et ses fichiers) le droit illimité de l'utiliser, le copier, le modifier, le fusionner, le publier, le distribuer, le vendre et  le « sous-licencier » (l'incorporer dans une autre licence). La seule obligation est d'incorporer la notice de  licence et   de [[copyright]] dans toutes les copies.
+
+Elle est très proche de la [[nouvelle licence BSD]], seule la dernière clause diffère. Elle est compatible avec la ''[[Licence publique générale GNU|GNU General Public License]]''.
+
+== Modèle de la licence X11 ==
+{{ancre|Licence X11}}
+Le modèle de la licence X11 est l'un des modèles de licences du MIT. Son texte<ref>{{en}} [[commons:Template:X11|Modèle de la licence X11]].</ref> en anglais se présente ainsi :
+
+----
+{{Citation étrangère bloc|langue=en|Copyright © <date>, <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders ''X'' be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the Software.
+
+Except as contained in this notice, the name of the <copyright holders> shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from the <copyright holders>.}}
+----
+
+== Modèle de la licence Expat ==
+{{ancre|Licence Expat}}
+Le modèle de la licence Expat est l'un des modèles de licences du MIT. On l'appelle parfois de manière ambiguë la licence du MIT<ref>[http://www.gnu.org/licenses/license-list.fr.html#Expat La licence Expat].</ref>, comme la licence X11. L'[[Open Source Initiative]]<ref name="OSI-MIT"/> et le project SPDX ([http://spdx.org/ Software Package Data Exchange])<ref name="SPDX-MIT">{{lien web|langue=en|url=http://spdx.org/licenses/MIT|titre=''Software Package Data Exchange - The MIT License:Licensing''|éditeur=Software Package Data Exchange|consulté le={{1er}} mai 2013}}.</ref> appellent cette licence « MIT ». Son modèle<ref>{{en}} [[commons:Template:Expat|Modèle de la licence Expat]].</ref> en anglais se présente ainsi :
+
+----
+{{Citation étrangère bloc|langue=en|Copyright © <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the Software.}}
+----
+Une traduction possible est disponible ici [https://www.debian.org/legal/licenses/mit Licence (Expat)]
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+=== Article connexe ===
+* [[Licence libre]]
+
+=== Liens externes ===
+{{liens}}
+* {{en}} [https://opensource.org/licenses/MIT Open Source Initiative official site]
+
+{{Portail|informatique|logiciels libres|droit}}
+
+[[Catégorie:Licence libre de logiciel|MIT]]
+[[Catégorie:Massachusetts Institute of Technology]]

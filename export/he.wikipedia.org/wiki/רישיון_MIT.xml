@@ -1,0 +1,89 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="he">
+  <siteinfo>
+    <sitename>ויקיפדיה</sitename>
+    <dbname>hewiki</dbname>
+    <base>https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">מדיה</namespace>
+      <namespace key="-1" case="first-letter">מיוחד</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">שיחה</namespace>
+      <namespace key="2" case="first-letter">משתמש</namespace>
+      <namespace key="3" case="first-letter">שיחת משתמש</namespace>
+      <namespace key="4" case="first-letter">ויקיפדיה</namespace>
+      <namespace key="5" case="first-letter">שיחת ויקיפדיה</namespace>
+      <namespace key="6" case="first-letter">קובץ</namespace>
+      <namespace key="7" case="first-letter">שיחת קובץ</namespace>
+      <namespace key="8" case="first-letter">מדיה ויקי</namespace>
+      <namespace key="9" case="first-letter">שיחת מדיה ויקי</namespace>
+      <namespace key="10" case="first-letter">תבנית</namespace>
+      <namespace key="11" case="first-letter">שיחת תבנית</namespace>
+      <namespace key="12" case="first-letter">עזרה</namespace>
+      <namespace key="13" case="first-letter">שיחת עזרה</namespace>
+      <namespace key="14" case="first-letter">קטגוריה</namespace>
+      <namespace key="15" case="first-letter">שיחת קטגוריה</namespace>
+      <namespace key="100" case="first-letter">פורטל</namespace>
+      <namespace key="101" case="first-letter">שיחת פורטל</namespace>
+      <namespace key="108" case="first-letter">ספר</namespace>
+      <namespace key="109" case="first-letter">שיחת ספר</namespace>
+      <namespace key="118" case="first-letter">טיוטה</namespace>
+      <namespace key="119" case="first-letter">שיחת טיוטה</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">יחידה</namespace>
+      <namespace key="829" case="first-letter">שיחת יחידה</namespace>
+      <namespace key="2300" case="case-sensitive">גאדג'ט</namespace>
+      <namespace key="2301" case="case-sensitive">שיחת גאדג'ט</namespace>
+      <namespace key="2302" case="case-sensitive">הגדרת גאדג'ט</namespace>
+      <namespace key="2303" case="case-sensitive">שיחת הגדרת גאדג'ט</namespace>
+      <namespace key="2600" case="first-letter">נושא</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>רישיון MIT</title>
+    <ns>0</ns>
+    <id>1232592</id>
+    <revision>
+      <id>34900437</id>
+      <parentid>34227162</parentid>
+      <timestamp>2022-10-19T03:32:56Z</timestamp>
+      <contributor>
+        <username>KotzBot</username>
+        <id>243969</id>
+      </contributor>
+      <minor/>
+      <comment>הוספת שורת קישורים חיצוניים ותחתיה {{תב|ויקישיתוף בשורה}} במידה וחסר ([[מי:קישור קבוע/34900407|תג]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2841" xml:space="preserve">'''רישיון MIT''' הוא [[רישיון תוכנה|רישיון]] ל[[תוכנה חופשית]], שמקורו ב[[המכון הטכנולוגי של מסצ'וסטס|מכון הטכנולוגי של מסצ'וסטס]] ('''MIT'''). הוא רישיון חופשי מתירני ומאפשר שימוש חוזר גם ב[[תוכנה קניינית]], בתנאי שעותק של הרישיון יצורף לעותקי התוכנה. תוכנה קניינית תישאר קניינית למרות שיש בה רכיבים ברישיון MIT. רישיון זה הוא גם 'תואם GPL', כלומר הרישיון החופשי [[הרישיון הציבורי הכללי של גנו| GPL]] מאפשר שילוב רכיב ברישיון MIT בתוכנה ברישיון GPL והפצה מחדש תחת רישיון GPL.
+
+חבילות תוכנה בולטות המשתמשות ברישיון MIT באחת מגרסאותיו הם: Expat, [[מונו (תוכנה)|מונו]], [[Ruby on Rails]], [[Node.js]], [[לואה (שפת תכנות)|לואה]] (מגרסה 5.0 ומעלה), Wayland{{כ}}, [[jQuery]], [[FreeRTOS]] ומערכת החלונות [[X11]].
+
+== הרישיון ==
+צורה נפוצה של רישיון MIT (מהאתר הרשמי של [[מיזם התוכנה החופשית]], שהוא גרסה בשם "רישיון Expat"), מוגדרת באופן הבא:
+
+&lt;blockquote style="border: 1px solid #aaa; direction: ltr; padding: 10px 15px;"&gt;
+Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+&lt;/blockquote&gt;
+
+== ראו גם==
+*[[הרישיון הציבורי הכללי של גנו]]
+
+==קישורים חיצוניים==
+{{ויקישיתוף בשורה}}
+
+[[קטגוריה:תוכנה חופשית]]
+[[קטגוריה:המכון הטכנולוגי של מסצ'וסטס]]
+[[קטגוריה:רישיונות תוכנה מתירניים]]</text>
+      <sha1>dkso01rt23mu8yqpoak12447d19bb3l</sha1>
+    </revision>
+  </page>
+</mediawiki>

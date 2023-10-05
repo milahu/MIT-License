@@ -1,0 +1,16 @@
+'''Licenca MIT''' je prosta in [[Odprta koda|odprtokodna]] licenca za programsko opremo, ki izvira s [[Tehnološki inštitut Massachusettsa|Tehnološkega inštituta Massachusettsa]] (MIT).<ref>Lawrence Rosen, OPEN SOURCE LICENSING, p.85 (Prentice Hall PTR, 1st ed. 2004)</ref> Je permisivna licenca, ker postavlja zelo malo omejitev za ponovno uporabo programske opreme v izpeljanih rešitvah, zaradi česar je široko [[Kompatibilnost licenc programske opreme|kompatibilna]] z drugimi licencami.
+
+Licenca dovoljuje ponovno uporabo licencirane programske opreme v komercialni programski opremi, če vse kopije programa pod to licenco vsebujejo tudi kopijo licenčnih pogojev in obvestilo o avtorskih pravicah. Licenca MIT je kompatibilna tudi z [[Licenca GPL|licenco GPL]], vendar je dovoljeno integrirati programsko opremo pod licenco MIT v programsko opremo pod licenco GPL, ne pa tudi obratno. 
+
+V letu 2015 je bila to po poročanju [[Black Duck Software]] in [[GitHub]]a najbolj popularna licenca na področju [[Odprtokodna programska oprema|odprtokodne programske opreme]].
+
+== Sklici in opombe ==
+{{sklici}}
+
+== Zunanje povezave ==
+* [https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT MIT License variants]
+* [http://www.opensource.org/licenses/MIT The MIT License template] (uradna stran organizacije Open Source Initiative)
+* [http://www.jclark.com/xml/copying.txt Expat License]
+* [http://www.xfree86.org/3.3.6/COPYRIGHT2.html#3 X11 License]
+
+[[Kategorija:Tehnološki inštitut Massachusettsa]]

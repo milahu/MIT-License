@@ -1,0 +1,162 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="it">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>itwiki</dbname>
+    <base>https://it.wikipedia.org/wiki/Pagina_principale</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Speciale</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Discussione</namespace>
+      <namespace key="2" case="first-letter">Utente</namespace>
+      <namespace key="3" case="first-letter">Discussioni utente</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Discussioni Wikipedia</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">Discussioni file</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Discussioni MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Discussioni template</namespace>
+      <namespace key="12" case="first-letter">Aiuto</namespace>
+      <namespace key="13" case="first-letter">Discussioni aiuto</namespace>
+      <namespace key="14" case="first-letter">Categoria</namespace>
+      <namespace key="15" case="first-letter">Discussioni categoria</namespace>
+      <namespace key="100" case="first-letter">Portale</namespace>
+      <namespace key="101" case="first-letter">Discussioni portale</namespace>
+      <namespace key="102" case="first-letter">Progetto</namespace>
+      <namespace key="103" case="first-letter">Discussioni progetto</namespace>
+      <namespace key="118" case="first-letter">Bozza</namespace>
+      <namespace key="119" case="first-letter">Discussioni bozza</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Modulo</namespace>
+      <namespace key="829" case="first-letter">Discussioni modulo</namespace>
+      <namespace key="2300" case="case-sensitive">Accessorio</namespace>
+      <namespace key="2301" case="case-sensitive">Discussioni accessorio</namespace>
+      <namespace key="2302" case="case-sensitive">Definizione accessorio</namespace>
+      <namespace key="2303" case="case-sensitive">Discussioni definizione accessorio</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Licenza MIT</title>
+    <ns>0</ns>
+    <id>881876</id>
+    <revision>
+      <id>131665902</id>
+      <parentid>130767663</parentid>
+      <timestamp>2023-01-21T20:17:10Z</timestamp>
+      <contributor>
+        <username>Botcrux</username>
+        <id>767487</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: Aggiungo template {{interprogetto}} ([[User:Botcrux/Interprogetto|FAQ]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8132" xml:space="preserve">{{Licenza software
+| nome = MIT License/X11 license
+| autore = [[Massachusetts Institute of Technology]]
+| versione = 
+| copyright = Massachusetts Institute of Technology
+| data = 1988
+| approvata OSI = Si
+| approvata Debian = Si
+| software libero = Si
+| compatibile GPL = Si
+| copyleft = No
+| linking = Si
+}}
+La '''Licenza MIT''' ('''MIT License''' in inglese) è una licenza di [[software libero]] creata dal [[Massachusetts Institute of Technology]] (MIT).
+
+== Caratteristiche ==
+È una licenza permissiva, cioè permette il riutilizzo nel [[software proprietario]] sotto la condizione che la licenza sia distribuita con tale software. È anche una licenza [[GNU General Public License|GPL]]-compatibile, cioè la [[GNU General Public License|GPL]] permette di combinare e ridistribuire tale software con altro che usa la licenza MIT.
+
+Secondo la ''[[Free Software Foundation]]'', sarebbe più accurato chiamare la licenza MIT col nome ''Expat'', dato che il MIT ha utilizzato molte licenze per il software e poiché la bozza è stata inizialmente concepita per ''[[X Window System]]''&lt;ref&gt;[https://www.gnu.org/licenses/license-list.en.html#Expat Various Licenses and Comments about Them - GNU Project - Free Software Foundation&lt;!-- Titolo generato automaticamente --&gt;]&lt;/ref&gt;.
+
+== Testo della licenza ==
+Questo è il testo della licenza:
+
+ Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+ 
+ Permission is hereby granted, free of charge, to any person
+ obtaining a copy of this software and associated documentation
+ files (the "Software"), to deal in the Software without
+ restriction, including without limitation the rights to use,
+ copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the
+ Software is furnished to do so, subject to the following
+ conditions:
+ 
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ 
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+ OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+ OTHER DEALINGS IN THE SOFTWARE.
+
+== Versioni modificate della licenza ==
+La licenza può essere modificata adattandosi alle varie esigenze. Per esempio, la [[Free Software Foundation]] ha deciso nel [[1998]] di utilizzare una Licenza MIT modificata per [[ncurses]], aggiungendo questa clausola:&lt;ref&gt;{{Cita web
+   |url=http://invisible-island.net/ncurses/ncurses.faq.html#is_it_gpl
+   |titolo=NCURSES - Frequently Asked Questions (FAQ)
+   |cognome=Dickey
+   |nome=Thomas E.
+}}&lt;/ref&gt;
+
+{{citazione|''Except as contained in this notice, the name(s) of the above copyright holders shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization.''}}
+
+Il XFree86 Project utilizza una Licenza MIT modificata dalla versione [[XFree86]] in avanti. La licenza include una clausola che richiede l'attribuzione nella documentazione software.&lt;ref&gt;{{Cita web|url=http://www.xfree86.org/current/LICENSE4.html#6 |titolo=XFree86 License (version 1.1) |accesso=12 luglio 2007 |editore=XFree86 Project }}&lt;/ref&gt; La [[Free Software Foundation]] sostiene che questa aggiunta è incompatibile con la versione 2 della GPL, ma compatibile con la versione 3.&lt;ref&gt;{{Cita web |url=https://www.fsf.org/licensing/licenses/index_html#XFree861.1License |titolo=Licenses |accesso=12 luglio 2007 |editore=[[Free Software Foundation]] |urlmorto=sì |urlarchivio=https://web.archive.org/web/20081216005913/http://www.fsf.org/licensing/licenses/index_html#XFree861.1License |dataarchivio=16 dicembre 2008 }}&lt;/ref&gt;
+
+{{citazione|''The end-user documentation included with the redistribution, if any, must include the following acknowledgment: "This product includes software developed by The XFree86 Project, Inc &lt;nowiki&gt;(http://www.xfree86.org/)&lt;/nowiki&gt; and its contributors", in the same place and form as other third-party acknowledgments. Alternately, this acknowledgment may appear in the software itself, in the same form and location as other such third-party acknowledgments.''}}
+
+== Raffronto con altre licenze ==
+La Licenza MIT è simile alla [[Licenza BSD]] "modificata" ''3-clause'' (3 clausole), tranne per il fatto che la Licenza BSD contiene una nota che proibisce l'utilizzo del nome del detentore del copyright per la promozione. Questo è talvolta presente in versioni modificate della Licenza MIT, come è stato detto precedentemente.
+
+La licenza BSD originale include anche una clausola dove richiede che in tutta la pubblicità del software ci sia una nota per citare gli autori. Questa ''clausola pubblicitaria'' (dato che è stata bocciata da UC Berkeley&lt;ref name=update&gt;{{Cita web|url=ftp://ftp.cs.berkeley.edu/pub/4bsd/README.Impt.License.Change|titolo=To All Licensees, Distributors of Any Version of BSD|editore=University of California, Berkeley|data=22 luglio 1999|accesso=15 novembre 2006}}&lt;/ref&gt;) è presente soltanto nella Licenza MIT modificata utilizzata per [[XFree86]].
+
+La Licenza MIT dichiara in modo più esplicito i diritti dati all'utente finale, incluso il diritto di utilizzare, copiare, modificare, incorporare, pubblicare, distribuire, sotto-licenziare, e/o vendere il software.
+
+Una licenza in stile BSD a due clausole, si può trovare in software come il [[WebKit]] dell'[[Apple Inc.]] (sebbene gran parte del WebKit sia sotto [[LGPL]]) è essenzialmente identica alla Licenza MIT, dato che non contiene clausole riguardo alla pubblicità.
+
+Anche simile nei contenuti è la [[Licenza ISC]], che utilizza un linguaggio più semplice.
+
+La [[University of Illinois/NCSA Open Source License]] combina i testi delle Licenze MIT e BSD; il disclaimer della licenza è preso dalla Licenza MIT.
+
+== Software pubblicati ==
+Tra i Software che utilizzano la licenza MIT possiamo trovare [[Expat]], [[PuTTY]], le librerie della [[Mono (progetto)|piattaforma di sviluppo di Mono]], [[Ruby on Rails]], ''[[Twisted (software)|Twisted]]'', [[Lua]] dalla versione 5.0 in avanti e il [[X Window System]], per il quale è stata scritta la licenza.
+
+[[Liquid Feedback]], principale software per attuare una [[Democrazia liquida]], è distribuito proprio con questa licenza.
+
+Altri software hanno una doppia licenza, tra cui la Licenza MIT, come le librerie [[JavaScript]] [[jQuery]], che sono licenziate sia sotto MIT che [[GNU General Public License]]&lt;ref&gt;[http://docs.jquery.com/Licensing License – jQuery Project&lt;!-- Titolo generato automaticamente --&gt;]&lt;/ref&gt; e le librerie [[JavaScript]] [[ExtJS]] che licenziano sotto MIT le librerie base ma richiedono una licenza proprietaria per parti della libreria che vengono usate in applicazioni a sorgente chiuso&lt;ref&gt;{{Cita web |url=http://extjs.com/company/dual.php |titolo=Company Overview {{!}} Sencha&lt;!-- Titolo generato automaticamente --&gt; |accesso=20 luglio 2009 |urlarchivio=https://web.archive.org/web/20090529045544/http://extjs.com/company/dual.php |dataarchivio=29 maggio 2009 |urlmorto=sì }}&lt;/ref&gt;, o ancora come le versioni più vecchie della libreria [[cURL]], che permetteva agli utilizzatori di scegliere tra la [[Mozilla Public License]] o la MIT License.
+
+== Note ==
+&lt;references/&gt;
+
+== Voci correlate ==
+* [[Compatibilità tra licenze]]
+* [[Licenza (informatica)]]
+* [[:Categoria:Software con licenza MIT]]
+
+== Altri progetti ==
+{{interprogetto}}
+
+== Collegamenti esterni ==
+* {{cita web|https://opensource.org/licenses/mit-license.php|Il testo della licenza|lingua=en}}
+* {{cita web|https://www.github.com/steptr/MIT-License/|Una traduzione in italiano del testo inglese della licenza|lingua=it}}
+* {{cita web|https://opensource.org/|Home page della Open Source Initiative|lingua=en}}
+
+{{FOSS}}
+{{Portale|diritto|informatica|Software libero}}
+
+[[Categoria:Licenze non-copyleft di software libero|MIT]]</text>
+      <sha1>2bbvdo65klnux6999swsi6oati7xjmp</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,61 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="nan">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>zh_min_nanwiki</dbname>
+    <base>https://zh-min-nan.wikipedia.org/wiki/Th%C3%A2u-ia%CC%8Dh</base>
+    <generator>MediaWiki 1.41.0-wmf.28</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Mûi-thé</namespace>
+      <namespace key="-1" case="first-letter">Tek-pia̍t</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Thó-lūn</namespace>
+      <namespace key="2" case="first-letter">Iōng-chiá</namespace>
+      <namespace key="3" case="first-letter">Iōng-chiá thó-lūn</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia thó-lūn</namespace>
+      <namespace key="6" case="first-letter">tóng-àn</namespace>
+      <namespace key="7" case="first-letter">tóng-àn thó-lūn</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki thó-lūn</namespace>
+      <namespace key="10" case="first-letter">Pang-bô͘</namespace>
+      <namespace key="11" case="first-letter">Pang-bô͘ thó-lūn</namespace>
+      <namespace key="12" case="first-letter">Pang-chān</namespace>
+      <namespace key="13" case="first-letter">Pang-chān thó-lūn</namespace>
+      <namespace key="14" case="first-letter">Lūi-pia̍t</namespace>
+      <namespace key="15" case="first-letter">Lūi-pia̍t thó-lūn</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">模組</namespace>
+      <namespace key="829" case="first-letter">模組討論</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MIT License</title>
+    <ns>0</ns>
+    <id>721666</id>
+    <revision>
+      <id>1874036</id>
+      <timestamp>2017-11-29T07:44:41Z</timestamp>
+      <contributor>
+        <username>A-lú-mih</username>
+        <id>481</id>
+      </contributor>
+      <comment>'''MIT License''' sī chi̍t khoán [[ún-chún-sèng nńg-thé hí-khó]] (''permissive software licence''), goân chū [[Bí-kok]] ê Massachusetts Ki-su̍t Gián… ê ia̍h í-keng kiàn-li̍p</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="314" xml:space="preserve">'''MIT License''' sī chi̍t khoán [[ún-chún-sèng nńg-thé hí-khó]] (''permissive software licence''), goân chū [[Bí-kok]] ê [[Massachusetts Ki-su̍t Gián-kiú-só͘]] (''Massachusetts Institute of Technology''). Pún hi-khó tùi sú-iōng ê hān-chè chin iú-hān.
+
+{{stub}}
+
+[[Category:Nńg-thé]]</text>
+      <sha1>olar83u8o0jirge8u3rf4m5x8e6uyd4</sha1>
+    </revision>
+  </page>
+</mediawiki>
