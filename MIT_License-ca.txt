@@ -1,0 +1,21 @@
+Llicencia MIT
+
+Copyright (c) <any> <propietaris del copyright>
+
+Es garanteix el permis, sense cap cost, a qualsevol persona que obtingui una
+copia d'aquest programari i de la documentacio associada (d'ara endavant, el
+"Programari"), per comerciar-hi sense cap restriccio, incloent-hi els drets
+d'usar, copiar, modificar, integrar, publicar, distribuir, subllicenciar i/o
+vendre copies del Programari, i permet a les persones a les quals el
+Programari esta adrecat a fer-ho amb les condicions següents:
+
+La nota de copyright i aquesta informacio sobre els permisos s'ha d'incloure
+en totes les copies o les parts substancials del Programari.
+
+AQUEST PROGRAMARI ES PROPORCIONA "TAL CUAL", SENSE CAP GARANTIA GARANTIES,
+EXPRESSES O IMPLICITES, INCLOSOS LES GARANTIES DE COMERCIABILITAT Idoneitat,
+aptitud per a una finalitat determinada i manca de VIOLACIONS, PERO NO
+LIMITATIVES A ELLES. EN CAP CAS ELS AUTORS O ELS TITULARS DELS DRETS D'AUTOR
+NO SON RESPONSABLES DE CAP RECLAMACIO, DANYS O ALTRES RECLAMACIONS, INCLOS JA
+SIGUI PER CONTRACTE, EXTRAORDI O ALTRE SITUACIONS DERIVADES DE L'US DEL
+PROGRAMARI O ALTRES ACCIONS AMB EL PROGRAMARI.
