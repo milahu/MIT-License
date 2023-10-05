@@ -4,13 +4,13 @@ This readme in other languages:
 
 ---
 
-This repository includes translations of the open source license "MIT License Expat" from [English](MIT_License-en.txt) into the following contributed languages:
+This repository includes translations of the open source license "MIT License Expat" from [English](mit-license/mit-license.en.txt) into the following contributed languages:
 
-- [Catalan](MIT_License-ca.txt)
-- [German](MIT_License-de.txt)
-- [Indonesian](MIT_License-id.txt)
-- [Italian](MIT_License-it.txt)
-- [Russian](MIT_License-ru.txt)
+- [Catalan](mit-license/mit-license.ca.txt)
+- [German](mit-license/mit-license.de.txt)
+- [Indonesian](mit-license/mit-license.id.txt)
+- [Italian](mit-license/mit-license.it.txt)
+- [Russian](mit-license/mit-license.ru.txt)
 
 The English license source file was retrieved from https://en.wikipedia.org/wiki/MIT_License
 
