@@ -16,6 +16,6 @@ The English license source file was retrieved from https://en.wikipedia.org/wiki
 
 See also https://github.com/licenses/license-templates/blob/master/templates/mit.txt
 
-Unless otherwise specified, all files in this repository are available under the [Creative Commons Attribution-ShareAlike License CC-A-SA](http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License); additional terms may apply.
+Unless otherwise specified, all files in this repository are available under the [Creative Commons Attribution-ShareAlike License CC-A-SA](http://creativecommons.org/licenses/by-sa/4.0/); additional terms may apply.
 
 If you have comments and corrections about my translation please create an issue.
