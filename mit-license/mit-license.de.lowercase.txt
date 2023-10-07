@@ -1,0 +1,23 @@
+MIT Lizenz
+
+Copyright (c) <Jahr> <Copyright Inhaber>
+
+Jedem, der eine Kopie dieser Software und der zugehörigen
+Dokumentationsdateien (die "Software") erhält, wird hiermit kostenlos die
+Erlaubnis erteilt, ohne Einschränkung mit der Software zu handeln,
+einschließlich und ohne Einschränkung der Rechte zur Nutzung, zum Kopieren,
+Ändern, Zusammenführen, Veröffentlichen, Verteilen, Unterlizensieren und/oder
+Verkaufen von Kopien der Software, und Personen, denen die Software zur
+Verfügung gestellt wird, dies unter den folgenden Bedingungen zu gestatten:
+
+Der obige Urheberrechtshinweis und dieser Genehmigungshinweis müssen in allen
+Kopien oder wesentlichen Teilen der Software enthalten sein.
+
+Die Software wird ohne Mängelgewähr und ohne jegliche ausdrückliche oder
+stillschweigende Gewährleistung, einschließlich, aber nicht beschränkt auf die
+Gewährleistung der Marktgängigkeit, der Eignung für einen bestimmten Zweck und
+der Nichtverletzung von Rechten Dritter, zur Verfügung gestellt. Die Autoren
+oder Urheberrechtsinhaber sind in keinem Fall haftbar für Ansprüche, Schäden
+oder andere Verpflichtungen, ob in einer Vertrags- oder Haftungsklage, einer
+unerlaubten Handlung oder anderweitig, die sich aus oder in Verbindung mit der
+Software oder der Nutzung oder anderen Geschäften mit der Software ergeben.
